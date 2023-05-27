@@ -19,4 +19,4 @@ const veContract = {
 
 const data = await getNFTs(publicClient, veContract)
 
-writeMd(data, 'veEqual.md')
+writeMd(data, 'veEqual.md', 'ftm')

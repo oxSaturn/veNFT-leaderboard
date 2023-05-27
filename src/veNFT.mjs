@@ -90,18 +90,18 @@ export async function getNFTs(publicClient, veContract) {
     }, [])
 }
 
-export function writeMd(data, fileName) {
+export function writeMd(data, fileName, chain) {
   fs.writeFileSync(
     fileName,
     `
-  | Rank | Owner | Balance | NFTs Id |
+  | Rank | Owner | Voting Power | NFTs Id |
   | --- | --- | --- | --- |
   ${data
     .map(
       ([owner, balance, nfts], index) =>
         `| ${
           index + 1
-        } | [${owner}](https://debank.com/profile/${owner}) | ${balance.toLocaleString(
+        } | [${owner}](https://debank.com/profile/${owner}?chain=${chain}) | ${balance.toLocaleString(
           'en-US'
         )} | ${nfts.map((nft) => nft.id).join(', ')} |`
     )
