@@ -3,7 +3,7 @@ import { parseAbiItem } from 'viem'
 import fs from 'node:fs'
 import { abi } from './abi.mjs'
 
-const chunkSize = 2000n
+const chunkSize = 1024n
 // a function search for all the logs of a specific event
 // note that we can all search chunkSize blocks every time
 // so we need to do it multiple times to get all the logs
@@ -11,29 +11,37 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
   if (!toBlock) {
     toBlock = await publicClient.getBlockNumber()
   }
-  const fromBlock = toBlock - chunkSize
-  const logs = await publicClient.getLogs({
-    address: veContractAddress,
-    event: parseAbiItem(
-      'event Transfer(address indexed from, address indexed to, uint256 indexed tokenId)'
-    ),
-    args: {
-      from: '0x0000000000000000000000000000000000000000',
-    },
-    toBlock: toBlock,
-    fromBlock,
-  })
-  if (logs.length === 0) {
-    if (fromBlock === 0n) {
-      return 0
+  try {
+    const fromBlock = toBlock - chunkSize
+
+    const logs = await publicClient.getLogs({
+      address: veContractAddress,
+      event: parseAbiItem(
+        'event Transfer(address indexed from, address indexed to, uint256 indexed tokenId)'
+      ),
+      args: {
+        from: '0x0000000000000000000000000000000000000000',
+      },
+      toBlock: toBlock,
+      fromBlock,
+    })
+    if (logs.length === 0) {
+      if (fromBlock === 0n) {
+        return 0
+      }
+      return await getMaxNFTId(
+        publicClient,
+        veContractAddress,
+        fromBlock - chunkSize
+      )
+    } else {
+      return Number(logs[logs.length - 1].args.tokenId)
     }
-    return await getMaxNFTId(
-      publicClient,
-      veContractAddress,
-      fromBlock - chunkSize
-    )
-  } else {
-    return Number(logs[logs.length - 1].args.tokenId)
+  } catch (err) {
+    // sleep 1 min
+    await new Promise((resolve) => setTimeout(resolve, 60000))
+    // retry
+    return await getMaxNFTId(publicClient, veContractAddress, toBlock)
   }
 }
 
@@ -96,7 +104,8 @@ export async function getNFTs(publicClient, veContractAddress) {
 export function writeMd(data, fileName, chain) {
   fs.writeFileSync(
     fileName,
-    `
+    `## ${fileName.replace('.md', '')}
+
   | Rank | Owner | Voting Power | NFTs Id |
   | --- | --- | --- | --- |
   ${data
