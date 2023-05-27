@@ -1,7 +1,6 @@
 import { createPublicClient, http } from 'viem'
 import { fantom } from 'viem/chains'
 
-import { abi } from './abi.mjs'
 import { getNFTs, writeMd } from './veNFT.mjs'
 
 // veEqual
@@ -12,11 +11,6 @@ const publicClient = createPublicClient({
   transport: http('https://rpc.fantom.network'),
 })
 
-const veContract = {
-  address: veContractAddress,
-  abi,
-}
-
-const data = await getNFTs(publicClient, veContract)
+const data = await getNFTs(publicClient, veContractAddress)
 
 writeMd(data, 'veEqual.md', 'ftm')

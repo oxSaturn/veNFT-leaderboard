@@ -1,6 +1,7 @@
 import { formatUnits } from 'viem'
 import { parseAbiItem } from 'viem'
 import fs from 'node:fs'
+import { abi } from './abi.mjs'
 
 const chunkSize = 2000n
 // a function search for all the logs of a specific event
@@ -36,15 +37,16 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
   }
 }
 
-export async function getNFTs(publicClient, veContract) {
-  const maxNFTId = await getMaxNFTId(publicClient, veContract.address)
+export async function getNFTs(publicClient, veContractAddress) {
+  const maxNFTId = await getMaxNFTId(publicClient, veContractAddress)
   // generate a multicall with all the calls you want to make
   // generate an array of maxNFTNumber length, and fill with number beginning at 1
   const nfts = [...Array(maxNFTId).keys()].map((nft) => nft + 1)
   const balances = await publicClient.multicall({
     multicallAddress: '0xcA11bde05977b3631167028862bE2a173976CA11',
     contracts: nfts.map((nft) => ({
-      ...veContract,
+      address: veContractAddress,
+      abi: abi,
       functionName: 'balanceOfNFT',
       args: [nft],
     })),
@@ -54,7 +56,8 @@ export async function getNFTs(publicClient, veContract) {
   const owners = await publicClient.multicall({
     multicallAddress: '0xcA11bde05977b3631167028862bE2a173976CA11',
     contracts: nfts.map((nft) => ({
-      ...veContract,
+      address: veContractAddress,
+      abi: abi,
       functionName: 'ownerOf',
       args: [nft],
     })),
