@@ -2,30 +2,55 @@ import { createPublicClient, formatUnits, http } from 'viem'
 import { parseAbiItem } from 'viem'
 import fs from 'node:fs'
 import { abi } from './abi.mjs'
-import { arbitrum, canto, fantom } from 'viem/chains'
+import { arbitrum, canto, fantom, optimism, zkSync } from 'viem/chains'
 
+const batch = {
+  multicall: {
+    wait: 16, // ms
+  },
+}
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
   transport: http(undefined, {
     // might run into rate limiting issues
     // {"code":429,"message":"Public RPC Rate Limit Hit, limit will reset in 60 seconds"}
-    retryDelay: 60_000,
+    retryDelay: 61_000,
   }),
+  batch,
 })
 
 export const cantoPublicClient = createPublicClient({
   chain: canto,
   transport: http('https://mainnode.plexnode.org:8545', {
-    retryDelay: 60_000,
+    retryDelay: 61_000,
   }),
+  batch,
 })
 
 export const fantomPublicClient = createPublicClient({
   chain: fantom,
   transport: http('https://rpc.fantom.network'),
+  batch,
 })
 
-const chunkSize = 1020n
+export const optimismPublicClient = createPublicClient({
+  chain: optimism,
+  transport: http('https://1rpc.io/op', {
+    retryDelay: 61_000,
+  }),
+  batch,
+})
+
+export const zkSyncPublicClient = createPublicClient({
+  chain: zkSync,
+  transport: http(undefined, {
+    retryDelay: 61_000,
+  }),
+  batch,
+})
+
+// different rpcs will support different chunk sizes
+const chunkSize = 10000n
 // rpcs won't allow searching for more than x blocks at a time
 async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
   if (!toBlock) {
@@ -64,13 +89,19 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
 }
 
 export async function getNFTs(publicClient, veContractAddress) {
+  const t0 = performance.now()
+
   const maxNFTId = await getMaxNFTId(publicClient, veContractAddress)
+
+  const t1 = performance.now()
+  console.log(`getMaxNFTId took ${t1 - t0}ms`)
   console.log('maxNFTId', maxNFTId)
   // generate a multicall with all the calls you want to make
   // generate an array of maxNFTNumber length, and fill with number beginning at 1
   const nfts = [...Array(maxNFTId).keys()].map((nft) => nft + 1)
+
+  // velodrome has huge maxNFTId > 25k, which means it will take a long time to get all the balances
   const [totalSupply, ...balances] = await publicClient.multicall({
-    multicallAddress: '0xcA11bde05977b3631167028862bE2a173976CA11',
     contracts: [
       {
         address: veContractAddress,
@@ -88,8 +119,10 @@ export async function getNFTs(publicClient, veContractAddress) {
     allowFailure: false,
   })
 
+  const t2 = performance.now()
+  console.log(`multicall balances took ${t2 - t1}ms`)
+
   const owners = await publicClient.multicall({
-    multicallAddress: '0xcA11bde05977b3631167028862bE2a173976CA11',
     contracts: nfts.map((nft) => ({
       address: veContractAddress,
       abi: abi,
@@ -98,6 +131,9 @@ export async function getNFTs(publicClient, veContractAddress) {
     })),
     allowFailure: false,
   })
+
+  const t3 = performance.now()
+  console.log(`multicall owners took ${t3 - t2}ms`)
 
   const data = nfts
     .map((nft, index) => ({

@@ -6,3 +6,4 @@ veNFT Leaderboard is a leaderboard for the top veNFT holders.
 - [Ramses](veRAM.md) on Arbitrum
 - [Chronos](veCHR.md) on Arbitrum
 - [Velocimeter](veFlow.md) on Canto
+- [Velocore](veVC.md) on ZkSync Era
