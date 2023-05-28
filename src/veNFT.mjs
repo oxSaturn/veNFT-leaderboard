@@ -15,7 +15,9 @@ export const arbitrumPublicClient = createPublicClient({
 
 export const cantoPublicClient = createPublicClient({
   chain: canto,
-  transport: http('https://mainnode.plexnode.org:8545'),
+  transport: http('https://mainnode.plexnode.org:8545', {
+    retryDelay: 60_000,
+  }),
 })
 
 export const fantomPublicClient = createPublicClient({
@@ -23,10 +25,8 @@ export const fantomPublicClient = createPublicClient({
   transport: http('https://rpc.fantom.network'),
 })
 
-const chunkSize = 1024n
-// a function search for all the logs of a specific event
-// note that we can all search chunkSize blocks every time
-// so we need to do it multiple times to get all the logs
+const chunkSize = 1020n
+// rpcs won't allow searching for more than x blocks at a time
 async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
   if (!toBlock) {
     toBlock = await publicClient.getBlockNumber()
@@ -50,13 +50,9 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
       if (fromBlock === 0n) {
         return 0
       }
-      return await getMaxNFTId(
-        publicClient,
-        veContractAddress,
-        fromBlock - chunkSize
-      )
+      return await getMaxNFTId(publicClient, veContractAddress, fromBlock)
     } else {
-      return Number(logs[logs.length - 1].args.tokenId)
+      return Math.max(...logs.map((log) => Number(log.args.tokenId)))
     }
   } catch (err) {
     console.log('something wrong', err)
