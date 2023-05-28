@@ -11,12 +11,7 @@ const batch = {
 }
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: http(undefined, {
-    // might run into rate limiting issues
-    // {"code":429,"message":"Public RPC Rate Limit Hit, limit will reset in 60 seconds"}
-    retryDelay: 61_000,
-  }),
-  batch,
+  transport: http(),
 })
 
 export const cantoPublicClient = createPublicClient({
@@ -30,29 +25,37 @@ export const cantoPublicClient = createPublicClient({
 export const fantomPublicClient = createPublicClient({
   chain: fantom,
   transport: http('https://rpc.fantom.network'),
-  batch,
 })
 
+// too many api limits on optimism
+// https://docs.blockpi.io/documentations/pricing
 export const optimismPublicClient = createPublicClient({
   chain: optimism,
-  transport: http('https://1rpc.io/op', {
+  transport: http('https://optimism.blockpi.network/v1/rpc/public', {
     retryDelay: 61_000,
   }),
-  batch,
+  batch: {
+    multicall: {
+      wait: 3000, // ms
+    },
+  },
 })
 
 export const zkSyncPublicClient = createPublicClient({
   chain: zkSync,
-  transport: http(undefined, {
-    retryDelay: 61_000,
-  }),
-  batch,
+  transport: http(),
 })
 
 // different rpcs will support different chunk sizes
-const chunkSize = 10000n
-// rpcs won't allow searching for more than x blocks at a time
-async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
+// most supports 10000n
+// while some like op only supports 1024n for eth_getLogs
+
+async function getMaxNFTId(
+  publicClient,
+  veContractAddress,
+  toBlock,
+  chunkSize = 10000n
+) {
   if (!toBlock) {
     toBlock = await publicClient.getBlockNumber()
     console.log('blockNumber', toBlock)
@@ -75,7 +78,12 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
       if (fromBlock === 0n) {
         return 0
       }
-      return await getMaxNFTId(publicClient, veContractAddress, fromBlock)
+      return await getMaxNFTId(
+        publicClient,
+        veContractAddress,
+        fromBlock,
+        chunkSize
+      )
     } else {
       return Math.max(...logs.map((log) => Number(log.args.tokenId)))
     }
@@ -88,10 +96,14 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
   }
 }
 
-export async function getNFTs(publicClient, veContractAddress) {
+export async function getNFTs(
+  publicClient,
+  veContractAddress,
+  chunkSize = 10000n
+) {
   const t0 = performance.now()
 
-  const maxNFTId = await getMaxNFTId(publicClient, veContractAddress)
+  const maxNFTId = await getMaxNFTId(publicClient, veContractAddress, chunkSize)
 
   const t1 = performance.now()
   console.log(`getMaxNFTId took ${t1 - t0}ms`)
@@ -175,6 +187,8 @@ Total Owners: ${data.length}, Total NFTs: ${data.reduce(
       (acc, [_, __, ___, nfts]) => acc + nfts.length,
       0
     )}
+
+Last built: ${new Date().toUTCString()}
 
 | Rank | Owner | Voting Power | Influence | NFTs Id |
 | --- | --- | --- | --- | --- |
