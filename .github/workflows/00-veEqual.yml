@@ -1,0 +1,23 @@
+name: npm run ve:Equal
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Run script
+        run: npm run ve:Equal
+      - name: Commit changes
+        run: |
+          git config --global user.email "oxSaturn@proton.me"
+          git config --global user.name "oxSaturn"
+          git add .
+          git commit -m "Run ve:Equal"
+          git push
