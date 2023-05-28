@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "veEqual": "node src/veEqual.mjs",
-    "veRAM": "node src/veRAM.mjs",
-    "veCHR": "node src/veCHR.mjs",
-    "veFlow": "node src/veFlow.mjs"
+    "ve:Equal": "node src/veEqual.mjs",
+    "ve:RAM": "node src/veRAM.mjs",
+    "ve:CHR": "node src/veCHR.mjs",
+    "ve:Flow": "node src/veFlow.mjs"
   },
   "keywords": [],
   "author": "oxSaturn",

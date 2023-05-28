@@ -1,7 +1,27 @@
-import { formatUnits } from 'viem'
+import { createPublicClient, formatUnits, http } from 'viem'
 import { parseAbiItem } from 'viem'
 import fs from 'node:fs'
 import { abi } from './abi.mjs'
+import { arbitrum, canto, fantom } from 'viem/chains'
+
+export const arbitrumPublicClient = createPublicClient({
+  chain: arbitrum,
+  transport: http(undefined, {
+    // might run into rate limiting issues
+    // {"code":429,"message":"Public RPC Rate Limit Hit, limit will reset in 60 seconds"}
+    retryDelay: 60_000,
+  }),
+})
+
+export const cantoPublicClient = createPublicClient({
+  chain: canto,
+  transport: http('https://mainnode.plexnode.org:8545'),
+})
+
+export const fantomPublicClient = createPublicClient({
+  chain: fantom,
+  transport: http('https://rpc.fantom.network'),
+})
 
 const chunkSize = 1024n
 // a function search for all the logs of a specific event
@@ -10,6 +30,7 @@ const chunkSize = 1024n
 async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
   if (!toBlock) {
     toBlock = await publicClient.getBlockNumber()
+    console.log('blockNumber', toBlock)
   }
   try {
     const fromBlock = toBlock - chunkSize
@@ -38,15 +59,17 @@ async function getMaxNFTId(publicClient, veContractAddress, toBlock) {
       return Number(logs[logs.length - 1].args.tokenId)
     }
   } catch (err) {
-    // sleep 1 min
-    await new Promise((resolve) => setTimeout(resolve, 60000))
-    // retry
-    return await getMaxNFTId(publicClient, veContractAddress, toBlock)
+    console.log('something wrong', err)
+    // // sleep 1 min
+    // await new Promise((resolve) => setTimeout(resolve, 60000))
+    // // retry
+    // return await getMaxNFTId(publicClient, veContractAddress, toBlock)
   }
 }
 
 export async function getNFTs(publicClient, veContractAddress) {
   const maxNFTId = await getMaxNFTId(publicClient, veContractAddress)
+  console.log('maxNFTId', maxNFTId)
   // generate a multicall with all the calls you want to make
   // generate an array of maxNFTNumber length, and fill with number beginning at 1
   const nfts = [...Array(maxNFTId).keys()].map((nft) => nft + 1)
@@ -121,8 +144,8 @@ Total Owners: ${data.length}, Total NFTs: ${data.reduce(
       0
     )}
 
-  | Rank | Owner | Voting Power | Influence | NFTs Id |
-  | --- | --- | --- | --- | --- |
+| Rank | Owner | Voting Power | Influence | NFTs Id |
+| --- | --- | --- | --- | --- |
   ${data
     .map(
       ([owner, balance, influence, nfts], index) =>
