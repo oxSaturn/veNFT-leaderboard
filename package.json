@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "veEqual": "node src/veEqual.mjs",
+    "veRAM": "node src/veRAM.mjs",
+    "veCHR": "node src/veCHR.mjs",
+    "veFlow": "node src/veFlow.mjs"
   },
   "keywords": [],
   "author": "oxSaturn",

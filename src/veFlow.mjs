@@ -7,7 +7,7 @@ const veContractAddress = '0x8E003242406FBa53619769F31606ef2Ed8A65C00'
 
 const publicClient = createPublicClient({
   chain: canto,
-  transport: http(),
+  transport: http('https://mainnode.plexnode.org:8545'),
 })
 
 const data = await getNFTs(publicClient, veContractAddress)
