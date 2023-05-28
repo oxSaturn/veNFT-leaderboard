@@ -50,14 +50,22 @@ export async function getNFTs(publicClient, veContractAddress) {
   // generate a multicall with all the calls you want to make
   // generate an array of maxNFTNumber length, and fill with number beginning at 1
   const nfts = [...Array(maxNFTId).keys()].map((nft) => nft + 1)
-  const balances = await publicClient.multicall({
+  const [totalSupply, ...balances] = await publicClient.multicall({
     multicallAddress: '0xcA11bde05977b3631167028862bE2a173976CA11',
-    contracts: nfts.map((nft) => ({
-      address: veContractAddress,
-      abi: abi,
-      functionName: 'balanceOfNFT',
-      args: [nft],
-    })),
+    contracts: [
+      {
+        address: veContractAddress,
+        abi: abi,
+        functionName: 'totalSupply',
+        args: [],
+      },
+      ...nfts.map((nft) => ({
+        address: veContractAddress,
+        abi: abi,
+        functionName: 'balanceOfNFT',
+        args: [nft],
+      })),
+    ],
     allowFailure: false,
   })
 
@@ -78,7 +86,6 @@ export async function getNFTs(publicClient, veContractAddress) {
       balance: formatUnits(balances[index], 18),
       owner: owners[index],
     }))
-    .filter((x) => x.balance !== '0')
     .reduce((acc, obj) => {
       acc[obj.owner] = acc[obj.owner] || []
       acc[obj.owner].push(obj)
@@ -95,6 +102,9 @@ export async function getNFTs(publicClient, veContractAddress) {
         key,
         // sum all balances
         value.reduce((acc, obj) => acc + Number(obj.balance), 0),
+        // influence
+        value.reduce((acc, obj) => acc + Number(obj.balance), 0) /
+          Number(formatUnits(totalSupply, 18)),
         value,
       ])
       return acc
@@ -106,16 +116,23 @@ export function writeMd(data, fileName, chain) {
     fileName,
     `## ${fileName.replace('.md', '')}
 
-  | Rank | Owner | Voting Power | NFTs Id |
-  | --- | --- | --- | --- |
+Total Owners: ${data.length}, Total NFTs: ${data.reduce(
+      (acc, [_, __, ___, nfts]) => acc + nfts.length,
+      0
+    )}
+
+  | Rank | Owner | Voting Power | Influence | NFTs Id |
+  | --- | --- | --- | --- | --- |
   ${data
     .map(
-      ([owner, balance, nfts], index) =>
+      ([owner, balance, influence, nfts], index) =>
         `| ${
           index + 1
         } | [${owner}](https://debank.com/profile/${owner}?chain=${chain}) | ${balance.toLocaleString(
           'en-US'
-        )} | ${nfts.map((nft) => nft.id).join(', ')} |`
+        )} | ${(influence * 100).toFixed(5)}% | ${nfts
+          .map((nft) => nft.id)
+          .join(', ')} |`
     )
     .join('\n')}`
   )
