@@ -2,7 +2,7 @@ import { createPublicClient, formatUnits, http } from "viem";
 import { parseAbiItem } from "viem";
 import fs from "node:fs";
 import { abi } from "./abi.mjs";
-import { arbitrum, canto, fantom, optimism, zkSync } from "viem/chains";
+import { arbitrum, bsc, canto, fantom, optimism, zkSync } from "viem/chains";
 
 const batch = {
   multicall: {
@@ -48,6 +48,18 @@ export const optimismPublicClient = createPublicClient({
 export const zkSyncPublicClient = createPublicClient({
   chain: zkSync,
   transport: http(),
+});
+
+export const bnbPublicClient = createPublicClient({
+  chain: bsc,
+  transport: http("https://bsc-dataseed4.ninicoin.io", {
+    retryDelay: 1_000,
+  }),
+  batch: {
+    multicall: {
+      wait: 1000,
+    },
+  },
 });
 
 // different rpcs will support different chunk sizes

@@ -9,7 +9,8 @@
     "ve:CHR": "node src/veCHR.mjs",
     "ve:Flow": "node src/veFlow.mjs",
     "ve:Velo": "node src/veVelo.mjs",
-    "ve:VC": "node src/veVC.mjs"
+    "ve:VC": "node src/veVC.mjs",
+    "ve:THE": "node src/veTHE.mjs"
   },
   "keywords": [],
   "author": "oxSaturn",

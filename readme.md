@@ -25,6 +25,10 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 - [Velocore](veVC.md)
 
+### BNB
+
+- [Thena](veTHE.md)
+
 ## Contributing
 
 [Code are hosted on Github](https://github.com/oxSaturn/veNFT-leaderboard), feel free to submit a pull request if you want to support any other ve(3,3) protocols.
