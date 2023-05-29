@@ -1,8 +1,11 @@
 name: npm run ve:Equal
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "22 1 * * *"
+    - cron: "0 0 * * *" # 12:00 AM UTC
 
 jobs:
   run-script:
