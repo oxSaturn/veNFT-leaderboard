@@ -1,9 +1,6 @@
 name: npm run ve:VC
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 4 * * *" # 4:00 AM UTC
 
