@@ -2,6 +2,8 @@ veNFT Leaderboard is a leaderboard for the top veNFT holders.
 
 ## Supported ve(3,3) Protocols
 
+Most protocols get their data updated daily, except for those on Optimism, where RPCs are more strictly limited, and data might not be updated as frequently as on other protocols.
+
 ### Arbitrum
 
 - [Ramses](veRAM.md)

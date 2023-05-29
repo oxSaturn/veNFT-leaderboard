@@ -1,9 +1,6 @@
 name: npm run ve:Velo
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 3 * * *" # 3:00 AM UTC
 
