@@ -29,14 +29,18 @@ export const fantomPublicClient = createPublicClient({
 
 // too many api limits on optimism
 // https://docs.blockpi.io/documentations/pricing
+// free 100,000,000
+// https://docs.blockpi.io/documentations/request-unit-ru/optimism-ru-table
+// eth_call 20 ru
+// eth_getLogs 75 ru
 export const optimismPublicClient = createPublicClient({
   chain: optimism,
   transport: http("https://optimism.blockpi.network/v1/rpc/public", {
-    retryDelay: 61_000,
+    retryDelay: 120_000, // 2m
   }),
   batch: {
     multicall: {
-      wait: 3000, // ms
+      wait: 4000, // 4s
     },
   },
 });
