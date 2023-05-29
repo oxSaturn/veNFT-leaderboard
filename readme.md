@@ -1,12 +1,28 @@
 veNFT Leaderboard is a leaderboard for the top veNFT holders.
 
-## Supported Protocols
+## Supported ve(3,3) Protocols
 
-- [Velodrome](veVelo.md) on Optimism
-- [Velocimeter](veFlow.md) on Canto
-- [Equalizer](veEqual.md) on Fantom
-- [Ramses](veRAM.md) on Arbitrum
-- [Chronos](veCHR.md) on Arbitrum
-- [Velocore](veVC.md) on ZkSync Era
+### Arbitrum
 
-[Source Code on Github](https://github.com/oxSaturn/veNFT-leaderboard)
+- [Ramses](veRAM.md)
+- [Chronos](veCHR.md)
+
+### Optimism
+
+- [Velodrome](veVelo.md)
+
+### Canto
+
+- [Velocimeter](veFlow.md)
+
+### Fantom
+
+- [Equalizer](veEqual.md)
+
+### ZkSync Era
+
+- [Velocore](veVC.md)
+
+## Contributing
+
+[Code are hosted on Github](https://github.com/oxSaturn/veNFT-leaderboard), feel free to submit a pull request if you want to support any other ve(3,3) protocols.
