@@ -6,12 +6,12 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 ### Arbitrum
 
-- [Ramses](veRAM.md)
 - [Chronos](veCHR.md)
+- [Ramses](veRAM.md)
 
-### Optimism
+### BNB
 
-- [Velodrome](veVelo.md)
+- [Thena](veTHE.md)
 
 ### Canto
 
@@ -21,13 +21,13 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 - [Equalizer](veEqual.md)
 
+### Optimism
+
+- [Velodrome](veVelo.md)
+
 ### ZkSync Era
 
 - [Velocore](veVC.md)
-
-### BNB
-
-- [Thena](veTHE.md)
 
 ## Contributing
 
