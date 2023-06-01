@@ -15,7 +15,16 @@ export const arbitrumPublicClient = createPublicClient({
 });
 
 export const cantoPublicClient = createPublicClient({
-  chain: canto,
+  chain: {
+    ...canto,
+    contracts: {
+      ...canto.contracts,
+      multicall3: {
+        address: "0xca11bde05977b3631167028862be2a173976ca11",
+        blockCreated: 2905789,
+      },
+    },
+  },
   transport: http("https://mainnode.plexnode.org:8545", {
     retryDelay: 61_000,
   }),
