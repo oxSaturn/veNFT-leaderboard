@@ -1,666 +1,666 @@
 ## veFlow
 
-Total Owners: 658, Total NFTs: 1164
+Total Owners: 658, Total NFTs: 1165
 
-Last built: Mon, 05 Jun 2023 09:20:31 GMT
+Last built: Tue, 06 Jun 2023 06:12:51 GMT
 
 | Rank | Owner | Voting Power | Influence | NFTs Id |
 | --- | --- | --- | --- | --- |
-  | 1 | [0x13eeB8EdfF60BbCcB24Ec7Dd5668aa246525Dc51](https://debank.com/profile/0x13eeB8EdfF60BbCcB24Ec7Dd5668aa246525Dc51?chain=canto) | 69,630,881.811 | 23.19300% | >= 3 years:<br/>33, 34, 35, 36, 38, 39, 40, 41, 42, 47, 48, 49, 50, 55, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 73, 74, 75, 80, 139, 183 |
-| 2 | [0xcC06464C7bbCF81417c08563dA2E1847c22b703a](https://debank.com/profile/0xcC06464C7bbCF81417c08563dA2E1847c22b703a?chain=canto) | 23,243,059.199 | 7.74191% | >= 3 years:<br/>2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 377 |
-| 3 | [0x1bAe1083CF4125eD5dEeb778985C1Effac0ecC06](https://debank.com/profile/0x1bAe1083CF4125eD5dEeb778985C1Effac0ecC06?chain=canto) | 23,124,000.042 | 7.70226% | >= 3 years:<br/>29, 30, 31, 32, 51, 52, 53, 54, 85, 93<br/><br/>< 3 years:<br/>84, 90, 91 |
-| 4 | [0x06b16991B53632C2362267579AE7C4863c72fDb8](https://debank.com/profile/0x06b16991B53632C2362267579AE7C4863c72fDb8?chain=canto) | 12,779,329.467 | 4.25660% | >= 3 years:<br/>20, 21, 22, 765 |
-| 5 | [0x0b776552c1Aef1Dc33005DD25AcDA22493b6615d](https://debank.com/profile/0x0b776552c1Aef1Dc33005DD25AcDA22493b6615d?chain=canto) | 12,599,892.365 | 4.19683% | >= 3 years:<br/>1, 17, 18, 19, 828 |
-| 6 | [0x78e801136F77805239A7F533521A7a5570F572C8](https://debank.com/profile/0x78e801136F77805239A7F533521A7a5570F572C8?chain=canto) | 12,078,837.04 | 4.02328% | >= 3 years:<br/>23, 24, 25 |
-| 7 | [0x03B88DacB7c21B54cEfEcC297D981E5b721A9dF1](https://debank.com/profile/0x03B88DacB7c21B54cEfEcC297D981E5b721A9dF1?chain=canto) | 12,059,627.608 | 4.01688% | >= 3 years:<br/>26, 27, 28 |
-| 8 | [0x069e85D4F1010DD961897dC8C095FBB5FF297434](https://debank.com/profile/0x069e85D4F1010DD961897dC8C095FBB5FF297434?chain=canto) | 8,334,702.668 | 2.77616% | >= 3 years:<br/>15, 16, 94, 95, 738, 739, 743 |
-| 9 | [0x13cB009A280bd617ec1C9dB97A2584A90F0b23F3](https://debank.com/profile/0x13cB009A280bd617ec1C9dB97A2584A90F0b23F3?chain=canto) | 6,005,843.725 | 2.00046% | >= 3 years:<br/>1085, 1086, 1089, 1130, 1131 |
-| 10 | [0xCba1A275e2D858EcffaF7a87F606f74B719a8A93](https://debank.com/profile/0xCba1A275e2D858EcffaF7a87F606f74B719a8A93?chain=canto) | 5,811,672.653 | 1.93578% | >= 3 years:<br/>215 |
-| 11 | [0xCFFC6e659DF622e2d41c7A879C76E6d33F37925E](https://debank.com/profile/0xCFFC6e659DF622e2d41c7A879C76E6d33F37925E?chain=canto) | 5,649,674.959 | 1.88182% | >= 3 years:<br/>406 |
-| 12 | [0xF09d213EE8a8B159C884b276b86E08E26B3bfF75](https://debank.com/profile/0xF09d213EE8a8B159C884b276b86E08E26B3bfF75?chain=canto) | 5,287,262.512 | 1.76111% | >= 3 years:<br/>100 |
-| 13 | [0x69224dbA1D77bfe6eA99409aB595d04631D95C22](https://debank.com/profile/0x69224dbA1D77bfe6eA99409aB595d04631D95C22?chain=canto) | 4,558,454.027 | 1.51835% | >= 3 years:<br/>96, 97, 98, 1136 |
-| 14 | [0x25C6fE5005d5cf4C7e665A9056B06856248E4f22](https://debank.com/profile/0x25C6fE5005d5cf4C7e665A9056B06856248E4f22?chain=canto) | 4,354,474.923 | 1.45041% | < 3 years:<br/>1133 |
-| 15 | [0x4F09B919d969b58A96E8BD7673f12372D09395E8](https://debank.com/profile/0x4F09B919d969b58A96E8BD7673f12372D09395E8?chain=canto) | 4,099,890.835 | 1.36561% | >= 3 years:<br/>43 |
-| 16 | [0x548a6b2CbDb368c90a8E9FAFAD5A478f71B67076](https://debank.com/profile/0x548a6b2CbDb368c90a8E9FAFAD5A478f71B67076?chain=canto) | 4,085,393.322 | 1.36078% | >= 3 years:<br/>86, 87, 88, 1147 |
-| 17 | [0xae8003c792CDEefd54f93E98481a8d58cAdd30aa](https://debank.com/profile/0xae8003c792CDEefd54f93E98481a8d58cAdd30aa?chain=canto) | 3,731,528.651 | 1.24292% | < 3 years:<br/>1140, 1141, 1142, 1144, 1156 |
-| 18 | [0xD204E3dC1937d3a30fc6F20ABc48AC5506C94D1E](https://debank.com/profile/0xD204E3dC1937d3a30fc6F20ABc48AC5506C94D1E?chain=canto) | 3,228,833.833 | 1.07548% | >= 3 years:<br/>44 |
-| 19 | [0xfF2AD84b31f046dECC8A4F627c7cf81fe61FF54b](https://debank.com/profile/0xfF2AD84b31f046dECC8A4F627c7cf81fe61FF54b?chain=canto) | 3,210,386.881 | 1.06933% | >= 3 years:<br/>45 |
-| 20 | [0xF6ec240620aD5288028ad1F96D8725db0c838B90](https://debank.com/profile/0xF6ec240620aD5288028ad1F96D8725db0c838B90?chain=canto) | 3,139,122.367 | 1.04559% | >= 3 years:<br/>37, 455 |
-| 21 | [0xa31d50414535263A9b217C7A517253Db0E9e8519](https://debank.com/profile/0xa31d50414535263A9b217C7A517253Db0E9e8519?chain=canto) | 3,019,709.26 | 1.00582% | >= 3 years:<br/>46 |
-| 22 | [0x1e4E1d10BA1c34dF8b48d5bC8508D6644431ACc2](https://debank.com/profile/0x1e4E1d10BA1c34dF8b48d5bC8508D6644431ACc2?chain=canto) | 2,834,219.377 | 0.94404% | >= 3 years:<br/>785, 1077, 1084 |
-| 23 | [0xa7f37a4699dD344440341134e9f94a4E7BA83110](https://debank.com/profile/0xa7f37a4699dD344440341134e9f94a4E7BA83110?chain=canto) | 2,810,159.651 | 0.93602% | >= 3 years:<br/>76, 79, 81 |
-| 24 | [0xb6fB12999a09eFfdbcC6F60776331eacCc42E539](https://debank.com/profile/0xb6fB12999a09eFfdbcC6F60776331eacCc42E539?chain=canto) | 2,409,323.534 | 0.80251% | >= 3 years:<br/>252, 253, 399, 750, 751 |
-| 25 | [0x53a5dD07127739e5038cE81eff24ec503A6CC479](https://debank.com/profile/0x53a5dD07127739e5038cE81eff24ec503A6CC479?chain=canto) | 2,373,218.1 | 0.79048% | >= 3 years:<br/>835 |
-| 26 | [0x2F143CeE05f5BB2a15C2db55E31F6a9F9F81A5ea](https://debank.com/profile/0x2F143CeE05f5BB2a15C2db55E31F6a9F9F81A5ea?chain=canto) | 2,254,206.972 | 0.75084% | >= 3 years:<br/>402<br/><br/>< 3 years:<br/>1045 |
-| 27 | [0xC6493626be58Dc647A5103970Da5BcF9F7FdbFd2](https://debank.com/profile/0xC6493626be58Dc647A5103970Da5BcF9F7FdbFd2?chain=canto) | 2,158,684.99 | 0.71903% | >= 3 years:<br/>92 |
-| 28 | [0xF0e4e74Ce34738826477b9280776fc797506fE13](https://debank.com/profile/0xF0e4e74Ce34738826477b9280776fc797506fE13?chain=canto) | 1,987,417.268 | 0.66198% | >= 3 years:<br/>72, 287, 688 |
-| 29 | [0x50149b01f19c2D4A403B1FE4469c117a5cEdb4fc](https://debank.com/profile/0x50149b01f19c2D4A403B1FE4469c117a5cEdb4fc?chain=canto) | 1,879,917.004 | 0.62617% | >= 3 years:<br/>101 |
-| 30 | [0xe5Fae1A033AD8cb1355E8F19811380AfD15B8bBa](https://debank.com/profile/0xe5Fae1A033AD8cb1355E8F19811380AfD15B8bBa?chain=canto) | 1,800,881.004 | 0.59985% | >= 3 years:<br/>1041, 1042 |
-| 31 | [0x2b26dA567C2A8c220daF91be8E37A429D33AEF0B](https://debank.com/profile/0x2b26dA567C2A8c220daF91be8E37A429D33AEF0B?chain=canto) | 1,737,829.154 | 0.57884% | >= 3 years:<br/>652 |
-| 32 | [0xAA3736052423f768D224E38771F6D08802a6a3De](https://debank.com/profile/0xAA3736052423f768D224E38771F6D08802a6a3De?chain=canto) | 1,737,248.901 | 0.57865% | >= 3 years:<br/>71 |
-| 33 | [0x90F15E09B8Fb5BC080B968170C638920Db3A3446](https://debank.com/profile/0x90F15E09B8Fb5BC080B968170C638920Db3A3446?chain=canto) | 1,609,226.722 | 0.53601% | >= 3 years:<br/>210, 768, 769, 789 |
-| 34 | [0xA67D2c03c3cfe6177a60cAed0a4cfDA7C7a563e0](https://debank.com/profile/0xA67D2c03c3cfe6177a60cAed0a4cfDA7C7a563e0?chain=canto) | 1,521,113.525 | 0.50666% | >= 3 years:<br/>83 |
-| 35 | [0x8CeFecbd7658E86BaB727D24EBf5ba104ae1AAF0](https://debank.com/profile/0x8CeFecbd7658E86BaB727D24EBf5ba104ae1AAF0?chain=canto) | 1,510,531.935 | 0.50314% | >= 3 years:<br/>1076, 1081 |
-| 36 | [0x57702217d1cDbf4DF7110ABD91832216310B4062](https://debank.com/profile/0x57702217d1cDbf4DF7110ABD91832216310B4062?chain=canto) | 1,450,244.151 | 0.48305% | >= 3 years:<br/>160, 1129 |
-| 37 | [0x2B5A41eF9Ec5edcdAB420758CfFFCBE8A1d52F6D](https://debank.com/profile/0x2B5A41eF9Ec5edcdAB420758CfFFCBE8A1d52F6D?chain=canto) | 1,434,663.949 | 0.47787% | >= 3 years:<br/>1107, 1115 |
-| 38 | [0xA1bd107a3F1B8B6e83E0290Ed10561A0A8aF2D11](https://debank.com/profile/0xA1bd107a3F1B8B6e83E0290Ed10561A0A8aF2D11?chain=canto) | 1,261,443.982 | 0.42017% | >= 3 years:<br/>1087 |
-| 39 | [0xD7ec17Fb2A97B1c0b6cDA86B031678A11184D3df](https://debank.com/profile/0xD7ec17Fb2A97B1c0b6cDA86B031678A11184D3df?chain=canto) | 1,249,934.558 | 0.41633% | >= 3 years:<br/>844 |
-| 40 | [0x09b45D9e4D5f2a4388403B2AA97E7E4619cefb5F](https://debank.com/profile/0x09b45D9e4D5f2a4388403B2AA97E7E4619cefb5F?chain=canto) | 1,190,760.532 | 0.39662% | >= 3 years:<br/>1088 |
-| 41 | [0x169D49e0cB5Cb981d2602c7d17934AE10E2569C2](https://debank.com/profile/0x169D49e0cB5Cb981d2602c7d17934AE10E2569C2?chain=canto) | 1,171,040.216 | 0.39006% | >= 3 years:<br/>463 |
-| 42 | [0x427634084Fc822EDB362F368cfdb93cF2ABf143B](https://debank.com/profile/0x427634084Fc822EDB362F368cfdb93cF2ABf143B?chain=canto) | 1,116,678.712 | 0.37195% | >= 3 years:<br/>701 |
-| 43 | [0x50230fbfC593C92E55ae27d3F25633DdB9693Ef6](https://debank.com/profile/0x50230fbfC593C92E55ae27d3F25633DdB9693Ef6?chain=canto) | 1,096,347.884 | 0.36518% | >= 3 years:<br/>967, 968, 969, 970, 971, 975 |
-| 44 | [0xCFFE08BDf20918007f8Ab268C32f8756494fC8D8](https://debank.com/profile/0xCFFE08BDf20918007f8Ab268C32f8756494fC8D8?chain=canto) | 1,082,963.947 | 0.36072% | >= 3 years:<br/>538, 792, 1015<br/><br/>< 3 years:<br/>349, 724 |
-| 45 | [0xCAfc58De1E6A071790eFbB6B83b35397023E1544](https://debank.com/profile/0xCAfc58De1E6A071790eFbB6B83b35397023E1544?chain=canto) | 1,069,757.571 | 0.35632% | >= 3 years:<br/>82 |
-| 46 | [0xC5C821dE580A01f5979F3223cb2A34a8832eF3A4](https://debank.com/profile/0xC5C821dE580A01f5979F3223cb2A34a8832eF3A4?chain=canto) | 1,053,362.631 | 0.35086% | >= 3 years:<br/>77 |
-| 47 | [0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC](https://debank.com/profile/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC?chain=canto) | 1,015,400.612 | 0.33821% | >= 3 years:<br/>78 |
-| 48 | [0xBA1ee94032904bD9E8FE966a924355Fe5542b5A7](https://debank.com/profile/0xBA1ee94032904bD9E8FE966a924355Fe5542b5A7?chain=canto) | 1,007,382.47 | 0.33554% | >= 3 years:<br/>89 |
-| 49 | [0xd8d9A3F4f013722db285e16fEB2751501c87907E](https://debank.com/profile/0xd8d9A3F4f013722db285e16fEB2751501c87907E?chain=canto) | 1,007,325.091 | 0.33552% | >= 3 years:<br/>611 |
-| 50 | [0xCccaCBFa941D79F5B54eCBaF4D74A2B9C9a5d8FF](https://debank.com/profile/0xCccaCBFa941D79F5B54eCBaF4D74A2B9C9a5d8FF?chain=canto) | 1,005,380.474 | 0.33488% | >= 3 years:<br/>1159 |
-| 51 | [0x2d1bdC590Cb736097Bc5577c8974e28dc48F5ECc](https://debank.com/profile/0x2d1bdC590Cb736097Bc5577c8974e28dc48F5ECc?chain=canto) | 1,000,244.201 | 0.33317% | >= 3 years:<br/>390, 391, 392, 393, 395, 396, 397, 726, 728, 747, 900, 958<br/><br/>< 3 years:<br/>725, 727 |
-| 52 | [0x995F09D33AB1DbC68F6AB1f775E518b5fE842fB5](https://debank.com/profile/0x995F09D33AB1DbC68F6AB1f775E518b5fE842fB5?chain=canto) | 984,665.089 | 0.32798% | >= 3 years:<br/>1090 |
-| 53 | [0x2fcC020F72E5d2EdD2a24D04f3Dc90D7fDFbD1DD](https://debank.com/profile/0x2fcC020F72E5d2EdD2a24D04f3Dc90D7fDFbD1DD?chain=canto) | 885,941.193 | 0.29509% | >= 3 years:<br/>827 |
-| 54 | [0x0ddA3228B0729BfE7698988A669B81d4A306A8Ea](https://debank.com/profile/0x0ddA3228B0729BfE7698988A669B81d4A306A8Ea?chain=canto) | 847,737.124 | 0.28237% | >= 3 years:<br/>1065, 1066, 1067, 1068, 1069, 1092, 1093 |
-| 55 | [0x397A7EC90bb4f0e89Ffd2Fb3269a3ef295d4f84A](https://debank.com/profile/0x397A7EC90bb4f0e89Ffd2Fb3269a3ef295d4f84A?chain=canto) | 837,984.826 | 0.27912% | >= 3 years:<br/>782 |
-| 56 | [0xA6Ab028bd3945F769CDb4896EF3371019b776BB4](https://debank.com/profile/0xA6Ab028bd3945F769CDb4896EF3371019b776BB4?chain=canto) | 792,090.379 | 0.26383% | >= 3 years:<br/>1082 |
-| 57 | [0x3bce96AB4cABd0b8514E42A84A074403413863a8](https://debank.com/profile/0x3bce96AB4cABd0b8514E42A84A074403413863a8?chain=canto) | 749,657.472 | 0.24970% | >= 3 years:<br/>1034 |
-| 58 | [0xf8F53D1Da544f587E5639DD547328CBd9F3Ddda0](https://debank.com/profile/0xf8F53D1Da544f587E5639DD547328CBd9F3Ddda0?chain=canto) | 743,150.177 | 0.24753% | >= 3 years:<br/>1037 |
-| 59 | [0xF0856528194E7C04d4f71782ECa7d4446082A75F](https://debank.com/profile/0xF0856528194E7C04d4f71782ECa7d4446082A75F?chain=canto) | 739,522.685 | 0.24632% | >= 3 years:<br/>1035 |
-| 60 | [0x22Cf84e1DeB9a0Ce86d1533e438d6cdA9d289927](https://debank.com/profile/0x22Cf84e1DeB9a0Ce86d1533e438d6cdA9d289927?chain=canto) | 739,502.802 | 0.24632% | >= 3 years:<br/>1036 |
-| 61 | [0x0a3043F9d2b1c6cCfc492EB59Af5156F378c57BD](https://debank.com/profile/0x0a3043F9d2b1c6cCfc492EB59Af5156F378c57BD?chain=canto) | 685,022.962 | 0.22817% | >= 3 years:<br/>189, 254, 334, 1153, 1154, 1155 |
-| 62 | [0x3C2d6d7144241F1F1203c29C124585e55B58975E](https://debank.com/profile/0x3C2d6d7144241F1F1203c29C124585e55B58975E?chain=canto) | 651,144.858 | 0.21689% | >= 3 years:<br/>123, 907, 1126 |
-| 63 | [0x684c350D9A0569A07454D778134f04406315a5b8](https://debank.com/profile/0x684c350D9A0569A07454D778134f04406315a5b8?chain=canto) | 591,587.097 | 0.19705% | >= 3 years:<br/>1047, 1071 |
-| 64 | [0x486A0e4897018B286b7b2bfe63476AaD1437A040](https://debank.com/profile/0x486A0e4897018B286b7b2bfe63476AaD1437A040?chain=canto) | 521,418.126 | 0.17368% | >= 3 years:<br/>1118 |
-| 65 | [0xC9eebecb1d0AfF4fb2B9978516E075A33639892C](https://debank.com/profile/0xC9eebecb1d0AfF4fb2B9978516E075A33639892C?chain=canto) | 497,137.784 | 0.16559% | >= 3 years:<br/>106 |
-| 66 | [0x5A1a3dff949225E39767Ca981218756DB47C7d8c](https://debank.com/profile/0x5A1a3dff949225E39767Ca981218756DB47C7d8c?chain=canto) | 434,249.358 | 0.14464% | >= 3 years:<br/>200, 436 |
-| 67 | [0xaA970e6bD6E187492f8327e514c9E8c36c81f11E](https://debank.com/profile/0xaA970e6bD6E187492f8327e514c9E8c36c81f11E?chain=canto) | 350,414.105 | 0.11672% | >= 3 years:<br/>104, 110, 1078 |
-| 68 | [0x6a27d11E78b97d15DE5edbE5cf1fA3619466fe3e](https://debank.com/profile/0x6a27d11E78b97d15DE5edbE5cf1fA3619466fe3e?chain=canto) | 347,812.936 | 0.11585% | >= 3 years:<br/>308, 426 |
-| 69 | [0x55BC5E6Ad29DA823854822749FD2Eda2775C78bd](https://debank.com/profile/0x55BC5E6Ad29DA823854822749FD2Eda2775C78bd?chain=canto) | 318,786.762 | 0.10618% | >= 3 years:<br/>446 |
-| 70 | [0x9aCf8D0315094d33Aa6875B673EB126483C3A2c0](https://debank.com/profile/0x9aCf8D0315094d33Aa6875B673EB126483C3A2c0?chain=canto) | 304,993.574 | 0.10159% | >= 3 years:<br/>428, 1096, 1161 |
-| 71 | [0x8A94DB91F5a6e5b8a8bFDae9c60D49aEe03E860F](https://debank.com/profile/0x8A94DB91F5a6e5b8a8bFDae9c60D49aEe03E860F?chain=canto) | 298,436.72 | 0.09940% | >= 3 years:<br/>322 |
-| 72 | [0x8d26C9DAC7E16738752fa1446b956A97C63e2F39](https://debank.com/profile/0x8d26C9DAC7E16738752fa1446b956A97C63e2F39?chain=canto) | 296,843.011 | 0.09887% | >= 3 years:<br/>1005 |
-| 73 | [0x3c86f7e3D52b4084c73E3612775eC8b9bc6721Ec](https://debank.com/profile/0x3c86f7e3D52b4084c73E3612775eC8b9bc6721Ec?chain=canto) | 291,730.004 | 0.09717% | >= 3 years:<br/>772 |
-| 74 | [0x7c22953Bf2245A8298baf26D586Bd4b08a87caaa](https://debank.com/profile/0x7c22953Bf2245A8298baf26D586Bd4b08a87caaa?chain=canto) | 287,996.125 | 0.09593% | >= 3 years:<br/>103, 905, 1098 |
-| 75 | [0x714C8A1DB40eedc9240AF30bB25D5440796536aa](https://debank.com/profile/0x714C8A1DB40eedc9240AF30bB25D5440796536aa?chain=canto) | 274,712.431 | 0.09150% | >= 3 years:<br/>586, 906, 964, 1099 |
-| 76 | [0xf37f3490C27e4CD822B56F16c59bc318Ba3551AD](https://debank.com/profile/0xf37f3490C27e4CD822B56F16c59bc318Ba3551AD?chain=canto) | 250,570.919 | 0.08346% | >= 3 years:<br/>848 |
-| 77 | [0x35128c4263aA0213c59A897Fd31d8C837E8B71C8](https://debank.com/profile/0x35128c4263aA0213c59A897Fd31d8C837E8B71C8?chain=canto) | 249,713.025 | 0.08318% | >= 3 years:<br/>186 |
-| 78 | [0x4A80f927126eC56c1E6773805fFa03A04216b293](https://debank.com/profile/0x4A80f927126eC56c1E6773805fFa03A04216b293?chain=canto) | 248,840.389 | 0.08288% | >= 3 years:<br/>279, 540 |
-| 79 | [0xAE886e2A6AA00e98C0C7b1e4885f94a2dB720690](https://debank.com/profile/0xAE886e2A6AA00e98C0C7b1e4885f94a2dB720690?chain=canto) | 244,813.204 | 0.08154% | >= 3 years:<br/>190, 609, 790, 897, 955 |
-| 80 | [0x0709B103d46d71458a71e5d81230DD688809A53D](https://debank.com/profile/0x0709B103d46d71458a71e5d81230DD688809A53D?chain=canto) | 242,536.369 | 0.08079% | >= 3 years:<br/>1083 |
-| 81 | [0x3c5Aac016EF2F178e8699D6208796A2D67557fe2](https://debank.com/profile/0x3c5Aac016EF2F178e8699D6208796A2D67557fe2?chain=canto) | 233,434.182 | 0.07775% | >= 3 years:<br/>434 |
-| 82 | [0x9b25235ee2e5564F50810E03eA5F91976A8EE6fA](https://debank.com/profile/0x9b25235ee2e5564F50810E03eA5F91976A8EE6fA?chain=canto) | 199,100.501 | 0.06632% | >= 3 years:<br/>234, 558 |
-| 83 | [0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2](https://debank.com/profile/0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2?chain=canto) | 179,426.494 | 0.05976% | >= 3 years:<br/>323 |
-| 84 | [0x62D6E8C7c03D3Fc6276d3A44977C2501593BB90A](https://debank.com/profile/0x62D6E8C7c03D3Fc6276d3A44977C2501593BB90A?chain=canto) | 178,402.12 | 0.05942% | >= 3 years:<br/>777, 901, 959 |
-| 85 | [0xf889B1D99b440AAa48839D7032088d96f7b3bceb](https://debank.com/profile/0xf889B1D99b440AAa48839D7032088d96f7b3bceb?chain=canto) | 177,893.624 | 0.05925% | >= 3 years:<br/>383, 1074<br/><br/>< 3 years:<br/>862 |
-| 86 | [0x5fA275BA9F04BDC906084478Dbf41CBE29388C5d](https://debank.com/profile/0x5fA275BA9F04BDC906084478Dbf41CBE29388C5d?chain=canto) | 177,892.669 | 0.05925% | >= 3 years:<br/>855, 903, 961, 1103 |
-| 87 | [0x16f7773b109662294bE355D9C554fBFE2eF24147](https://debank.com/profile/0x16f7773b109662294bE355D9C554fBFE2eF24147?chain=canto) | 159,516.38 | 0.05313% | >= 3 years:<br/>763 |
-| 88 | [0xAd789Eb3042dDE224CbBcacf0b57399de0807502](https://debank.com/profile/0xAd789Eb3042dDE224CbBcacf0b57399de0807502?chain=canto) | 150,085.463 | 0.04999% | >= 3 years:<br/>657 |
-| 89 | [0x951B6d50D07C39b0f97A7bb2F5c1e96F07a093d3](https://debank.com/profile/0x951B6d50D07C39b0f97A7bb2F5c1e96F07a093d3?chain=canto) | 141,614.372 | 0.04717% | >= 3 years:<br/>791 |
-| 90 | [0xBe26f41cBc89B8f6938871854d8699Ee45eA4d61](https://debank.com/profile/0xBe26f41cBc89B8f6938871854d8699Ee45eA4d61?chain=canto) | 136,135.728 | 0.04534% | >= 3 years:<br/>479 |
-| 91 | [0x5D58EDC7a7C91239Ec2FD56a646679780886323c](https://debank.com/profile/0x5D58EDC7a7C91239Ec2FD56a646679780886323c?chain=canto) | 133,674.096 | 0.04452% | >= 3 years:<br/>1152 |
-| 92 | [0xC438E5d32f9381b59072b9a0c730Cbac41575A4E](https://debank.com/profile/0xC438E5d32f9381b59072b9a0c730Cbac41575A4E?chain=canto) | 124,110.326 | 0.04134% | >= 3 years:<br/>204, 898, 956, 1102 |
-| 93 | [0xb14d56ce29dADE0316EA5Df06D491636a7c4F3C8](https://debank.com/profile/0xb14d56ce29dADE0316EA5Df06D491636a7c4F3C8?chain=canto) | 119,801.644 | 0.03990% | >= 3 years:<br/>668 |
-| 94 | [0xCcca25ac5C1615bA9b4f0225eBAed20168Ad1434](https://debank.com/profile/0xCcca25ac5C1615bA9b4f0225eBAed20168Ad1434?chain=canto) | 117,856.693 | 0.03926% | >= 3 years:<br/>656 |
-| 95 | [0x5A2f17CA66dCEeD4C21253Af1663B5dB17B066Dc](https://debank.com/profile/0x5A2f17CA66dCEeD4C21253Af1663B5dB17B066Dc?chain=canto) | 115,431.082 | 0.03845% | >= 3 years:<br/>602<br/><br/>< 3 years:<br/>929 |
-| 96 | [0x6b61Dc88F642b9c5e5a16515281Fa9b397028048](https://debank.com/profile/0x6b61Dc88F642b9c5e5a16515281Fa9b397028048?chain=canto) | 114,515.191 | 0.03814% | >= 3 years:<br/>405 |
-| 97 | [0x063e340ed6bf775F2e8bda507F9CE4816109EB6E](https://debank.com/profile/0x063e340ed6bf775F2e8bda507F9CE4816109EB6E?chain=canto) | 114,166.979 | 0.03803% | >= 3 years:<br/>1070 |
-| 98 | [0x9076DD7dBc8e8eE5A4aC72924Cd852D27a605b52](https://debank.com/profile/0x9076DD7dBc8e8eE5A4aC72924Cd852D27a605b52?chain=canto) | 113,436.666 | 0.03778% | >= 3 years:<br/>578 |
-| 99 | [0x30FC315f8DDBFdfAe3cEf41d7e1BF818e9c99418](https://debank.com/profile/0x30FC315f8DDBFdfAe3cEf41d7e1BF818e9c99418?chain=canto) | 112,694.077 | 0.03754% | >= 3 years:<br/>568 |
-| 100 | [0xD1A0B66835D830e9ada42eEf436f3AA8005b20B5](https://debank.com/profile/0xD1A0B66835D830e9ada42eEf436f3AA8005b20B5?chain=canto) | 110,821.244 | 0.03691% | >= 3 years:<br/>178 |
-| 101 | [0x91ddEb35264287785762e666B5fba5Da9E83b5C8](https://debank.com/profile/0x91ddEb35264287785762e666B5fba5Da9E83b5C8?chain=canto) | 105,103.404 | 0.03501% | >= 3 years:<br/>315, 684 |
-| 102 | [0x938EF8eB7d92B548714A1c2f4cF02581b449b68f](https://debank.com/profile/0x938EF8eB7d92B548714A1c2f4cF02581b449b68f?chain=canto) | 102,656.902 | 0.03419% | >= 3 years:<br/>808 |
-| 103 | [0x424bE8DF5Db7B04b1063Bd4Ee0F99Db445C59624](https://debank.com/profile/0x424bE8DF5Db7B04b1063Bd4Ee0F99Db445C59624?chain=canto) | 102,136.392 | 0.03402% | >= 3 years:<br/>465 |
-| 104 | [0xC002Ae38dE291433239B5D85ce6253638c85E47F](https://debank.com/profile/0xC002Ae38dE291433239B5D85ce6253638c85E47F?chain=canto) | 102,089.897 | 0.03400% | >= 3 years:<br/>1040 |
-| 105 | [0xf96A10dcB261Aa932a589146E87D80E4Cc8446F2](https://debank.com/profile/0xf96A10dcB261Aa932a589146E87D80E4Cc8446F2?chain=canto) | 98,552.265 | 0.03283% | >= 3 years:<br/>761 |
-| 106 | [0x49Ab5fc10011685912a9b36B0eE4deF3BA74700E](https://debank.com/profile/0x49Ab5fc10011685912a9b36B0eE4deF3BA74700E?chain=canto) | 98,008.472 | 0.03265% | >= 3 years:<br/>337<br/><br/>< 3 years:<br/>345 |
-| 107 | [0xDf6Af6DAC1B707f3A63a97f72Fe34E81aB16F592](https://debank.com/profile/0xDf6Af6DAC1B707f3A63a97f72Fe34E81aB16F592?chain=canto) | 96,679.096 | 0.03220% | >= 3 years:<br/>555 |
-| 108 | [0xF1F957595dc117128BF7d3AC5f71042a889b826a](https://debank.com/profile/0xF1F957595dc117128BF7d3AC5f71042a889b826a?chain=canto) | 95,302.68 | 0.03174% | >= 3 years:<br/>1123 |
-| 109 | [0x450f8F4096C05c5B2CEf13dbC4bB963a95247589](https://debank.com/profile/0x450f8F4096C05c5B2CEf13dbC4bB963a95247589?chain=canto) | 95,120.174 | 0.03168% | >= 3 years:<br/>507 |
-| 110 | [0xa8E733C326cF7fAabc85A81Fd99b2902A795eaD1](https://debank.com/profile/0xa8E733C326cF7fAabc85A81Fd99b2902A795eaD1?chain=canto) | 94,384.039 | 0.03144% | >= 3 years:<br/>506 |
-| 111 | [0x4733D8e32496e1e7CBc0c734B565a32e84676b5f](https://debank.com/profile/0x4733D8e32496e1e7CBc0c734B565a32e84676b5f?chain=canto) | 88,146.177 | 0.02936% | >= 3 years:<br/>1121, 1135 |
-| 112 | [0xE8306d0cBa02c1f5a23b38DC3D0f4D6c5fA7A092](https://debank.com/profile/0xE8306d0cBa02c1f5a23b38DC3D0f4D6c5fA7A092?chain=canto) | 88,054.178 | 0.02933% | >= 3 years:<br/>896 |
-| 113 | [0xB835367ae1CaFCEa58a10A51b17Fea25d16c3daB](https://debank.com/profile/0xB835367ae1CaFCEa58a10A51b17Fea25d16c3daB?chain=canto) | 86,923.094 | 0.02895% | >= 3 years:<br/>1116 |
-| 114 | [0xf6301E682769A8b3ECdCe94b2419ba40A958D17e](https://debank.com/profile/0xf6301E682769A8b3ECdCe94b2419ba40A958D17e?chain=canto) | 84,192.134 | 0.02804% | >= 3 years:<br/>182, 902, 960 |
-| 115 | [0x70ddC127D567b99f1cabC9E01a7AEE9577DFD8e1](https://debank.com/profile/0x70ddC127D567b99f1cabC9E01a7AEE9577DFD8e1?chain=canto) | 80,176.61 | 0.02671% | >= 3 years:<br/>400 |
-| 116 | [0x2bf36C23f5d6973CD8d34ADad92A695A4B8C0768](https://debank.com/profile/0x2bf36C23f5d6973CD8d34ADad92A695A4B8C0768?chain=canto) | 77,081.408 | 0.02567% | >= 3 years:<br/>412, 1063 |
-| 117 | [0xD39ec0556B27beA894718C981470A15724278585](https://debank.com/profile/0xD39ec0556B27beA894718C981470A15724278585?chain=canto) | 75,768.268 | 0.02524% | >= 3 years:<br/>295, 335, 343, 378, 686, 887, 945 |
-| 118 | [0x3854BEC598caE635F99C545DE0bCeCB37fFFE23e](https://debank.com/profile/0x3854BEC598caE635F99C545DE0bCeCB37fFFE23e?chain=canto) | 75,056.77 | 0.02500% | >= 3 years:<br/>369, 499 |
-| 119 | [0x3aCbD79643328D5F7D4F637e043d5ccd92D2C34d](https://debank.com/profile/0x3aCbD79643328D5F7D4F637e043d5ccd92D2C34d?chain=canto) | 72,175.382 | 0.02404% | >= 3 years:<br/>492 |
-| 120 | [0xe116d5F4CcD817e93a4827B4B1166fB3fA61BEC5](https://debank.com/profile/0xe116d5F4CcD817e93a4827B4B1166fB3fA61BEC5?chain=canto) | 72,168.396 | 0.02404% | >= 3 years:<br/>551 |
-| 121 | [0xd7F1BfBfA430FFEE78511E37772cAdaFF63A9A23](https://debank.com/profile/0xd7F1BfBfA430FFEE78511E37772cAdaFF63A9A23?chain=canto) | 71,560.759 | 0.02384% | >= 3 years:<br/>214, 498 |
-| 122 | [0xD360EcB91406717Ad13C4fae757b69B417E2Af6b](https://debank.com/profile/0xD360EcB91406717Ad13C4fae757b69B417E2Af6b?chain=canto) | 69,687.667 | 0.02321% | >= 3 years:<br/>899, 957 |
-| 123 | [0x1e1a93F781a41d546CD4aDf29740c9d2b76EE59b](https://debank.com/profile/0x1e1a93F781a41d546CD4aDf29740c9d2b76EE59b?chain=canto) | 65,595.663 | 0.02185% | < 3 years:<br/>1164 |
-| 124 | [0x95B0cB330519DB2bCaf74B90C1BDe3D62f673718](https://debank.com/profile/0x95B0cB330519DB2bCaf74B90C1BDe3D62f673718?chain=canto) | 64,809.698 | 0.02159% | < 3 years:<br/>1143 |
-| 125 | [0xEa444DA256b7FA70A44998eB929EA87a67646441](https://debank.com/profile/0xEa444DA256b7FA70A44998eB929EA87a67646441?chain=canto) | 63,978.797 | 0.02131% | >= 3 years:<br/>336 |
-| 126 | [0x4fD91caE8695F1765B28C11876984065894B7b08](https://debank.com/profile/0x4fD91caE8695F1765B28C11876984065894B7b08?chain=canto) | 60,144.515 | 0.02003% | >= 3 years:<br/>784, 799 |
-| 127 | [0x1c46564c7476f3F846abcf73e0a885E445ca85e8](https://debank.com/profile/0x1c46564c7476f3F846abcf73e0a885E445ca85e8?chain=canto) | 59,201.07 | 0.01972% | >= 3 years:<br/>1100 |
-| 128 | [0x540A6992368aA24dd6baD1DB8BF4982e6183Caf3](https://debank.com/profile/0x540A6992368aA24dd6baD1DB8BF4982e6183Caf3?chain=canto) | 56,501.704 | 0.01882% | >= 3 years:<br/>128, 438 |
-| 129 | [0xC797714De7d5D2A0FD328a64b30e1B9f4472731F](https://debank.com/profile/0xC797714De7d5D2A0FD328a64b30e1B9f4472731F?chain=canto) | 56,426.192 | 0.01879% | >= 3 years:<br/>771, 775, 881 |
-| 130 | [0x60d311976953E420316010D3FB454af4BC4e4597](https://debank.com/profile/0x60d311976953E420316010D3FB454af4BC4e4597?chain=canto) | 54,249.883 | 0.01807% | >= 3 years:<br/>557 |
-| 131 | [0x2401E97E9a1C2582738a29ed30f31C4B0F0c76d6](https://debank.com/profile/0x2401E97E9a1C2582738a29ed30f31C4B0F0c76d6?chain=canto) | 53,823.708 | 0.01793% | >= 3 years:<br/>319, 759, 760 |
-| 132 | [0x6a018Ad51DE844243ce7FB743c3E5F4481DF6858](https://debank.com/profile/0x6a018Ad51DE844243ce7FB743c3E5F4481DF6858?chain=canto) | 51,808.881 | 0.01726% | >= 3 years:<br/>788 |
-| 133 | [0xc27FD9D5113dE19EA89D0265Be9FD93F35f052c8](https://debank.com/profile/0xc27FD9D5113dE19EA89D0265Be9FD93F35f052c8?chain=canto) | 49,847.662 | 0.01660% | >= 3 years:<br/>181, 554 |
-| 134 | [0x135Cc51c0b07a8f70256e8DF398e6B916b402444](https://debank.com/profile/0x135Cc51c0b07a8f70256e8DF398e6B916b402444?chain=canto) | 49,333.658 | 0.01643% | >= 3 years:<br/>168, 444 |
-| 135 | [0xAA1742ab92c694934b97Ab9F557E565Bd2217BFf](https://debank.com/profile/0xAA1742ab92c694934b97Ab9F557E565Bd2217BFf?chain=canto) | 49,077.091 | 0.01635% | >= 3 years:<br/>219, 673 |
-| 136 | [0xbEE2D469AACB46251aE33Cca91F482e26c971dFF](https://debank.com/profile/0xbEE2D469AACB46251aE33Cca91F482e26c971dFF?chain=canto) | 48,047.979 | 0.01600% | >= 3 years:<br/>756 |
-| 137 | [0x13108aB5c6eB7efDcD7Ba6F8cc55d265eAE6176F](https://debank.com/profile/0x13108aB5c6eB7efDcD7Ba6F8cc55d265eAE6176F?chain=canto) | 47,746.773 | 0.01590% | >= 3 years:<br/>1052 |
-| 138 | [0xD086EEcB20cF564d5868755E58FD55a1dB9B6D12](https://debank.com/profile/0xD086EEcB20cF564d5868755E58FD55a1dB9B6D12?chain=canto) | 46,717.228 | 0.01556% | >= 3 years:<br/>380, 533 |
-| 139 | [0x2F04ed87b5Ac8b703565469311341b0b44e315d7](https://debank.com/profile/0x2F04ed87b5Ac8b703565469311341b0b44e315d7?chain=canto) | 46,703.761 | 0.01556% | >= 3 years:<br/>1000 |
-| 140 | [0x56F662AADe12e5aB99C4dcb037d1274d0d5dcb94](https://debank.com/profile/0x56F662AADe12e5aB99C4dcb037d1274d0d5dcb94?chain=canto) | 46,271.763 | 0.01541% | >= 3 years:<br/>148, 467 |
-| 141 | [0x25217b4A6138350350A2ce1f97A6B0111bbFdB56](https://debank.com/profile/0x25217b4A6138350350A2ce1f97A6B0111bbFdB56?chain=canto) | 45,523.2 | 0.01516% | >= 3 years:<br/>164, 473<br/><br/>< 3 years:<br/>786 |
-| 142 | [0xf6eD81D5E9F61dd1eA21E96Ae1D660ECc388AE4F](https://debank.com/profile/0xf6eD81D5E9F61dd1eA21E96Ae1D660ECc388AE4F?chain=canto) | 44,608.329 | 0.01486% | >= 3 years:<br/>774 |
-| 143 | [0x8656c4f48135DfbAD14CFaa894e1490aEf1cEA3e](https://debank.com/profile/0x8656c4f48135DfbAD14CFaa894e1490aEf1cEA3e?chain=canto) | 42,689.909 | 0.01422% | >= 3 years:<br/>567 |
-| 144 | [0xDc43D0c0497FBf3BB3cf43dcAFaCe9c116d5dd21](https://debank.com/profile/0xDc43D0c0497FBf3BB3cf43dcAFaCe9c116d5dd21?chain=canto) | 40,935.542 | 0.01364% | >= 3 years:<br/>140, 403 |
-| 145 | [0x9F533Eec49dc2DBbf495F1cD687c2536d424bE07](https://debank.com/profile/0x9F533Eec49dc2DBbf495F1cD687c2536d424bE07?chain=canto) | 39,104.177 | 0.01303% | >= 3 years:<br/>1062 |
-| 146 | [0xEfce38f31Ebeb9637E85D3487595261FDf6ebeEb](https://debank.com/profile/0xEfce38f31Ebeb9637E85D3487595261FDf6ebeEb?chain=canto) | 38,191.917 | 0.01272% | >= 3 years:<br/>199 |
-| 147 | [0xbA00D84Ddbc8cAe67C5800a52496E47A8CaFcd27](https://debank.com/profile/0xbA00D84Ddbc8cAe67C5800a52496E47A8CaFcd27?chain=canto) | 38,068.671 | 0.01268% | >= 3 years:<br/>242, 246 |
-| 148 | [0x986052DDa7f0A5BC0bB209E22F5CDa370101cB0c](https://debank.com/profile/0x986052DDa7f0A5BC0bB209E22F5CDa370101cB0c?chain=canto) | 38,001.667 | 0.01266% | >= 3 years:<br/>598 |
-| 149 | [0xb0FabE3bCAC50F065DBF68C0B271118DDC005402](https://debank.com/profile/0xb0FabE3bCAC50F065DBF68C0B271118DDC005402?chain=canto) | 36,560.912 | 0.01218% | >= 3 years:<br/>144 |
-| 150 | [0x47b023DB19b34519Aa34C39134b508CAc2C1efcB](https://debank.com/profile/0x47b023DB19b34519Aa34C39134b508CAc2C1efcB?chain=canto) | 36,451.763 | 0.01214% | >= 3 years:<br/>669 |
-| 151 | [0xd0441C0B63f6c97D56e9490B3fdd1c45F89D3678](https://debank.com/profile/0xd0441C0B63f6c97D56e9490B3fdd1c45F89D3678?chain=canto) | 35,819.907 | 0.01193% | >= 3 years:<br/>240, 441 |
-| 152 | [0x88dAfd252a47b91CBbf1a43F7AAE449076c06328](https://debank.com/profile/0x88dAfd252a47b91CBbf1a43F7AAE449076c06328?chain=canto) | 35,301.448 | 0.01176% | >= 3 years:<br/>1148, 1150 |
-| 153 | [0x7cAEa457224C345d1518a23FBd07ebDBdD21170C](https://debank.com/profile/0x7cAEa457224C345d1518a23FBd07ebDBdD21170C?chain=canto) | 33,963.316 | 0.01131% | >= 3 years:<br/>1008 |
-| 154 | [0x08f20Ef5cbdC1E719B8EC333B71Cf2E0Ec46c29A](https://debank.com/profile/0x08f20Ef5cbdC1E719B8EC333B71Cf2E0Ec46c29A?chain=canto) | 33,830.743 | 0.01127% | >= 3 years:<br/>574 |
-| 155 | [0xB3F039c970bcCF6Bc8b7e2f0C56c517287274531](https://debank.com/profile/0xB3F039c970bcCF6Bc8b7e2f0C56c517287274531?chain=canto) | 32,844.695 | 0.01094% | >= 3 years:<br/>617 |
-| 156 | [0x024fa93943E8680A263065A9998a362dd8b219bE](https://debank.com/profile/0x024fa93943E8680A263065A9998a362dd8b219bE?chain=canto) | 32,710.205 | 0.01090% | >= 3 years:<br/>674 |
-| 157 | [0x08d2c744Fd60F2dca8C1885D3AA03Ff6D3fA5d11](https://debank.com/profile/0x08d2c744Fd60F2dca8C1885D3AA03Ff6D3fA5d11?chain=canto) | 32,528.218 | 0.01083% | >= 3 years:<br/>320 |
-| 158 | [0xFD478A4acF62becE76F834Eb2FF4e0926Aba39Ef](https://debank.com/profile/0xFD478A4acF62becE76F834Eb2FF4e0926Aba39Ef?chain=canto) | 32,022.763 | 0.01067% | >= 3 years:<br/>830 |
-| 159 | [0x6c7286c5AB525ccD92c134c0dCDfDdfcA018B048](https://debank.com/profile/0x6c7286c5AB525ccD92c134c0dCDfDdfcA018B048?chain=canto) | 31,382.085 | 0.01045% | >= 3 years:<br/>113 |
-| 160 | [0x7E3b6f966f3666F77813db84DD352173749D24d8](https://debank.com/profile/0x7E3b6f966f3666F77813db84DD352173749D24d8?chain=canto) | 31,362.97 | 0.01045% | >= 3 years:<br/>121 |
-| 161 | [0x037B21279931E628b11b4507b9F7870B15dE1C17](https://debank.com/profile/0x037B21279931E628b11b4507b9F7870B15dE1C17?chain=canto) | 30,680.589 | 0.01022% | >= 3 years:<br/>122 |
-| 162 | [0x6A431fdEe149Ee5cD1925B0A6F30bc3e45481083](https://debank.com/profile/0x6A431fdEe149Ee5cD1925B0A6F30bc3e45481083?chain=canto) | 30,569.216 | 0.01018% | >= 3 years:<br/>841 |
-| 163 | [0x28aa4F9ffe21365473B64C161b566C3CdeAD0108](https://debank.com/profile/0x28aa4F9ffe21365473B64C161b566C3CdeAD0108?chain=canto) | 29,491.539 | 0.00982% | >= 3 years:<br/>452 |
-| 164 | [0xc06830694A5C22278CE214cBa0dF198486A68D91](https://debank.com/profile/0xc06830694A5C22278CE214cBa0dF198486A68D91?chain=canto) | 28,956.839 | 0.00965% | >= 3 years:<br/>740 |
-| 165 | [0xB0720A40d6335dF0aC90fF9e4b755217632Ca78C](https://debank.com/profile/0xB0720A40d6335dF0aC90fF9e4b755217632Ca78C?chain=canto) | 28,392.06 | 0.00946% | >= 3 years:<br/>166, 894, 952 |
-| 166 | [0x3822bBBd588fE86964c7751d6c6a6Bd010927307](https://debank.com/profile/0x3822bBBd588fE86964c7751d6c6a6Bd010927307?chain=canto) | 28,290.677 | 0.00942% | >= 3 years:<br/>613 |
-| 167 | [0x92Ef2f096558149C49fa2553C4Dff3C7CC2763a6](https://debank.com/profile/0x92Ef2f096558149C49fa2553C4Dff3C7CC2763a6?chain=canto) | 27,100.759 | 0.00903% | >= 3 years:<br/>895, 953 |
-| 168 | [0x3f9E0e7E11AB5E3cc0b9c01752Fc13a033DDD4e0](https://debank.com/profile/0x3f9E0e7E11AB5E3cc0b9c01752Fc13a033DDD4e0?chain=canto) | 26,605.14 | 0.00886% | >= 3 years:<br/>420 |
-| 169 | [0x9387F71F3928ebe9cE8B3D8cF37a8FB52739aE7d](https://debank.com/profile/0x9387F71F3928ebe9cE8B3D8cF37a8FB52739aE7d?chain=canto) | 26,067.313 | 0.00868% | >= 3 years:<br/>940, 1075<br/><br/>< 3 years:<br/>1032 |
-| 170 | [0x08d04CA4A84eab20b43BD74671Db8e46B745488B](https://debank.com/profile/0x08d04CA4A84eab20b43BD74671Db8e46B745488B?chain=canto) | 25,112.138 | 0.00836% | >= 3 years:<br/>301 |
-| 171 | [0xDF4c3F9106a28983AeDC9BB70d27259982021335](https://debank.com/profile/0xDF4c3F9106a28983AeDC9BB70d27259982021335?chain=canto) | 25,066.709 | 0.00835% | >= 3 years:<br/>927 |
-| 172 | [0x69cD1C2E13113C09a22Ff98cBd2dB3f682f716B4](https://debank.com/profile/0x69cD1C2E13113C09a22Ff98cBd2dB3f682f716B4?chain=canto) | 24,228.418 | 0.00807% | >= 3 years:<br/>549 |
-| 173 | [0x020D44CcBCfA264F8e5aADf65FC22641A460a793](https://debank.com/profile/0x020D44CcBCfA264F8e5aADf65FC22641A460a793?chain=canto) | 24,070.143 | 0.00802% | >= 3 years:<br/>579 |
-| 174 | [0xc77D249809ae5A118eEf66227d1A01A3D62c82d4](https://debank.com/profile/0xc77D249809ae5A118eEf66227d1A01A3D62c82d4?chain=canto) | 24,065.945 | 0.00802% | >= 3 years:<br/>510 |
-| 175 | [0xd50FC1e69E030A27335ea9b25e1Fb183dc20641b](https://debank.com/profile/0xd50FC1e69E030A27335ea9b25e1Fb183dc20641b?chain=canto) | 23,176.892 | 0.00772% | >= 3 years:<br/>569 |
-| 176 | [0xA7ff0bC6F74fc6C49ccbA87F3df51b1adf98543D](https://debank.com/profile/0xA7ff0bC6F74fc6C49ccbA87F3df51b1adf98543D?chain=canto) | 22,436.851 | 0.00747% | >= 3 years:<br/>805 |
-| 177 | [0x601fBA2000a86809342952673f4ea7EF1c703c44](https://debank.com/profile/0x601fBA2000a86809342952673f4ea7EF1c703c44?chain=canto) | 22,108.254 | 0.00736% | >= 3 years:<br/>398 |
-| 178 | [0xf44Ef0256Be6cdC85Af4c5242d3F760C837be179](https://debank.com/profile/0xf44Ef0256Be6cdC85Af4c5242d3F760C837be179?chain=canto) | 21,337.84 | 0.00711% | >= 3 years:<br/>648, 731 |
-| 179 | [0x939a7EF73572e9218C7085ACa6d894bc237f15E3](https://debank.com/profile/0x939a7EF73572e9218C7085ACa6d894bc237f15E3?chain=canto) | 20,879.337 | 0.00695% | >= 3 years:<br/>1145 |
-| 180 | [0x7e53AF93688908D67fc3ddcE3f4B033dBc257C20](https://debank.com/profile/0x7e53AF93688908D67fc3ddcE3f4B033dBc257C20?chain=canto) | 20,690.212 | 0.00689% | >= 3 years:<br/>804 |
-| 181 | [0x750872Cb963321506FDF4F037240E821Ac39CbFD](https://debank.com/profile/0x750872Cb963321506FDF4F037240E821Ac39CbFD?chain=canto) | 20,585.8 | 0.00686% | >= 3 years:<br/>371, 607 |
-| 182 | [0xE43fA6CBb7DdA0bD863593c5E75fAe9B4dCD5CD4](https://debank.com/profile/0xE43fA6CBb7DdA0bD863593c5E75fAe9B4dCD5CD4?chain=canto) | 20,182.781 | 0.00672% | >= 3 years:<br/>1158 |
-| 183 | [0x8cb8c8C50C0a6D3295a4d2955Cb10e69E636bC80](https://debank.com/profile/0x8cb8c8C50C0a6D3295a4d2955Cb10e69E636bC80?chain=canto) | 19,588.908 | 0.00652% | >= 3 years:<br/>780 |
-| 184 | [0xe6cF807E4B2A640DfE03ff06FA6Ab32C334c7dF4](https://debank.com/profile/0xe6cF807E4B2A640DfE03ff06FA6Ab32C334c7dF4?chain=canto) | 18,830.288 | 0.00627% | >= 3 years:<br/>367 |
-| 185 | [0x5952024Bd375435d21c2Fd46CDB2aB0990bFd79B](https://debank.com/profile/0x5952024Bd375435d21c2Fd46CDB2aB0990bFd79B?chain=canto) | 17,757.923 | 0.00591% | >= 3 years:<br/>501 |
-| 186 | [0x56E30aF541D4d54b96770Ecc1a9113F02FEe3bf1](https://debank.com/profile/0x56E30aF541D4d54b96770Ecc1a9113F02FEe3bf1?chain=canto) | 17,720.575 | 0.00590% | >= 3 years:<br/>212 |
-| 187 | [0xBdFC087A5C32F6B6E425697c1A19a10E378136eE](https://debank.com/profile/0xBdFC087A5C32F6B6E425697c1A19a10E378136eE?chain=canto) | 17,370.173 | 0.00579% | >= 3 years:<br/>1162 |
-| 188 | [0x7798Ba9512B5A684C12e31518923Ea4221A41Fb9](https://debank.com/profile/0x7798Ba9512B5A684C12e31518923Ea4221A41Fb9?chain=canto) | 16,697.815 | 0.00556% | >= 3 years:<br/>223 |
-| 189 | [0xd319f112bf73eAe5e3cf06bF8D4076cC5f8B1cD5](https://debank.com/profile/0xd319f112bf73eAe5e3cf06bF8D4076cC5f8B1cD5?chain=canto) | 15,902.809 | 0.00530% | >= 3 years:<br/>845 |
-| 190 | [0x7BEA66aD48C584098a67b001c83853526e7e9Ab2](https://debank.com/profile/0x7BEA66aD48C584098a67b001c83853526e7e9Ab2?chain=canto) | 15,165.535 | 0.00505% | >= 3 years:<br/>543 |
-| 191 | [0x5C461A0C595d6B2a4b0f4a42fD55bE7aAeD8aF80](https://debank.com/profile/0x5C461A0C595d6B2a4b0f4a42fD55bE7aAeD8aF80?chain=canto) | 14,027.112 | 0.00467% | >= 3 years:<br/>614 |
-| 192 | [0xa369B026E088538590b8694f228cD20d9BC35B00](https://debank.com/profile/0xa369B026E088538590b8694f228cD20d9BC35B00?chain=canto) | 13,824.181 | 0.00460% | >= 3 years:<br/>470 |
-| 193 | [0x89fC87d755e25a935846335d370A348f42d305cE](https://debank.com/profile/0x89fC87d755e25a935846335d370A348f42d305cE?chain=canto) | 13,819.484 | 0.00460% | < 3 years:<br/>1128 |
-| 194 | [0x296E0C21DB4061EbF971e55d5db85011E7Ff9797](https://debank.com/profile/0x296E0C21DB4061EbF971e55d5db85011E7Ff9797?chain=canto) | 13,496.814 | 0.00450% | >= 3 years:<br/>575 |
-| 195 | [0xdDb3e886D78F180A0B435741901cE091cdd0a848](https://debank.com/profile/0xdDb3e886D78F180A0B435741901cE091cdd0a848?chain=canto) | 13,420.166 | 0.00447% | >= 3 years:<br/>344, 1020 |
-| 196 | [0xE524D29daf6D7CDEaaaF07Fa1aa7732a45f330B3](https://debank.com/profile/0xE524D29daf6D7CDEaaaF07Fa1aa7732a45f330B3?chain=canto) | 13,419.935 | 0.00447% | >= 3 years:<br/>220, 560 |
-| 197 | [0x6f5a8A35fb10EEcEF9128f407a0fe67B898556CF](https://debank.com/profile/0x6f5a8A35fb10EEcEF9128f407a0fe67B898556CF?chain=canto) | 13,342.047 | 0.00444% | >= 3 years:<br/>154, 639 |
-| 198 | [0x73b085ed81Cb4f15b16E47D56e4d04091FaB0af0](https://debank.com/profile/0x73b085ed81Cb4f15b16E47D56e4d04091FaB0af0?chain=canto) | 13,043.433 | 0.00434% | >= 3 years:<br/>778, 779 |
-| 199 | [0xAf79312EB821871208ac76A80c8E282f8796964e](https://debank.com/profile/0xAf79312EB821871208ac76A80c8E282f8796964e?chain=canto) | 12,485.383 | 0.00416% | >= 3 years:<br/>141 |
-| 200 | [0x19B3475C5B546EAc3674742e75C790868F86EadA](https://debank.com/profile/0x19B3475C5B546EAc3674742e75C790868F86EadA?chain=canto) | 12,374.598 | 0.00412% | >= 3 years:<br/>736 |
-| 201 | [0x60A2C9a2D73ecAfc07Af7F234742f1FC1D1758c6](https://debank.com/profile/0x60A2C9a2D73ecAfc07Af7F234742f1FC1D1758c6?chain=canto) | 12,205.468 | 0.00407% | >= 3 years:<br/>459 |
-| 202 | [0x1BD1AA4DdF40e87CE385Eb837FADDb028Fc1Ec23](https://debank.com/profile/0x1BD1AA4DdF40e87CE385Eb837FADDb028Fc1Ec23?chain=canto) | 11,635.316 | 0.00388% | >= 3 years:<br/>486 |
-| 203 | [0xb912A1d094FDDbf4Fb2297a15E033c7E351Af088](https://debank.com/profile/0xb912A1d094FDDbf4Fb2297a15E033c7E351Af088?chain=canto) | 11,167.017 | 0.00372% | >= 3 years:<br/>936 |
-| 204 | [0xa6534515D03d6549793a4a0b67cC74553f24adfE](https://debank.com/profile/0xa6534515D03d6549793a4a0b67cC74553f24adfE?chain=canto) | 10,936.795 | 0.00364% | >= 3 years:<br/>1134 |
-| 205 | [0x861107Cb9b5767792a25677e09945882c564F6C2](https://debank.com/profile/0x861107Cb9b5767792a25677e09945882c564F6C2?chain=canto) | 10,840.26 | 0.00361% | >= 3 years:<br/>421 |
-| 206 | [0x53eB9A6f34e1FeAD9Cf1013c7058679bcA6Acc43](https://debank.com/profile/0x53eB9A6f34e1FeAD9Cf1013c7058679bcA6Acc43?chain=canto) | 10,744.676 | 0.00358% | >= 3 years:<br/>886 |
-| 207 | [0xb72B159AFFB75Cb092EFe7AF8F178566EFDD225c](https://debank.com/profile/0xb72B159AFFB75Cb092EFe7AF8F178566EFDD225c?chain=canto) | 10,739.309 | 0.00358% | >= 3 years:<br/>516, 890, 948<br/><br/>< 3 years:<br/>361 |
-| 208 | [0x78864CE3E53A439ae0A8e15622aA0d21675ad4Cd](https://debank.com/profile/0x78864CE3E53A439ae0A8e15622aA0d21675ad4Cd?chain=canto) | 10,686.473 | 0.00356% | >= 3 years:<br/>291, 696 |
-| 209 | [0x02706C602c59F86Cc2EbD9aE662a25987A7C7986](https://debank.com/profile/0x02706C602c59F86Cc2EbD9aE662a25987A7C7986?chain=canto) | 10,679.977 | 0.00356% | >= 3 years:<br/>133 |
-| 210 | [0x9808CF542dC77cB111B9D5ce51f530b032714Df8](https://debank.com/profile/0x9808CF542dC77cB111B9D5ce51f530b032714Df8?chain=canto) | 10,573.897 | 0.00352% | >= 3 years:<br/>610 |
-| 211 | [0x7267A0bb3420FeDB593841846Da6E3a96853E75f](https://debank.com/profile/0x7267A0bb3420FeDB593841846Da6E3a96853E75f?chain=canto) | 10,405.002 | 0.00347% | >= 3 years:<br/>1051 |
-| 212 | [0x3194E37C9cfeF2064429CF62bc674C391BEB2BEE](https://debank.com/profile/0x3194E37C9cfeF2064429CF62bc674C391BEB2BEE?chain=canto) | 10,273.053 | 0.00342% | >= 3 years:<br/>572 |
-| 213 | [0xF0B17856471CA6b926FFbeC9ffAA81d5dC152AD1](https://debank.com/profile/0xF0B17856471CA6b926FFbeC9ffAA81d5dC152AD1?chain=canto) | 10,223.014 | 0.00341% | >= 3 years:<br/>490 |
-| 214 | [0x48BA9066bF91496aE48Ca95ed5DA2739DE870954](https://debank.com/profile/0x48BA9066bF91496aE48Ca95ed5DA2739DE870954?chain=canto) | 10,174.508 | 0.00339% | >= 3 years:<br/>797 |
-| 215 | [0xE075e8541e9c32C080eda53aE8D66B50bc3ED05C](https://debank.com/profile/0xE075e8541e9c32C080eda53aE8D66B50bc3ED05C?chain=canto) | 10,117.517 | 0.00337% | >= 3 years:<br/>1024 |
-| 216 | [0x657A38e6994CB578351376dCDb077330D00665d6](https://debank.com/profile/0x657A38e6994CB578351376dCDb077330D00665d6?chain=canto) | 10,097.668 | 0.00336% | >= 3 years:<br/>418 |
-| 217 | [0x1CF274a674A29fFe2425c1111b64B4d181744CE2](https://debank.com/profile/0x1CF274a674A29fFe2425c1111b64B4d181744CE2?chain=canto) | 10,065.845 | 0.00335% | >= 3 years:<br/>1019 |
-| 218 | [0x842Ca6aE3F6553b1447f4B57900a2D8219E12a9E](https://debank.com/profile/0x842Ca6aE3F6553b1447f4B57900a2D8219E12a9E?chain=canto) | 10,060.849 | 0.00335% | >= 3 years:<br/>989 |
-| 219 | [0xdAb48Ff04BA44C51AEEdBa2A68A746866040a38D](https://debank.com/profile/0xdAb48Ff04BA44C51AEEdBa2A68A746866040a38D?chain=canto) | 10,051.755 | 0.00335% | >= 3 years:<br/>1017 |
-| 220 | [0xADAbDe71D13b032D7927e17b05A51ff1b9C1C131](https://debank.com/profile/0xADAbDe71D13b032D7927e17b05A51ff1b9C1C131?chain=canto) | 10,046.295 | 0.00335% | >= 3 years:<br/>997 |
-| 221 | [0x2C491E8BD8c4e915F41F88Bbfa3846d1C57295cF](https://debank.com/profile/0x2C491E8BD8c4e915F41F88Bbfa3846d1C57295cF?chain=canto) | 10,024.758 | 0.00334% | >= 3 years:<br/>556 |
-| 222 | [0x25549275914d44dFC4aBABE024e0bAB8882EF2FE](https://debank.com/profile/0x25549275914d44dFC4aBABE024e0bAB8882EF2FE?chain=canto) | 10,022.038 | 0.00334% | >= 3 years:<br/>990 |
-| 223 | [0x5eeB877A4D8Ae876da4C8F6c87B75A1e44efd6C4](https://debank.com/profile/0x5eeB877A4D8Ae876da4C8F6c87B75A1e44efd6C4?chain=canto) | 10,021.069 | 0.00334% | >= 3 years:<br/>659, 977 |
-| 224 | [0x5289b10ac29553A1C566f57ebC14aB4a5B7FfF67](https://debank.com/profile/0x5289b10ac29553A1C566f57ebC14aB4a5B7FfF67?chain=canto) | 10,020.097 | 0.00334% | >= 3 years:<br/>984 |
-| 225 | [0x58D60CDBEDBfAf998604b551e70A0B9f11E077A3](https://debank.com/profile/0x58D60CDBEDBfAf998604b551e70A0B9f11E077A3?chain=canto) | 10,017 | 0.00334% | >= 3 years:<br/>938 |
-| 226 | [0x09F47Dee46C9732a263C77B0EC10b34F7e76c544](https://debank.com/profile/0x09F47Dee46C9732a263C77B0EC10b34F7e76c544?chain=canto) | 10,017 | 0.00334% | >= 3 years:<br/>939 |
-| 227 | [0x1A91520bf0f165E77C16d00e46E649aDfCF5dd00](https://debank.com/profile/0x1A91520bf0f165E77C16d00e46E649aDfCF5dd00?chain=canto) | 10,014.276 | 0.00334% | >= 3 years:<br/>979 |
-| 228 | [0x8DCdA9E4FBAe5f2aD96B571eAD92F55cae673BC0](https://debank.com/profile/0x8DCdA9E4FBAe5f2aD96B571eAD92F55cae673BC0?chain=canto) | 10,006.804 | 0.00333% | >= 3 years:<br/>994 |
-| 229 | [0xd9550F0caCa4bA0493cf08ABE9fdE72EF0Ec7EA7](https://debank.com/profile/0xd9550F0caCa4bA0493cf08ABE9fdE72EF0Ec7EA7?chain=canto) | 9,981.286 | 0.00332% | >= 3 years:<br/>982 |
-| 230 | [0xE296D1b947D29180c8ffE1eb6BED17f1aD076a43](https://debank.com/profile/0xE296D1b947D29180c8ffE1eb6BED17f1aD076a43?chain=canto) | 9,973.862 | 0.00332% | >= 3 years:<br/>937 |
-| 231 | [0x54bb95e1e5F4f5748388399d6CF93B6cf4Fb2FB1](https://debank.com/profile/0x54bb95e1e5F4f5748388399d6CF93B6cf4Fb2FB1?chain=canto) | 9,959.94 | 0.00332% | >= 3 years:<br/>991 |
-| 232 | [0x8B0ce49a2B92125A5fc9DA1610e82673ABE20710](https://debank.com/profile/0x8B0ce49a2B92125A5fc9DA1610e82673ABE20710?chain=canto) | 9,956.059 | 0.00332% | >= 3 years:<br/>998 |
-| 233 | [0x81A45e133cc36be6e6fF010c83AfF01A18797821](https://debank.com/profile/0x81A45e133cc36be6e6fF010c83AfF01A18797821?chain=canto) | 9,947.326 | 0.00331% | >= 3 years:<br/>985 |
-| 234 | [0x57D06A431913B6796278B3f8CFC7b4261C22DaEd](https://debank.com/profile/0x57D06A431913B6796278B3f8CFC7b4261C22DaEd?chain=canto) | 9,946.453 | 0.00331% | >= 3 years:<br/>993 |
-| 235 | [0x654329D4984235D8cC7dB1A7705f0ad46F5B6183](https://debank.com/profile/0x654329D4984235D8cC7dB1A7705f0ad46F5B6183?chain=canto) | 9,933.742 | 0.00331% | >= 3 years:<br/>987 |
-| 236 | [0x094a3b042ca44fc937De7dDB7Ada6196D5fBaCC1](https://debank.com/profile/0x094a3b042ca44fc937De7dDB7Ada6196D5fBaCC1?chain=canto) | 9,925.98 | 0.00331% | >= 3 years:<br/>996 |
-| 237 | [0x23da03dB8C158681155d1820E8D44F089d890EE6](https://debank.com/profile/0x23da03dB8C158681155d1820E8D44F089d890EE6?chain=canto) | 9,921.129 | 0.00330% | >= 3 years:<br/>986 |
-| 238 | [0x0439E0f49230D8dB4F4134Ce402cC332872B1f0A](https://debank.com/profile/0x0439E0f49230D8dB4F4134Ce402cC332872B1f0A?chain=canto) | 9,908.515 | 0.00330% | >= 3 years:<br/>992 |
-| 239 | [0x8338234A8046F6B845D0C924831E71E6d631c007](https://debank.com/profile/0x8338234A8046F6B845D0C924831E71E6d631c007?chain=canto) | 9,907.545 | 0.00330% | >= 3 years:<br/>995 |
-| 240 | [0x2187119E30603d27B59C8FdA7aC1a695A669203C](https://debank.com/profile/0x2187119E30603d27B59C8FdA7aC1a695A669203C?chain=canto) | 9,902.412 | 0.00330% | >= 3 years:<br/>851 |
-| 241 | [0x410C7bB260CAf1D95D0337D8DDB053dF38169d7b](https://debank.com/profile/0x410C7bB260CAf1D95D0337D8DDB053dF38169d7b?chain=canto) | 9,894.931 | 0.00330% | >= 3 years:<br/>980 |
-| 242 | [0xF62bdAFc4cB3808346c5854c0Fd129F2a22c02E0](https://debank.com/profile/0xF62bdAFc4cB3808346c5854c0Fd129F2a22c02E0?chain=canto) | 9,881.491 | 0.00329% | >= 3 years:<br/>1031 |
-| 243 | [0x48b927e8dC6fc74f27E99EF439BFd2765B5e7522](https://debank.com/profile/0x48b927e8dC6fc74f27E99EF439BFd2765B5e7522?chain=canto) | 9,872.314 | 0.00329% | >= 3 years:<br/>1022 |
-| 244 | [0x4590f9C449a352dFc67cbeB3EfbfBfA933DFEaC4](https://debank.com/profile/0x4590f9C449a352dFc67cbeB3EfbfBfA933DFEaC4?chain=canto) | 9,866.282 | 0.00329% | >= 3 years:<br/>1023 |
-| 245 | [0xF742d8f686b1e372AaDAe30f55a09d77320b3635](https://debank.com/profile/0xF742d8f686b1e372AaDAe30f55a09d77320b3635?chain=canto) | 9,857.124 | 0.00328% | >= 3 years:<br/>1025 |
-| 246 | [0x7FCb730D4700D96d9BA215d9fE38EF9fADC50b20](https://debank.com/profile/0x7FCb730D4700D96d9BA215d9fE38EF9fADC50b20?chain=canto) | 9,852.239 | 0.00328% | >= 3 years:<br/>988 |
-| 247 | [0x2f7e6F35d42c2a8Fece9f3D8405Af2B3D981AA68](https://debank.com/profile/0x2f7e6F35d42c2a8Fece9f3D8405Af2B3D981AA68?chain=canto) | 9,849.328 | 0.00328% | >= 3 years:<br/>978 |
-| 248 | [0x66d8EBB9DFe2bE86Bcf0F07cde6763d01Bc59eB2](https://debank.com/profile/0x66d8EBB9DFe2bE86Bcf0F07cde6763d01Bc59eB2?chain=canto) | 9,832.154 | 0.00327% | >= 3 years:<br/>983 |
-| 249 | [0xD00fCd747059D19d759c16A70e068cAc4f065906](https://debank.com/profile/0xD00fCd747059D19d759c16A70e068cAc4f065906?chain=canto) | 9,758.645 | 0.00325% | >= 3 years:<br/>934 |
-| 250 | [0x54085FB28CF3a61f4ACa20B38d8D33d67DD18628](https://debank.com/profile/0x54085FB28CF3a61f4ACa20B38d8D33d67DD18628?chain=canto) | 9,753.294 | 0.00325% | >= 3 years:<br/>509, 776 |
-| 251 | [0x2885c1C1367D578D117280F0DA5c94197CE896A6](https://debank.com/profile/0x2885c1C1367D578D117280F0DA5c94197CE896A6?chain=canto) | 9,749.852 | 0.00325% | >= 3 years:<br/>1012 |
-| 252 | [0xc8f1a5D0f1a411B2F65B498d3A20517e72201b5F](https://debank.com/profile/0xc8f1a5D0f1a411B2F65B498d3A20517e72201b5F?chain=canto) | 9,742.597 | 0.00325% | >= 3 years:<br/>1009, 1011 |
-| 253 | [0xfd2Ad2748195dd023cAa7936f9a584fb5C283644](https://debank.com/profile/0xfd2Ad2748195dd023cAa7936f9a584fb5C283644?chain=canto) | 9,741.627 | 0.00324% | >= 3 years:<br/>1010 |
-| 254 | [0x8c61b2d74FD596024C8712e637e8F259da447faA](https://debank.com/profile/0x8c61b2d74FD596024C8712e637e8F259da447faA?chain=canto) | 9,140.958 | 0.00304% | >= 3 years:<br/>409 |
-| 255 | [0xd8b87A01980eB792e3BC030bDEc42Db2b9B5CBfc](https://debank.com/profile/0xd8b87A01980eB792e3BC030bDEc42Db2b9B5CBfc?chain=canto) | 9,131.603 | 0.00304% | >= 3 years:<br/>163, 542 |
-| 256 | [0xb211001c6A1fd81C100b3E18619c9c2cdf65Aabb](https://debank.com/profile/0xb211001c6A1fd81C100b3E18619c9c2cdf65Aabb?chain=canto) | 8,975.031 | 0.00299% | >= 3 years:<br/>663 |
-| 257 | [0x9CE6E6B60C894d1DF9BC3D9D6cC969b79FB176B7](https://debank.com/profile/0x9CE6E6B60C894d1DF9BC3D9D6cC969b79FB176B7?chain=canto) | 8,768.344 | 0.00292% | >= 3 years:<br/>715 |
-| 258 | [0x2000B2AFF2120EC721C976Be0D24335c9fdFb66c](https://debank.com/profile/0x2000B2AFF2120EC721C976Be0D24335c9fdFb66c?chain=canto) | 8,758.608 | 0.00292% | >= 3 years:<br/>733 |
-| 259 | [0x17114903eB90909D3058dAE24D583E5970030FFb](https://debank.com/profile/0x17114903eB90909D3058dAE24D583E5970030FFb?chain=canto) | 8,727.568 | 0.00291% | >= 3 years:<br/>172, 173 |
-| 260 | [0x58c0A7399C90839570C2b9f0bbCe37da6d976EAc](https://debank.com/profile/0x58c0A7399C90839570C2b9f0bbCe37da6d976EAc?chain=canto) | 8,585.88 | 0.00286% | >= 3 years:<br/>840 |
-| 261 | [0xBFfadE145d1238a3aDa4b06936C07B01C0931ca9](https://debank.com/profile/0xBFfadE145d1238a3aDa4b06936C07B01C0931ca9?chain=canto) | 8,345.298 | 0.00278% | >= 3 years:<br/>935, 1048, 1049 |
-| 262 | [0x73baDE8162E0Fa995a2f7037DEba9D094DEC535f](https://debank.com/profile/0x73baDE8162E0Fa995a2f7037DEba9D094DEC535f?chain=canto) | 8,287.789 | 0.00276% | >= 3 years:<br/>913 |
-| 263 | [0x80b0DcCa24d9f31B3b8fb661442Fe38C40a62261](https://debank.com/profile/0x80b0DcCa24d9f31B3b8fb661442Fe38C40a62261?chain=canto) | 8,268.002 | 0.00275% | >= 3 years:<br/>628 |
-| 264 | [0x1890426e1FeEC62512d8C62440f1eB4E6f96C531](https://debank.com/profile/0x1890426e1FeEC62512d8C62440f1eB4E6f96C531?chain=canto) | 8,206.59 | 0.00273% | >= 3 years:<br/>695 |
-| 265 | [0x706211eBDb7753bD3DcC767b9929CfD44c2eC7C1](https://debank.com/profile/0x706211eBDb7753bD3DcC767b9929CfD44c2eC7C1?chain=canto) | 8,198.786 | 0.00273% | >= 3 years:<br/>1003 |
-| 266 | [0x0ffFb5Def552fD8F95327eF971a31EC3898e2b2b](https://debank.com/profile/0x0ffFb5Def552fD8F95327eF971a31EC3898e2b2b?chain=canto) | 8,193.519 | 0.00273% | >= 3 years:<br/>1043 |
-| 267 | [0xcF90242288344Df55B22bbC1adDfE0A31Bce91b7](https://debank.com/profile/0xcF90242288344Df55B22bbC1adDfE0A31Bce91b7?chain=canto) | 8,181.749 | 0.00273% | >= 3 years:<br/>1046 |
-| 268 | [0x4CE69fd760AD0c07490178f9a47863Dc0358cCCD](https://debank.com/profile/0x4CE69fd760AD0c07490178f9a47863Dc0358cCCD?chain=canto) | 7,865.165 | 0.00262% | >= 3 years:<br/>232 |
-| 269 | [0xB3cF3A3f632aB8A37eD2D628A1fc6f4a43f1C677](https://debank.com/profile/0xB3cF3A3f632aB8A37eD2D628A1fc6f4a43f1C677?chain=canto) | 7,848.216 | 0.00261% | >= 3 years:<br/>582 |
-| 270 | [0x4Ca5Ef73617221C3E3f23efbB5b56CF81FF464f1](https://debank.com/profile/0x4Ca5Ef73617221C3E3f23efbB5b56CF81FF464f1?chain=canto) | 7,800.608 | 0.00260% | >= 3 years:<br/>1054 |
-| 271 | [0x5Be66f4095f89BD18aBE4aE9d2acD5021EC433Bc](https://debank.com/profile/0x5Be66f4095f89BD18aBE4aE9d2acD5021EC433Bc?chain=canto) | 7,737.22 | 0.00258% | >= 3 years:<br/>114 |
-| 272 | [0xFb1329FC9E6b07e684ceC845DA7F6F3aaDC8e7b4](https://debank.com/profile/0xFb1329FC9E6b07e684ceC845DA7F6F3aaDC8e7b4?chain=canto) | 7,727.337 | 0.00257% | >= 3 years:<br/>523<br/><br/>< 3 years:<br/>766 |
-| 273 | [0xDE0187458364Eb836D5bF563721efD1ED14B9673](https://debank.com/profile/0xDE0187458364Eb836D5bF563721efD1ED14B9673?chain=canto) | 7,635.721 | 0.00254% | >= 3 years:<br/>188 |
-| 274 | [0x904BeccBDDE4436696f14d846008818495AA616c](https://debank.com/profile/0x904BeccBDDE4436696f14d846008818495AA616c?chain=canto) | 7,382.289 | 0.00246% | >= 3 years:<br/>410 |
-| 275 | [0x33498977491C9A5c5A9F0a0C978a75b734a2E2Ca](https://debank.com/profile/0x33498977491C9A5c5A9F0a0C978a75b734a2E2Ca?chain=canto) | 7,227.986 | 0.00241% | >= 3 years:<br/>424 |
-| 276 | [0xeA04965Fc2cA0F62e4ca2446AfB0c25cCc9335C4](https://debank.com/profile/0xeA04965Fc2cA0F62e4ca2446AfB0c25cCc9335C4?chain=canto) | 7,200.783 | 0.00240% | >= 3 years:<br/>587 |
-| 277 | [0x3e5b27c8Dc096EFD9408B52e994627f827F5A689](https://debank.com/profile/0x3e5b27c8Dc096EFD9408B52e994627f827F5A689?chain=canto) | 6,915.37 | 0.00230% | >= 3 years:<br/>456 |
-| 278 | [0x42F13d55A010701CE8e334BD2e439b2D4487B246](https://debank.com/profile/0x42F13d55A010701CE8e334BD2e439b2D4487B246?chain=canto) | 6,768.301 | 0.00225% | >= 3 years:<br/>711 |
-| 279 | [0xb1c6bCd66322E1d21aC1Bd71FFc6b570A1E67b80](https://debank.com/profile/0xb1c6bCd66322E1d21aC1Bd71FFc6b570A1E67b80?chain=canto) | 6,702.286 | 0.00223% | >= 3 years:<br/>511 |
-| 280 | [0xb98Ece8A010Daa74720281bF147bb1cE7209fcbc](https://debank.com/profile/0xb98Ece8A010Daa74720281bF147bb1cE7209fcbc?chain=canto) | 6,679.283 | 0.00222% | < 3 years:<br/>1021 |
-| 281 | [0x6fBfdba3BCBf9FA6ee165C72714ed814A0950a70](https://debank.com/profile/0x6fBfdba3BCBf9FA6ee165C72714ed814A0950a70?chain=canto) | 6,623.607 | 0.00221% | >= 3 years:<br/>427 |
-| 282 | [0x2e0692A3d9097931E9b7ba47035C8EA4A388f747](https://debank.com/profile/0x2e0692A3d9097931E9b7ba47035C8EA4A388f747?chain=canto) | 6,598.255 | 0.00220% | >= 3 years:<br/>159 |
-| 283 | [0xe9335fabfB4536bE78D539D759a29e1AFE7455A6](https://debank.com/profile/0xe9335fabfB4536bE78D539D759a29e1AFE7455A6?chain=canto) | 6,342.517 | 0.00211% | >= 3 years:<br/>107, 425 |
-| 284 | [0x14989473630F117Dd5583B946B9B4733CD305e57](https://debank.com/profile/0x14989473630F117Dd5583B946B9B4733CD305e57?chain=canto) | 6,314.991 | 0.00210% | >= 3 years:<br/>153 |
-| 285 | [0x0eF539B6Feb1b63d72983EeA075Db83bF6554c70](https://debank.com/profile/0x0eF539B6Feb1b63d72983EeA075Db83bF6554c70?chain=canto) | 6,307.882 | 0.00210% | >= 3 years:<br/>588 |
-| 286 | [0xc558784EBE3A7f176FF0006Df49c4794055551cd](https://debank.com/profile/0xc558784EBE3A7f176FF0006Df49c4794055551cd?chain=canto) | 6,119.899 | 0.00204% | >= 3 years:<br/>482 |
-| 287 | [0x1FA7ED6eBe41ce787210CA23B9fA63266A0C4762](https://debank.com/profile/0x1FA7ED6eBe41ce787210CA23B9fA63266A0C4762?chain=canto) | 6,053.073 | 0.00202% | >= 3 years:<br/>612 |
-| 288 | [0x947D9bcDc2C34Df8587630CAf45b2a2bf07c88cB](https://debank.com/profile/0x947D9bcDc2C34Df8587630CAf45b2a2bf07c88cB?chain=canto) | 6,035.597 | 0.00201% | >= 3 years:<br/>118 |
-| 289 | [0x7633Ae31E314067a261bAd184F7AEc9F997b14f5](https://debank.com/profile/0x7633Ae31E314067a261bAd184F7AEc9F997b14f5?chain=canto) | 5,968.241 | 0.00199% | >= 3 years:<br/>548<br/><br/>< 3 years:<br/>329 |
-| 290 | [0xF982E2b501c4110E892464E6F0A51c13448D1AFE](https://debank.com/profile/0xF982E2b501c4110E892464E6F0A51c13448D1AFE?chain=canto) | 5,686.688 | 0.00189% | >= 3 years:<br/>294, 530 |
-| 291 | [0x3AA6605d87f611E43aD0a64740d6BeF9b80FCD2C](https://debank.com/profile/0x3AA6605d87f611E43aD0a64740d6BeF9b80FCD2C?chain=canto) | 5,620.319 | 0.00187% | >= 3 years:<br/>167 |
-| 292 | [0x2c820271ADE646fDb3D6D0002712Ee6bdc7DC173](https://debank.com/profile/0x2c820271ADE646fDb3D6D0002712Ee6bdc7DC173?chain=canto) | 5,440.509 | 0.00181% | >= 3 years:<br/>423 |
-| 293 | [0xcf6F862111c4Fa10eF350189d23B825EaBffa7cF](https://debank.com/profile/0xcf6F862111c4Fa10eF350189d23B825EaBffa7cF?chain=canto) | 5,328.332 | 0.00177% | >= 3 years:<br/>285 |
-| 294 | [0xa9f078B3b6DD6C04308f19DEF394b6D5a1B8b732](https://debank.com/profile/0xa9f078B3b6DD6C04308f19DEF394b6D5a1B8b732?chain=canto) | 5,265.939 | 0.00175% | >= 3 years:<br/>514 |
-| 295 | [0x6d61070a83ab80B97B72DCe9D10DAD357ACc6314](https://debank.com/profile/0x6d61070a83ab80B97B72DCe9D10DAD357ACc6314?chain=canto) | 5,142.555 | 0.00171% | < 3 years:<br/>735 |
-| 296 | [0xd204Bc46046FC0Cd3f074fF9B3Be7b5C59f0a150](https://debank.com/profile/0xd204Bc46046FC0Cd3f074fF9B3Be7b5C59f0a150?chain=canto) | 5,136.358 | 0.00171% | >= 3 years:<br/>273, 660, 846 |
-| 297 | [0x7edB0CBfe1217Fe53Af0Fb871D92c1c627C6673C](https://debank.com/profile/0x7edB0CBfe1217Fe53Af0Fb871D92c1c627C6673C?chain=canto) | 5,113.057 | 0.00170% | >= 3 years:<br/>338 |
-| 298 | [0x6E35FcE521C4B4dEA9f97C1bFEB782eC36a016ac](https://debank.com/profile/0x6E35FcE521C4B4dEA9f97C1bFEB782eC36a016ac?chain=canto) | 5,072.054 | 0.00169% | >= 3 years:<br/>721 |
-| 299 | [0xe483508B13b0c9c7D633215FEEa608F8fa28f485](https://debank.com/profile/0xe483508B13b0c9c7D633215FEEa608F8fa28f485?chain=canto) | 5,018.307 | 0.00167% | >= 3 years:<br/>729 |
-| 300 | [0xc051a90d529bb40Bd44D4631f937C62f630dF43f](https://debank.com/profile/0xc051a90d529bb40Bd44D4631f937C62f630dF43f?chain=canto) | 4,995.243 | 0.00166% | >= 3 years:<br/>1149 |
-| 301 | [0x648cf383a4fE746a0e507fBB522e6eCBFFc8EC25](https://debank.com/profile/0x648cf383a4fE746a0e507fBB522e6eCBFFc8EC25?chain=canto) | 4,964.216 | 0.00165% | >= 3 years:<br/>662 |
-| 302 | [0xe4ec13946CE37ae7b3EA6AAC315B486DAD7766F2](https://debank.com/profile/0xe4ec13946CE37ae7b3EA6AAC315B486DAD7766F2?chain=canto) | 4,871.283 | 0.00162% | >= 3 years:<br/>142, 534 |
-| 303 | [0xBE46FC5cB5b4b20d636DFe193b08F40fBcfBf898](https://debank.com/profile/0xBE46FC5cB5b4b20d636DFe193b08F40fBcfBf898?chain=canto) | 4,870.126 | 0.00162% | >= 3 years:<br/>324 |
-| 304 | [0xa164Dc5Da67464DffbA916581dc9c4e6Cf155376](https://debank.com/profile/0xa164Dc5Da67464DffbA916581dc9c4e6Cf155376?chain=canto) | 4,838.799 | 0.00161% | >= 3 years:<br/>643 |
-| 305 | [0x73cCad884e29ef092a7E8B3e943b91Fb3881a7D9](https://debank.com/profile/0x73cCad884e29ef092a7E8B3e943b91Fb3881a7D9?chain=canto) | 4,823.826 | 0.00161% | >= 3 years:<br/>834 |
-| 306 | [0x15Eb585735334Db4B0B75919e5990E6391863B39](https://debank.com/profile/0x15Eb585735334Db4B0B75919e5990E6391863B39?chain=canto) | 4,761.748 | 0.00159% | >= 3 years:<br/>135, 430 |
-| 307 | [0xEe2513fC4127B3786C2f326a8aC22A23C86EF885](https://debank.com/profile/0xEe2513fC4127B3786C2f326a8aC22A23C86EF885?chain=canto) | 4,742.033 | 0.00158% | >= 3 years:<br/>440 |
-| 308 | [0x97Db0E57b1C315a08cc889Ed405ADB100D7F137d](https://debank.com/profile/0x97Db0E57b1C315a08cc889Ed405ADB100D7F137d?chain=canto) | 4,571.953 | 0.00152% | >= 3 years:<br/>197 |
-| 309 | [0xB3Ac867291869f604745518267243B2C2BE9cF23](https://debank.com/profile/0xB3Ac867291869f604745518267243B2C2BE9cF23?chain=canto) | 4,569.684 | 0.00152% | >= 3 years:<br/>624 |
-| 310 | [0x80bb0D87DCe1a94329586Ce9C7d39692bBf44af6](https://debank.com/profile/0x80bb0D87DCe1a94329586Ce9C7d39692bBf44af6?chain=canto) | 4,554.965 | 0.00152% | >= 3 years:<br/>156, 157, 604 |
-| 311 | [0x06480eef46b91B3b31823d0609398f96e55A0D9a](https://debank.com/profile/0x06480eef46b91B3b31823d0609398f96e55A0D9a?chain=canto) | 4,550.909 | 0.00152% | >= 3 years:<br/>630 |
-| 312 | [0x8a1F6ad24847A9cA5e58c4D96B2AB918Bfac791f](https://debank.com/profile/0x8a1F6ad24847A9cA5e58c4D96B2AB918Bfac791f?chain=canto) | 4,498.401 | 0.00150% | < 3 years:<br/>318, 1160 |
-| 313 | [0xB2515a7221b2654F9Faae0E4eD1d0E49Aa7B85DD](https://debank.com/profile/0xB2515a7221b2654F9Faae0E4eD1d0E49Aa7B85DD?chain=canto) | 4,405.528 | 0.00147% | >= 3 years:<br/>707 |
-| 314 | [0x56BbBDD8d9e939EC047E3a61907a4caF4d90d231](https://debank.com/profile/0x56BbBDD8d9e939EC047E3a61907a4caF4d90d231?chain=canto) | 4,351.251 | 0.00145% | >= 3 years:<br/>138 |
-| 315 | [0x6fE4aceD57AE0b50D14229F3d40617C8b7d2F2E1](https://debank.com/profile/0x6fE4aceD57AE0b50D14229F3d40617C8b7d2F2E1?chain=canto) | 4,293.543 | 0.00143% | >= 3 years:<br/>145, 431 |
-| 316 | [0x8995E4E1312133F24035880DbC55f1bA9e323ae0](https://debank.com/profile/0x8995E4E1312133F24035880DbC55f1bA9e323ae0?chain=canto) | 4,279.072 | 0.00143% | >= 3 years:<br/>415 |
-| 317 | [0xa6B34d24dd5FA18db31286B296248cC95eA11d8B](https://debank.com/profile/0xa6B34d24dd5FA18db31286B296248cC95eA11d8B?chain=canto) | 4,158.926 | 0.00139% | >= 3 years:<br/>564 |
-| 318 | [0x4A228f14d2130E8E4636418B52aAF3D6b4E887D3](https://debank.com/profile/0x4A228f14d2130E8E4636418B52aAF3D6b4E887D3?chain=canto) | 4,105.081 | 0.00137% | >= 3 years:<br/>162 |
-| 319 | [0xD40846A19fdC9c8255DCcD18BcBB261BDBF5e4db](https://debank.com/profile/0xD40846A19fdC9c8255DCcD18BcBB261BDBF5e4db?chain=canto) | 3,951.878 | 0.00132% | >= 3 years:<br/>243, 247, 249 |
-| 320 | [0x8189CA95335AF50A0c9490547186008a6d7747dA](https://debank.com/profile/0x8189CA95335AF50A0c9490547186008a6d7747dA?chain=canto) | 3,902.629 | 0.00130% | >= 3 years:<br/>536, 891, 949 |
-| 321 | [0x9ba3956bbC21409cfA533499d461ae39C979993B](https://debank.com/profile/0x9ba3956bbC21409cfA533499d461ae39C979993B?chain=canto) | 3,871.537 | 0.00129% | >= 3 years:<br/>888, 946 |
-| 322 | [0x8843f611A7510f139DB69541AeBb33dd2319C093](https://debank.com/profile/0x8843f611A7510f139DB69541AeBb33dd2319C093?chain=canto) | 3,871.537 | 0.00129% | >= 3 years:<br/>889, 947 |
-| 323 | [0xdD81866Ea68e3f7A036D3bC386c445745E135b16](https://debank.com/profile/0xdD81866Ea68e3f7A036D3bC386c445745E135b16?chain=canto) | 3,871.537 | 0.00129% | >= 3 years:<br/>892, 950 |
-| 324 | [0x0A335391047F06bd67AF434314614B39c70499Eb](https://debank.com/profile/0x0A335391047F06bd67AF434314614B39c70499Eb?chain=canto) | 3,871.537 | 0.00129% | >= 3 years:<br/>893, 951 |
-| 325 | [0xaee394a8e28bE8b27D9a08e80c9A8aD6D72e52A6](https://debank.com/profile/0xaee394a8e28bE8b27D9a08e80c9A8aD6D72e52A6?chain=canto) | 3,837.288 | 0.00128% | >= 3 years:<br/>605 |
-| 326 | [0x864DE5bbaf4b8c808E94a8385B95B0855d170137](https://debank.com/profile/0x864DE5bbaf4b8c808E94a8385B95B0855d170137?chain=canto) | 3,751.558 | 0.00125% | >= 3 years:<br/>481 |
-| 327 | [0xc98b4228FF1F1840607d20Fd20c208215098FAF3](https://debank.com/profile/0xc98b4228FF1F1840607d20Fd20c208215098FAF3?chain=canto) | 3,740.766 | 0.00125% | >= 3 years:<br/>632 |
-| 328 | [0xA626Bd40A8c88F59A4CF9b1821A7bD71faD96285](https://debank.com/profile/0xA626Bd40A8c88F59A4CF9b1821A7bD71faD96285?chain=canto) | 3,676.47 | 0.00122% | >= 3 years:<br/>710 |
-| 329 | [0x76500b6A6C640aE7B695ef049F20d24A2ca476DF](https://debank.com/profile/0x76500b6A6C640aE7B695ef049F20d24A2ca476DF?chain=canto) | 3,676.179 | 0.00122% | >= 3 years:<br/>812 |
-| 330 | [0xB1fC41Cbad16caFDfC2ED196c7fe515DfB6a1577](https://debank.com/profile/0xB1fC41Cbad16caFDfC2ED196c7fe515DfB6a1577?chain=canto) | 3,622.044 | 0.00121% | >= 3 years:<br/>115 |
-| 331 | [0x0c6306c1ff8F0cA8432B761085d5Ce74160A499a](https://debank.com/profile/0x0c6306c1ff8F0cA8432B761085d5Ce74160A499a?chain=canto) | 3,579.102 | 0.00119% | >= 3 years:<br/>408 |
-| 332 | [0x305DD3323db135dCAD64FD40744133259823d627](https://debank.com/profile/0x305DD3323db135dCAD64FD40744133259823d627?chain=canto) | 3,467.762 | 0.00116% | >= 3 years:<br/>1064 |
-| 333 | [0x32430730567407f4D50764465AEcC381B818E056](https://debank.com/profile/0x32430730567407f4D50764465AEcC381B818E056?chain=canto) | 3,442.086 | 0.00115% | >= 3 years:<br/>489 |
-| 334 | [0x0d7BbDb6d0D82E896ECB8ED8Bc33aaBd20dE0dA9](https://debank.com/profile/0x0d7BbDb6d0D82E896ECB8ED8Bc33aaBd20dE0dA9?chain=canto) | 3,397.381 | 0.00113% | >= 3 years:<br/>151 |
-| 335 | [0x25315430a21392bF137EcD1e843a8F3c62266b81](https://debank.com/profile/0x25315430a21392bF137EcD1e843a8F3c62266b81?chain=canto) | 3,382.804 | 0.00113% | >= 3 years:<br/>594 |
-| 336 | [0xf3d0Cb1b3Db63A5f98a0EcB05d0D9F263058B7CB](https://debank.com/profile/0xf3d0Cb1b3Db63A5f98a0EcB05d0D9F263058B7CB?chain=canto) | 3,375.731 | 0.00112% | >= 3 years:<br/>623 |
-| 337 | [0xB1e22281E1BC8Ab83Da1CB138e24aCB004B5a4ca](https://debank.com/profile/0xB1e22281E1BC8Ab83Da1CB138e24aCB004B5a4ca?chain=canto) | 3,372.192 | 0.00112% | >= 3 years:<br/>280 |
-| 338 | [0x96FCa82BB2ce4c5A700a14581412366CC05dd6fA](https://debank.com/profile/0x96FCa82BB2ce4c5A700a14581412366CC05dd6fA?chain=canto) | 3,372.192 | 0.00112% | >= 3 years:<br/>136 |
-| 339 | [0x479dE30A1E7e53657C437a6d36ae6389B290B5Fb](https://debank.com/profile/0x479dE30A1E7e53657C437a6d36ae6389B290B5Fb?chain=canto) | 3,372.192 | 0.00112% | >= 3 years:<br/>227 |
-| 340 | [0xcaE8cF1e2119484D6CC3B6EFAad2242aDBDB1Ea8](https://debank.com/profile/0xcaE8cF1e2119484D6CC3B6EFAad2242aDBDB1Ea8?chain=canto) | 3,335.981 | 0.00111% | >= 3 years:<br/>758 |
-| 341 | [0xc38E6640816B2731ed595780582A87c9b990D0C0](https://debank.com/profile/0xc38E6640816B2731ed595780582A87c9b990D0C0?chain=canto) | 3,335.103 | 0.00111% | >= 3 years:<br/>571 |
-| 342 | [0xDb2eDCC7880F0071959e2f6713CC335a6690FC84](https://debank.com/profile/0xDb2eDCC7880F0071959e2f6713CC335a6690FC84?chain=canto) | 3,297.063 | 0.00110% | >= 3 years:<br/>539 |
-| 343 | [0xe5e1e9c58DB4ECaB40fD46D7aC3578b74c1D0921](https://debank.com/profile/0xe5e1e9c58DB4ECaB40fD46D7aC3578b74c1D0921?chain=canto) | 3,278.832 | 0.00109% | >= 3 years:<br/>692 |
-| 344 | [0xE1b84A8CfD690A0b34AF8EE610b7FFbE123D8608](https://debank.com/profile/0xE1b84A8CfD690A0b34AF8EE610b7FFbE123D8608?chain=canto) | 3,266.911 | 0.00109% | >= 3 years:<br/>524 |
-| 345 | [0x0F9548165C4960624DEbb7e38b504E9Fd524d6Af](https://debank.com/profile/0x0F9548165C4960624DEbb7e38b504E9Fd524d6Af?chain=canto) | 3,251.359 | 0.00108% | >= 3 years:<br/>474 |
-| 346 | [0x7386d48802560A1d90459De0Af88103A1754B872](https://debank.com/profile/0x7386d48802560A1d90459De0Af88103A1754B872?chain=canto) | 3,243.71 | 0.00108% | >= 3 years:<br/>709, 1079 |
-| 347 | [0x2f45724d7E384b38D5C97206e78470544304887F](https://debank.com/profile/0x2f45724d7E384b38D5C97206e78470544304887F?chain=canto) | 3,224.998 | 0.00107% | >= 3 years:<br/>642 |
-| 348 | [0x59ce436890c241Bac964FDEBBcc0c4f1eF0C2deE](https://debank.com/profile/0x59ce436890c241Bac964FDEBBcc0c4f1eF0C2deE?chain=canto) | 3,157.023 | 0.00105% | >= 3 years:<br/>460 |
-| 349 | [0x411C88b3Df78c91A6cB401dc6e10dE4e55D8E36D](https://debank.com/profile/0x411C88b3Df78c91A6cB401dc6e10dE4e55D8E36D?chain=canto) | 3,151.031 | 0.00105% | >= 3 years:<br/>843 |
-| 350 | [0x145d9df4c64a6b4b50766F54A76d0eb12d93Fda7](https://debank.com/profile/0x145d9df4c64a6b4b50766F54A76d0eb12d93Fda7?chain=canto) | 3,086.821 | 0.00103% | >= 3 years:<br/>466 |
-| 351 | [0x624475C20a9EeAF02Ecd628a24393d2B63e94154](https://debank.com/profile/0x624475C20a9EeAF02Ecd628a24393d2B63e94154?chain=canto) | 3,069.126 | 0.00102% | >= 3 years:<br/>576 |
-| 352 | [0x51c2b001Df060F3e15b3a26e74A37588fa76DE7d](https://debank.com/profile/0x51c2b001Df060F3e15b3a26e74A37588fa76DE7d?chain=canto) | 3,042.164 | 0.00101% | >= 3 years:<br/>573 |
-| 353 | [0x9505F160A9a74ad532d674De4F200484e0049b43](https://debank.com/profile/0x9505F160A9a74ad532d674De4F200484e0049b43?chain=canto) | 2,998.359 | 0.00100% | >= 3 years:<br/>250, 251 |
-| 354 | [0x8547Dfc5f5b44709849422A6025635aAE72473E1](https://debank.com/profile/0x8547Dfc5f5b44709849422A6025635aAE72473E1?chain=canto) | 2,979.756 | 0.00099% | < 3 years:<br/>1157 |
-| 355 | [0x2Eb5E41673506c9acFC94b665BD0Ca5B5F7335f9](https://debank.com/profile/0x2Eb5E41673506c9acFC94b665BD0Ca5B5F7335f9?chain=canto) | 2,976.07 | 0.00099% | >= 3 years:<br/>876, 1094 |
-| 356 | [0xd5bac35955405bf81D2Bec4Bf94Dc587784e5be2](https://debank.com/profile/0xd5bac35955405bf81D2Bec4Bf94Dc587784e5be2?chain=canto) | 2,952.531 | 0.00098% | >= 3 years:<br/>873, 879 |
-| 357 | [0x97Eda3C9f1e4c7eF743b552Ab687Aa49FCa804c0](https://debank.com/profile/0x97Eda3C9f1e4c7eF743b552Ab687Aa49FCa804c0?chain=canto) | 2,930.321 | 0.00098% | >= 3 years:<br/>488 |
-| 358 | [0xE940FCf8195bEe37cf5a5a72f79E85280B28c5a9](https://debank.com/profile/0xE940FCf8195bEe37cf5a5a72f79E85280B28c5a9?chain=canto) | 2,892.426 | 0.00096% | >= 3 years:<br/>563 |
-| 359 | [0x588cF3AFDfAd557168D15d377757c83856E6Ff12](https://debank.com/profile/0x588cF3AFDfAd557168D15d377757c83856E6Ff12?chain=canto) | 2,860.804 | 0.00095% | >= 3 years:<br/>469 |
-| 360 | [0x7206BC81E2C52441EEFfE120118aC880f4528dDA](https://debank.com/profile/0x7206BC81E2C52441EEFfE120118aC880f4528dDA?chain=canto) | 2,856.246 | 0.00095% | >= 3 years:<br/>259 |
-| 361 | [0xc2979f313dD6731efD591e983d4CC5231E49a387](https://debank.com/profile/0xc2979f313dD6731efD591e983d4CC5231E49a387?chain=canto) | 2,836.475 | 0.00094% | >= 3 years:<br/>665 |
-| 362 | [0x85E069c6743A5D0ACf2B7371A28Ba3273fc51431](https://debank.com/profile/0x85E069c6743A5D0ACf2B7371A28Ba3273fc51431?chain=canto) | 2,816.846 | 0.00094% | >= 3 years:<br/>754 |
-| 363 | [0xf88EaDe6A90e32C869BD12Bcc0071Dc42aB77529](https://debank.com/profile/0xf88EaDe6A90e32C869BD12Bcc0071Dc42aB77529?chain=canto) | 2,789.394 | 0.00093% | >= 3 years:<br/>705, 836 |
-| 364 | [0x9665B6F0CF162792851A902E452248B16F2f4b5A](https://debank.com/profile/0x9665B6F0CF162792851A902E452248B16F2f4b5A?chain=canto) | 2,668.849 | 0.00089% | >= 3 years:<br/>131, 132 |
-| 365 | [0x973872cA85cD7175b02FE24701438174901ED751](https://debank.com/profile/0x973872cA85cD7175b02FE24701438174901ED751?chain=canto) | 2,630.372 | 0.00088% | >= 3 years:<br/>165 |
-| 366 | [0xe0AdE70f1B4ED54cb9583A1ff362c1c0F4678403](https://debank.com/profile/0xe0AdE70f1B4ED54cb9583A1ff362c1c0F4678403?chain=canto) | 2,628.065 | 0.00088% | >= 3 years:<br/>645 |
-| 367 | [0xe12D731750E222eC53b001E00d978901B134CFC9](https://debank.com/profile/0xe12D731750E222eC53b001E00d978901B134CFC9?chain=canto) | 2,615.192 | 0.00087% | >= 3 years:<br/>174, 176, 494 |
-| 368 | [0x20cE0C0f284219f4E0B68804a8333A782461674c](https://debank.com/profile/0x20cE0C0f284219f4E0B68804a8333A782461674c?chain=canto) | 2,544.518 | 0.00085% | >= 3 years:<br/>414 |
-| 369 | [0xD90515a69C82b92992fA3c03D010AcCB366Bf2C1](https://debank.com/profile/0xD90515a69C82b92992fA3c03D010AcCB366Bf2C1?chain=canto) | 2,514.747 | 0.00084% | >= 3 years:<br/>565 |
-| 370 | [0x0B75Ca06385bE5683e071c5859F944CD982081EE](https://debank.com/profile/0x0B75Ca06385bE5683e071c5859F944CD982081EE?chain=canto) | 2,498.862 | 0.00083% | < 3 years:<br/>1163 |
-| 371 | [0x1b35fcb58F5E1e2a42fF8E66ddf5646966aBf08C](https://debank.com/profile/0x1b35fcb58F5E1e2a42fF8E66ddf5646966aBf08C?chain=canto) | 2,391.774 | 0.00080% | >= 3 years:<br/>309 |
-| 372 | [0xD9D836EBC67Abeec65b29E586F89816Dab991F69](https://debank.com/profile/0xD9D836EBC67Abeec65b29E586F89816Dab991F69?chain=canto) | 2,370.961 | 0.00079% | >= 3 years:<br/>874 |
-| 373 | [0x9BC2F420E089677c64e079044eB6685232e732Be](https://debank.com/profile/0x9BC2F420E089677c64e079044eB6685232e732Be?chain=canto) | 2,357.681 | 0.00079% | >= 3 years:<br/>672 |
-| 374 | [0x6F106e0ef498a594CCE8280976822fA3798A35cb](https://debank.com/profile/0x6F106e0ef498a594CCE8280976822fA3798A35cb?chain=canto) | 2,317.844 | 0.00077% | >= 3 years:<br/>233 |
-| 375 | [0x2B185C762F6Fb49a07116EC06B238B58Fe2BeC53](https://debank.com/profile/0x2B185C762F6Fb49a07116EC06B238B58Fe2BeC53?chain=canto) | 2,317.544 | 0.00077% | >= 3 years:<br/>422 |
-| 376 | [0xFe36AacBCF5677a4A04288764C16acb4220894b9](https://debank.com/profile/0xFe36AacBCF5677a4A04288764C16acb4220894b9?chain=canto) | 2,310.667 | 0.00077% | >= 3 years:<br/>217 |
-| 377 | [0x3a390b018fc3425d06FB84DCcdD140481A960939](https://debank.com/profile/0x3a390b018fc3425d06FB84DCcdD140481A960939?chain=canto) | 2,297.587 | 0.00077% | >= 3 years:<br/>149 |
-| 378 | [0x88c21E961503061EcC51dB6Bd09c01d5daCCe427](https://debank.com/profile/0x88c21E961503061EcC51dB6Bd09c01d5daCCe427?chain=canto) | 2,262.774 | 0.00075% | >= 3 years:<br/>379, 386 |
-| 379 | [0xa66e216b038d0F4121bf9A218dABbf4759375f5E](https://debank.com/profile/0xa66e216b038d0F4121bf9A218dABbf4759375f5E?chain=canto) | 2,253.144 | 0.00075% | >= 3 years:<br/>105 |
-| 380 | [0x1448D297420799a0dEB4bE0C270E8ec310c8E8dD](https://debank.com/profile/0x1448D297420799a0dEB4bE0C270E8ec310c8E8dD?chain=canto) | 2,145.577 | 0.00071% | >= 3 years:<br/>260, 461 |
-| 381 | [0x5Da70A90CaAf7015DE9754709400a97A988476DB](https://debank.com/profile/0x5Da70A90CaAf7015DE9754709400a97A988476DB?chain=canto) | 2,077.255 | 0.00069% | >= 3 years:<br/>720 |
-| 382 | [0x84A51c92a653dc0e6AE11C9D873C55Ee7Af62106](https://debank.com/profile/0x84A51c92a653dc0e6AE11C9D873C55Ee7Af62106?chain=canto) | 2,059.992 | 0.00069% | >= 3 years:<br/>281, 282 |
-| 383 | [0xEf4aA2606C138D98743FFb46959583d92Ca1E6a0](https://debank.com/profile/0xEf4aA2606C138D98743FFb46959583d92Ca1E6a0?chain=canto) | 2,057.148 | 0.00069% | < 3 years:<br/>722 |
-| 384 | [0x5FE1521173F553084eD21e5CbeDE7233b5fE1AA7](https://debank.com/profile/0x5FE1521173F553084eD21e5CbeDE7233b5fE1AA7?chain=canto) | 2,006.517 | 0.00067% | >= 3 years:<br/>127, 134, 407 |
-| 385 | [0x1E480827489E3eA19f82EF213b67200A76C0DF58](https://debank.com/profile/0x1E480827489E3eA19f82EF213b67200A76C0DF58?chain=canto) | 2,000.011 | 0.00067% | >= 3 years:<br/>207 |
-| 386 | [0x78B05688bEb478a03160Cd757806d0893407BdC1](https://debank.com/profile/0x78B05688bEb478a03160Cd757806d0893407BdC1?chain=canto) | 1,990.542 | 0.00066% | >= 3 years:<br/>704 |
-| 387 | [0xF0A59a372b17F146661cA6E48E87077A8784B3AF](https://debank.com/profile/0xF0A59a372b17F146661cA6E48E87077A8784B3AF?chain=canto) | 1,986.644 | 0.00066% | >= 3 years:<br/>1112 |
-| 388 | [0x1ca96E1A7Ee91Df4D20DeD37D6DB68734419D682](https://debank.com/profile/0x1ca96E1A7Ee91Df4D20DeD37D6DB68734419D682?chain=canto) | 1,976.463 | 0.00066% | >= 3 years:<br/>619 |
-| 389 | [0xA1958a37C21372482DEfF4618BAEbbeC23C9a449](https://debank.com/profile/0xA1958a37C21372482DEfF4618BAEbbeC23C9a449?chain=canto) | 1,973.228 | 0.00066% | >= 3 years:<br/>1044 |
-| 390 | [0xc8728Ae130381EB77Fc9a8b715564B00e83E19Df](https://debank.com/profile/0xc8728Ae130381EB77Fc9a8b715564B00e83E19Df?chain=canto) | 1,939.285 | 0.00065% | >= 3 years:<br/>468 |
-| 391 | [0x8FFAa09A58Fc83D4d68A597F845309DA680be006](https://debank.com/profile/0x8FFAa09A58Fc83D4d68A597F845309DA680be006?chain=canto) | 1,926.439 | 0.00064% | >= 3 years:<br/>713 |
-| 392 | [0xE98cE2b7B32C2Eda0fbf9f1756418FDde2265957](https://debank.com/profile/0xE98cE2b7B32C2Eda0fbf9f1756418FDde2265957?chain=canto) | 1,847.978 | 0.00062% | >= 3 years:<br/>615 |
-| 393 | [0xdceb0Bb3311342e3ce9e49f57aFfCE9dEac40bA1](https://debank.com/profile/0xdceb0Bb3311342e3ce9e49f57aFfCE9dEac40bA1?chain=canto) | 1,841.705 | 0.00061% | >= 3 years:<br/>976 |
-| 394 | [0x8874174A2366668d54fEa6343F71709389563c8a](https://debank.com/profile/0x8874174A2366668d54fEa6343F71709389563c8a?chain=canto) | 1,837.696 | 0.00061% | >= 3 years:<br/>411 |
-| 395 | [0x97294B51BF128E6988c7747E0696Ed7F7CfEe993](https://debank.com/profile/0x97294B51BF128E6988c7747E0696Ed7F7CfEe993?chain=canto) | 1,832.606 | 0.00061% | >= 3 years:<br/>192 |
-| 396 | [0x6aef48eA854Bc0e805232ceCbab2fab592037c19](https://debank.com/profile/0x6aef48eA854Bc0e805232ceCbab2fab592037c19?chain=canto) | 1,828.349 | 0.00061% | >= 3 years:<br/>858 |
-| 397 | [0x686Bd59caE3e78107515E87B2895cCBe27fb7D0A](https://debank.com/profile/0x686Bd59caE3e78107515E87B2895cCBe27fb7D0A?chain=canto) | 1,792.121 | 0.00060% | >= 3 years:<br/>276 |
-| 398 | [0x868CBfd33ec93B451c510125E4D9f1AB1E42fcD2](https://debank.com/profile/0x868CBfd33ec93B451c510125E4D9f1AB1E42fcD2?chain=canto) | 1,792.06 | 0.00060% | >= 3 years:<br/>224 |
-| 399 | [0x6B6192F3299187DC68306c0aB43AbBAeD8eA4AbA](https://debank.com/profile/0x6B6192F3299187DC68306c0aB43AbBAeD8eA4AbA?chain=canto) | 1,716.656 | 0.00057% | >= 3 years:<br/>634 |
-| 400 | [0x9DEB607b7E92096df55b02aA563e82F612fD0DEf](https://debank.com/profile/0x9DEB607b7E92096df55b02aA563e82F612fD0DEf?chain=canto) | 1,703.789 | 0.00057% | >= 3 years:<br/>222, 522 |
-| 401 | [0xB3dDC2A5B4EbDb7640191906Bd4195E23e17142c](https://debank.com/profile/0xB3dDC2A5B4EbDb7640191906Bd4195E23e17142c?chain=canto) | 1,686.096 | 0.00056% | >= 3 years:<br/>143<br/><br/>< 3 years:<br/>942 |
-| 402 | [0x812B9c3Ea2c49beC95D0Bcda4Db39513baaee261](https://debank.com/profile/0x812B9c3Ea2c49beC95D0Bcda4Db39513baaee261?chain=canto) | 1,675.799 | 0.00056% | >= 3 years:<br/>155 |
-| 403 | [0xc2Ffb3Ba114F19F6f2e5Fad5C68f25A8e942d805](https://debank.com/profile/0xc2Ffb3Ba114F19F6f2e5Fad5C68f25A8e942d805?chain=canto) | 1,584.415 | 0.00053% | >= 3 years:<br/>356 |
-| 404 | [0x664D448A984DAe1e829BF71e837faCd7b657EE10](https://debank.com/profile/0x664D448A984DAe1e829BF71e837faCd7b657EE10?chain=canto) | 1,547.014 | 0.00052% | >= 3 years:<br/>477, 746 |
-| 405 | [0xbC82A7232c1f043e4cc608e0eC1510Cf50E28f64](https://debank.com/profile/0xbC82A7232c1f043e4cc608e0eC1510Cf50E28f64?chain=canto) | 1,503.306 | 0.00050% | >= 3 years:<br/>185, 211 |
-| 406 | [0xC9ef36e1A1EAA2a832fC344dCf058b2f0f6ac51A](https://debank.com/profile/0xC9ef36e1A1EAA2a832fC344dCf058b2f0f6ac51A?chain=canto) | 1,481.25 | 0.00049% | >= 3 years:<br/>928 |
-| 407 | [0x580A5b2f32bD14af9da1e01ef41fEB754f78c350](https://debank.com/profile/0x580A5b2f32bD14af9da1e01ef41fEB754f78c350?chain=canto) | 1,469.388 | 0.00049% | >= 3 years:<br/>694 |
-| 408 | [0x46c575C8E7Fea373f989e9b3e088c2e16FB7B523](https://debank.com/profile/0x46c575C8E7Fea373f989e9b3e088c2e16FB7B523?chain=canto) | 1,469.324 | 0.00049% | >= 3 years:<br/>429 |
-| 409 | [0xAFb4BCE970b77222a74D240294Bd67216114b8eB](https://debank.com/profile/0xAFb4BCE970b77222a74D240294Bd67216114b8eB?chain=canto) | 1,465.265 | 0.00049% | < 3 years:<br/>1127 |
-| 410 | [0x32Ec95fF39425Bd7F2C98D078A0b4AfB03641521](https://debank.com/profile/0x32Ec95fF39425Bd7F2C98D078A0b4AfB03641521?chain=canto) | 1,461.783 | 0.00049% | >= 3 years:<br/>292, 333, 700 |
-| 411 | [0x5B187c84b31C243202959aB4B54f8396E5DBaf32](https://debank.com/profile/0x5B187c84b31C243202959aB4B54f8396E5DBaf32?chain=canto) | 1,455.232 | 0.00048% | >= 3 years:<br/>475 |
-| 412 | [0xEA5954B24de2877b497CabAb5E54682cF5930191](https://debank.com/profile/0xEA5954B24de2877b497CabAb5E54682cF5930191?chain=canto) | 1,415.156 | 0.00047% | >= 3 years:<br/>714 |
-| 413 | [0xAB031dD0A55058794DCa22b01941eF9A299176c1](https://debank.com/profile/0xAB031dD0A55058794DCa22b01941eF9A299176c1?chain=canto) | 1,385.243 | 0.00046% | >= 3 years:<br/>1117 |
-| 414 | [0x0e6E75D4842983a45C47d8CD88FcC32bAeec62C4](https://debank.com/profile/0x0e6E75D4842983a45C47d8CD88FcC32bAeec62C4?chain=canto) | 1,382.236 | 0.00046% | >= 3 years:<br/>358 |
-| 415 | [0xe9bCCEd88099FC4aacF78b7c43307E758E1a5382](https://debank.com/profile/0xe9bCCEd88099FC4aacF78b7c43307E758E1a5382?chain=canto) | 1,371.575 | 0.00046% | >= 3 years:<br/>258, 596 |
-| 416 | [0x3bE2a617a86DD49Bc8893ca04CEa2e5F444F9c12](https://debank.com/profile/0x3bE2a617a86DD49Bc8893ca04CEa2e5F444F9c12?chain=canto) | 1,358.574 | 0.00045% | >= 3 years:<br/>283 |
-| 417 | [0x945a873B0E08a361458141f637031490cA01b9c1](https://debank.com/profile/0x945a873B0E08a361458141f637031490cA01b9c1?chain=canto) | 1,353.96 | 0.00045% | >= 3 years:<br/>169, 193 |
-| 418 | [0xc45D05CDc809d20c7B14959E8cd4a1199E3e966F](https://debank.com/profile/0xc45D05CDc809d20c7B14959E8cd4a1199E3e966F?chain=canto) | 1,329.34 | 0.00044% | >= 3 years:<br/>198 |
-| 419 | [0x891C16d225e4Fd30d0874Bf2E139B0c11a459a07](https://debank.com/profile/0x891C16d225e4Fd30d0874Bf2E139B0c11a459a07?chain=canto) | 1,265.696 | 0.00042% | >= 3 years:<br/>126 |
-| 420 | [0xCbE68Ade2d49b26d67A79fE769Ccce7906834177](https://debank.com/profile/0xCbE68Ade2d49b26d67A79fE769Ccce7906834177?chain=canto) | 1,253.087 | 0.00042% | >= 3 years:<br/>1122 |
-| 421 | [0x216EaA9a81f01e682F30983CbB65cE32F3b70097](https://debank.com/profile/0x216EaA9a81f01e682F30983CbB65cE32F3b70097?chain=canto) | 1,219.804 | 0.00041% | >= 3 years:<br/>508 |
-| 422 | [0x3e051c89cd06e6867ce98c758fCC665d2148E1bb](https://debank.com/profile/0x3e051c89cd06e6867ce98c758fCC665d2148E1bb?chain=canto) | 1,202.331 | 0.00040% | >= 3 years:<br/>599 |
-| 423 | [0xb25024c421D4F8BEbE468d3dC353e07868C99901](https://debank.com/profile/0xb25024c421D4F8BEbE468d3dC353e07868C99901?chain=canto) | 1,186.699 | 0.00040% | >= 3 years:<br/>716 |
-| 424 | [0x7540cA8906357dcAf518d0E78b6F354268A0C736](https://debank.com/profile/0x7540cA8906357dcAf518d0E78b6F354268A0C736?chain=canto) | 1,174.91 | 0.00039% | >= 3 years:<br/>433 |
-| 425 | [0x97F50652a201Eb3f8fB9DdB33766C7157224c45B](https://debank.com/profile/0x97F50652a201Eb3f8fB9DdB33766C7157224c45B?chain=canto) | 1,162.04 | 0.00039% | < 3 years:<br/>833 |
-| 426 | [0x42957757894b5FFe3D2B5DAed229d220C4b62e3c](https://debank.com/profile/0x42957757894b5FFe3D2B5DAed229d220C4b62e3c?chain=canto) | 1,161.738 | 0.00039% | >= 3 years:<br/>493 |
-| 427 | [0x564d5AEEb2CdE5Ecd16dA4C0398C3937441359b4](https://debank.com/profile/0x564d5AEEb2CdE5Ecd16dA4C0398C3937441359b4?chain=canto) | 1,133.867 | 0.00038% | >= 3 years:<br/>314, 355 |
-| 428 | [0x536964A769E38B0c4225B9d949932f00031322bd](https://debank.com/profile/0x536964A769E38B0c4225B9d949932f00031322bd?chain=canto) | 1,128.033 | 0.00038% | >= 3 years:<br/>500 |
-| 429 | [0x464F6392E68Bc6093354E5bf12692e37F5e4113e](https://debank.com/profile/0x464F6392E68Bc6093354E5bf12692e37F5e4113e?chain=canto) | 1,124.064 | 0.00037% | >= 3 years:<br/>170 |
-| 430 | [0x37FC9Dc092E8a30A63A1567C9ac9738A7D4A08ed](https://debank.com/profile/0x37FC9Dc092E8a30A63A1567C9ac9738A7D4A08ed?chain=canto) | 1,124.064 | 0.00037% | >= 3 years:<br/>108 |
-| 431 | [0x0496cbAD3B943cc246Aa793AB069bFC5516961Ef](https://debank.com/profile/0x0496cbAD3B943cc246Aa793AB069bFC5516961Ef?chain=canto) | 1,124.064 | 0.00037% | >= 3 years:<br/>109 |
-| 432 | [0x93A51Eee2306d98061747626776F8ddF761B496e](https://debank.com/profile/0x93A51Eee2306d98061747626776F8ddF761B496e?chain=canto) | 1,100.236 | 0.00037% | >= 3 years:<br/>627 |
-| 433 | [0xEb0CeB1F89D1dd01bDFD2Ff9e145271d8FEEfB00](https://debank.com/profile/0xEb0CeB1F89D1dd01bDFD2Ff9e145271d8FEEfB00?chain=canto) | 1,091.562 | 0.00036% | >= 3 years:<br/>275 |
-| 434 | [0x609470c2f08FF626078bA64Ceb905d73b155089d](https://debank.com/profile/0x609470c2f08FF626078bA64Ceb905d73b155089d?chain=canto) | 1,056.818 | 0.00035% | >= 3 years:<br/>117, 592 |
-| 435 | [0x68897d3c09C5019BfA59fc863f9d86d4583861EF](https://debank.com/profile/0x68897d3c09C5019BfA59fc863f9d86d4583861EF?chain=canto) | 1,049.812 | 0.00035% | >= 3 years:<br/>348, 708 |
-| 436 | [0x40Ee2aFBFBc4286b25e2A194920C7d9591eef9Dc](https://debank.com/profile/0x40Ee2aFBFBc4286b25e2A194920C7d9591eef9Dc?chain=canto) | 1,044.774 | 0.00035% | >= 3 years:<br/>416 |
-| 437 | [0x57Aa14fcFeF7625Fc0409C5E5579d4899ab1933c](https://debank.com/profile/0x57Aa14fcFeF7625Fc0409C5E5579d4899ab1933c?chain=canto) | 1,041.452 | 0.00035% | >= 3 years:<br/>941 |
-| 438 | [0x2e6A27556bF03125b4DB4704fcc86247D432365B](https://debank.com/profile/0x2e6A27556bF03125b4DB4704fcc86247D432365B?chain=canto) | 1,035.839 | 0.00035% | >= 3 years:<br/>321 |
-| 439 | [0xDEb3994785Bfc8863e808df0E0C43C9C0058d7c9](https://debank.com/profile/0xDEb3994785Bfc8863e808df0E0C43C9C0058d7c9?chain=canto) | 1,029.835 | 0.00034% | >= 3 years:<br/>231, 635 |
-| 440 | [0x013cF8AfDa4d6739fc585734f2D4A01F9deB99e0](https://debank.com/profile/0x013cF8AfDa4d6739fc585734f2D4A01F9deB99e0?chain=canto) | 1,013.894 | 0.00034% | >= 3 years:<br/>443 |
-| 441 | [0xCEDF6A78AB0D2aeeE70Ecf511230dC1ea38315E1](https://debank.com/profile/0xCEDF6A78AB0D2aeeE70Ecf511230dC1ea38315E1?chain=canto) | 998.129 | 0.00033% | < 3 years:<br/>921 |
-| 442 | [0x0F552F5d5d5badB92efE09232ffEe5c81c3Bb394](https://debank.com/profile/0x0F552F5d5d5badB92efE09232ffEe5c81c3Bb394?chain=canto) | 976.243 | 0.00033% | >= 3 years:<br/>838, 859 |
-| 443 | [0xBd1E1Cc9613B510d1669D1e79Fd0115C70a4C7be](https://debank.com/profile/0xBd1E1Cc9613B510d1669D1e79Fd0115C70a4C7be?chain=canto) | 962.199 | 0.00032% | >= 3 years:<br/>202, 203 |
-| 444 | [0xC8c15FEd0F83E03Bb3b6db2ccEBb45DE5914705c](https://debank.com/profile/0xC8c15FEd0F83E03Bb3b6db2ccEBb45DE5914705c?chain=canto) | 953.915 | 0.00032% | >= 3 years:<br/>495 |
-| 445 | [0x3eFbe2262eD0Ee598FdD0417909cbaaEE8D673A1](https://debank.com/profile/0x3eFbe2262eD0Ee598FdD0417909cbaaEE8D673A1?chain=canto) | 951.103 | 0.00032% | >= 3 years:<br/>764 |
-| 446 | [0x3aE6a0e8Ec1Edd305553686387dC85Ff8D16AC51](https://debank.com/profile/0x3aE6a0e8Ec1Edd305553686387dC85Ff8D16AC51?chain=canto) | 949.834 | 0.00032% | >= 3 years:<br/>111 |
-| 447 | [0x808E3dE77975b9b050D4A7DcbfCE909E20fcF4B5](https://debank.com/profile/0x808E3dE77975b9b050D4A7DcbfCE909E20fcF4B5?chain=canto) | 946.458 | 0.00032% | >= 3 years:<br/>559 |
-| 448 | [0x505520c74D915B818CB78f4511C2FA62e759Bd66](https://debank.com/profile/0x505520c74D915B818CB78f4511C2FA62e759Bd66?chain=canto) | 935.646 | 0.00031% | >= 3 years:<br/>706 |
-| 449 | [0x66146eA74ce40B4b412cdD47378D538F6bcEB8E9](https://debank.com/profile/0x66146eA74ce40B4b412cdD47378D538F6bcEB8E9?chain=canto) | 925.831 | 0.00031% | >= 3 years:<br/>580<br/><br/>< 3 years:<br/>357 |
-| 450 | [0x8E07Ab8Fc9E5F2613b17a5E5069673d522D0207a](https://debank.com/profile/0x8E07Ab8Fc9E5F2613b17a5E5069673d522D0207a?chain=canto) | 916.99 | 0.00031% | >= 3 years:<br/>221, 664 |
-| 451 | [0xb8920e475E32B807cE51e0eF823fE070D7D96e8C](https://debank.com/profile/0xb8920e475E32B807cE51e0eF823fE070D7D96e8C?chain=canto) | 916.548 | 0.00031% | >= 3 years:<br/>228, 352, 577 |
-| 452 | [0x845B0BEd7Dd6A2dc60a9F8d8e3befD58B645c528](https://debank.com/profile/0x845B0BEd7Dd6A2dc60a9F8d8e3befD58B645c528?chain=canto) | 897.799 | 0.00030% | >= 3 years:<br/>1151 |
-| 453 | [0xabc99c91513e26421106E1593f677800828B5284](https://debank.com/profile/0xabc99c91513e26421106E1593f677800828B5284?chain=canto) | 893.815 | 0.00030% | >= 3 years:<br/>702 |
-| 454 | [0x1B0F4AdBD4c87979509419487d575C5275b84a09](https://debank.com/profile/0x1B0F4AdBD4c87979509419487d575C5275b84a09?chain=canto) | 887.399 | 0.00030% | < 3 years:<br/>801 |
-| 455 | [0x1EF84F070fFaAeA14E63A2b3FE406400FB3bbC75](https://debank.com/profile/0x1EF84F070fFaAeA14E63A2b3FE406400FB3bbC75?chain=canto) | 876.283 | 0.00029% | >= 3 years:<br/>487 |
-| 456 | [0x7469aD145870122155BfB76e4adBF180a8da1A30](https://debank.com/profile/0x7469aD145870122155BfB76e4adBF180a8da1A30?chain=canto) | 875.035 | 0.00029% | >= 3 years:<br/>502 |
-| 457 | [0x09bAc567D73E8BC701a900D14C90c06644eA0156](https://debank.com/profile/0x09bAc567D73E8BC701a900D14C90c06644eA0156?chain=canto) | 844.809 | 0.00028% | >= 3 years:<br/>161 |
-| 458 | [0xb245A959A3D2608e248239638a240c5FCFE20596](https://debank.com/profile/0xb245A959A3D2608e248239638a240c5FCFE20596?chain=canto) | 802.582 | 0.00027% | >= 3 years:<br/>277 |
-| 459 | [0xe952b29E749DDaaabd7A4855584D5BEcd5CD65bB](https://debank.com/profile/0xe952b29E749DDaaabd7A4855584D5BEcd5CD65bB?chain=canto) | 781.772 | 0.00026% | >= 3 years:<br/>762 |
-| 460 | [0x7804C5F4FD50F7c12845E2951E24858B8c270e35](https://debank.com/profile/0x7804C5F4FD50F7c12845E2951E24858B8c270e35?chain=canto) | 744.578 | 0.00025% | >= 3 years:<br/>787 |
-| 461 | [0x0D0d6625F9A0B3370b4b69393E59fdD4d077BB38](https://debank.com/profile/0x0D0d6625F9A0B3370b4b69393E59fdD4d077BB38?chain=canto) | 735.138 | 0.00024% | >= 3 years:<br/>184 |
-| 462 | [0x62F61ba522E3321bd4571E99D0034A67d9F7ee51](https://debank.com/profile/0x62F61ba522E3321bd4571E99D0034A67d9F7ee51?chain=canto) | 732.696 | 0.00024% | >= 3 years:<br/>545 |
-| 463 | [0xAB63953B631336bD204fdcF126e2a010A47b1A36](https://debank.com/profile/0xAB63953B631336bD204fdcF126e2a010A47b1A36?chain=canto) | 730.642 | 0.00024% | >= 3 years:<br/>225 |
-| 464 | [0xDd77a81910f4513524bdA1394A3dE2237E4288e1](https://debank.com/profile/0xDd77a81910f4513524bdA1394A3dE2237E4288e1?chain=canto) | 720.777 | 0.00024% | >= 3 years:<br/>300 |
-| 465 | [0x07A12C972f168d810c2E10B4f4ed6E42B82FDfF7](https://debank.com/profile/0x07A12C972f168d810c2E10B4f4ed6E42B82FDfF7?chain=canto) | 709.352 | 0.00024% | >= 3 years:<br/>621 |
-| 466 | [0x6Ca7B32902EA9dCf9E184830b85C7Ba40B742811](https://debank.com/profile/0x6Ca7B32902EA9dCf9E184830b85C7Ba40B742811?chain=canto) | 695.869 | 0.00023% | >= 3 years:<br/>878 |
-| 467 | [0x94535DE0Ee84f36343c539285183a98784f5257c](https://debank.com/profile/0x94535DE0Ee84f36343c539285183a98784f5257c?chain=canto) | 674.39 | 0.00022% | >= 3 years:<br/>685 |
-| 468 | [0xEB63B57AABEDf4e3A715F48af77E7D7aF3FD709f](https://debank.com/profile/0xEB63B57AABEDf4e3A715F48af77E7D7aF3FD709f?chain=canto) | 662.372 | 0.00022% | >= 3 years:<br/>472 |
-| 469 | [0xE684d1546D810584b990e076F5992Bb0ac4b6A60](https://debank.com/profile/0xE684d1546D810584b990e076F5992Bb0ac4b6A60?chain=canto) | 660.438 | 0.00022% | >= 3 years:<br/>570 |
-| 470 | [0x146C216Bec55ea7d694b2611c69d9eeC5b017DE8](https://debank.com/profile/0x146C216Bec55ea7d694b2611c69d9eeC5b017DE8?chain=canto) | 656.987 | 0.00022% | >= 3 years:<br/>584 |
-| 471 | [0x9be8e4E9D4A68bBdAa8DEcaE9f728Ed50599Be7c](https://debank.com/profile/0x9be8e4E9D4A68bBdAa8DEcaE9f728Ed50599Be7c?chain=canto) | 655.797 | 0.00022% | < 3 years:<br/>880 |
-| 472 | [0x2744eC05D936e5D0367591dD59D14f2e0da13694](https://debank.com/profile/0x2744eC05D936e5D0367591dD59D14f2e0da13694?chain=canto) | 654.777 | 0.00022% | >= 3 years:<br/>484 |
-| 473 | [0x865D7eb5db37cc02ec209DD778f4e3851a421A20](https://debank.com/profile/0x865D7eb5db37cc02ec209DD778f4e3851a421A20?chain=canto) | 650.608 | 0.00022% | >= 3 years:<br/>194, 239 |
-| 474 | [0x865FCDA847083C81E9c3FdF0e4612E13bf5086dc](https://debank.com/profile/0x865FCDA847083C81E9c3FdF0e4612E13bf5086dc?chain=canto) | 610.443 | 0.00020% | >= 3 years:<br/>454 |
-| 475 | [0x2ed284077cc25A3f400DAEA79714Ac4A5AC474aC](https://debank.com/profile/0x2ed284077cc25A3f400DAEA79714Ac4A5AC474aC?chain=canto) | 574.397 | 0.00019% | >= 3 years:<br/>152 |
-| 476 | [0xeF60654aB2fA6A8eB26829574C9E63C4F29838a8](https://debank.com/profile/0xeF60654aB2fA6A8eB26829574C9E63C4F29838a8?chain=canto) | 541.657 | 0.00018% | >= 3 years:<br/>442<br/><br/>< 3 years:<br/>374 |
-| 477 | [0xBA0C7d2c4595B926A29E42efFFfb3908994Dc5bD](https://debank.com/profile/0xBA0C7d2c4595B926A29E42efFFfb3908994Dc5bD?chain=canto) | 527.071 | 0.00018% | >= 3 years:<br/>641 |
-| 478 | [0xE72627a8B89321451BBF429306d759c34458Aac2](https://debank.com/profile/0xE72627a8B89321451BBF429306d759c34458Aac2?chain=canto) | 513.122 | 0.00017% | >= 3 years:<br/>638 |
-| 479 | [0x6177c63b29199592e352619e0DE5Ae84F5C296A3](https://debank.com/profile/0x6177c63b29199592e352619e0DE5Ae84F5C296A3?chain=canto) | 499.967 | 0.00017% | >= 3 years:<br/>404 |
-| 480 | [0x0D69BF20A4A00cbebC569E4beF27a78DcB4C0880](https://debank.com/profile/0x0D69BF20A4A00cbebC569E4beF27a78DcB4C0880?chain=canto) | 478.089 | 0.00016% | >= 3 years:<br/>206, 562 |
-| 481 | [0x35aA3f733958b7416669303945093C98819F77A6](https://debank.com/profile/0x35aA3f733958b7416669303945093C98819F77A6?chain=canto) | 477.454 | 0.00016% | >= 3 years:<br/>755 |
-| 482 | [0x0e42d7887e4Dfd681Fe295BeC85729C0420E0ae0](https://debank.com/profile/0x0e42d7887e4Dfd681Fe295BeC85729C0420E0ae0?chain=canto) | 472.685 | 0.00016% | >= 3 years:<br/>303, 626 |
-| 483 | [0xc9b79773299CA2fa7BFB11a537ee33502495AaDa](https://debank.com/profile/0xc9b79773299CA2fa7BFB11a537ee33502495AaDa?chain=canto) | 464.68 | 0.00015% | < 3 years:<br/>1057 |
-| 484 | [0x5DaF1e55ef58410FA79c4AB1F2c1623F740530b6](https://debank.com/profile/0x5DaF1e55ef58410FA79c4AB1F2c1623F740530b6?chain=canto) | 440.003 | 0.00015% | >= 3 years:<br/>504 |
-| 485 | [0x3a6Fd4CCD8908271601a34892EBc7569b3f2F932](https://debank.com/profile/0x3a6Fd4CCD8908271601a34892EBc7569b3f2F932?chain=canto) | 437.508 | 0.00015% | >= 3 years:<br/>773 |
-| 486 | [0x3214e141bdAe08Be1f382A885cf3d2a448A5E780](https://debank.com/profile/0x3214e141bdAe08Be1f382A885cf3d2a448A5E780?chain=canto) | 436.009 | 0.00015% | >= 3 years:<br/>646 |
-| 487 | [0xd0D004B4ce867785D9aB4C684f0497680AA7B6Ae](https://debank.com/profile/0xd0D004B4ce867785D9aB4C684f0497680AA7B6Ae?chain=canto) | 427.58 | 0.00014% | >= 3 years:<br/>381 |
-| 488 | [0x2d7D5a9AD74F16d310Ab59dC676e9978a1CeDa02](https://debank.com/profile/0x2d7D5a9AD74F16d310Ab59dC676e9978a1CeDa02?chain=canto) | 410.933 | 0.00014% | >= 3 years:<br/>547 |
-| 489 | [0xD7bb2EeE591CE19A54636600936eAB8a40f5a65C](https://debank.com/profile/0xD7bb2EeE591CE19A54636600936eAB8a40f5a65C?chain=canto) | 407.649 | 0.00014% | >= 3 years:<br/>274, 676 |
-| 490 | [0x8450A7852495DaFe063C3E436d0750698777965C](https://debank.com/profile/0x8450A7852495DaFe063C3E436d0750698777965C?chain=canto) | 404.849 | 0.00013% | >= 3 years:<br/>595 |
-| 491 | [0x1f7D588333431870F107210FEb039df470d5Fe3C](https://debank.com/profile/0x1f7D588333431870F107210FEb039df470d5Fe3C?chain=canto) | 400.878 | 0.00013% | >= 3 years:<br/>698 |
-| 492 | [0x6a4a7ACb12032Ee8775FEF305366873975b5367D](https://debank.com/profile/0x6a4a7ACb12032Ee8775FEF305366873975b5367D?chain=canto) | 394.228 | 0.00013% | >= 3 years:<br/>601 |
-| 493 | [0x29F5597A9d3e665C6C089Ca040408478aFE210C6](https://debank.com/profile/0x29F5597A9d3e665C6C089Ca040408478aFE210C6?chain=canto) | 347.572 | 0.00012% | >= 3 years:<br/>485 |
-| 494 | [0x772d7bF0d57Ff35e26AaB02efa0a1dDB3d4Ba35b](https://debank.com/profile/0x772d7bF0d57Ff35e26AaB02efa0a1dDB3d4Ba35b?chain=canto) | 345.969 | 0.00012% | >= 3 years:<br/>518 |
-| 495 | [0x71627841545a504562Bd5a89d24ee3074FA53c83](https://debank.com/profile/0x71627841545a504562Bd5a89d24ee3074FA53c83?chain=canto) | 339.606 | 0.00011% | >= 3 years:<br/>528 |
-| 496 | [0x1C86E98A4CC451db8A502f31c14327D2B7CEC123](https://debank.com/profile/0x1C86E98A4CC451db8A502f31c14327D2B7CEC123?chain=canto) | 321.078 | 0.00011% | >= 3 years:<br/>171 |
-| 497 | [0x355c08523E565b639fDC12dBCa1FdCE13f3cc880](https://debank.com/profile/0x355c08523E565b639fDC12dBCa1FdCE13f3cc880?chain=canto) | 306.248 | 0.00010% | >= 3 years:<br/>597 |
-| 498 | [0x7FfbEb62Cf6E5E53F898bA52d66d29Ca3B2851fD](https://debank.com/profile/0x7FfbEb62Cf6E5E53F898bA52d66d29Ca3B2851fD?chain=canto) | 282.454 | 0.00009% | >= 3 years:<br/>325 |
-| 499 | [0xEfa4c696Ea2505ec038c9dDC849b1bf817d7f69d](https://debank.com/profile/0xEfa4c696Ea2505ec038c9dDC849b1bf817d7f69d?chain=canto) | 282.454 | 0.00009% | >= 3 years:<br/>326 |
-| 500 | [0x128e3B064B40B63d2F8d68d912C78E79AcE70291](https://debank.com/profile/0x128e3B064B40B63d2F8d68d912C78E79AcE70291?chain=canto) | 265.594 | 0.00009% | >= 3 years:<br/>519 |
-| 501 | [0xfD102a750C595d95ACE7bDBeD17E8b444891610d](https://debank.com/profile/0xfD102a750C595d95ACE7bDBeD17E8b444891610d?chain=canto) | 262.326 | 0.00009% | >= 3 years:<br/>296 |
-| 502 | [0xe2Fb93aED14270FF72F710AF377Ca9136E0FE758](https://debank.com/profile/0xe2Fb93aED14270FF72F710AF377Ca9136E0FE758?chain=canto) | 259.651 | 0.00009% | >= 3 years:<br/>781 |
-| 503 | [0xa4AE53bdC6b7f86dB664E0E5b75B98d662B757d7](https://debank.com/profile/0xa4AE53bdC6b7f86dB664E0E5b75B98d662B757d7?chain=canto) | 245.139 | 0.00008% | >= 3 years:<br/>687 |
-| 504 | [0x249A49d3201C1B92a1029Aab1BC76a6Ca8f5FFf0](https://debank.com/profile/0x249A49d3201C1B92a1029Aab1BC76a6Ca8f5FFf0?chain=canto) | 232.681 | 0.00008% | >= 3 years:<br/>180 |
-| 505 | [0x4A401Ee7Fef089CD20D183fE2510d7BD38294728](https://debank.com/profile/0x4A401Ee7Fef089CD20D183fE2510d7BD38294728?chain=canto) | 225.937 | 0.00008% | >= 3 years:<br/>216 |
-| 506 | [0xd264bC31A13D962c22967f02e44DAdD8Bbf25232](https://debank.com/profile/0xd264bC31A13D962c22967f02e44DAdD8Bbf25232?chain=canto) | 224.813 | 0.00007% | >= 3 years:<br/>146 |
-| 507 | [0x211a42CE37b688B50dC1a7E91Cf321970274A50f](https://debank.com/profile/0x211a42CE37b688B50dC1a7E91Cf321970274A50f?chain=canto) | 220.975 | 0.00007% | >= 3 years:<br/>712 |
-| 508 | [0x8a9BcDc68D19e111663D6c986caf1dA1edA1c304](https://debank.com/profile/0x8a9BcDc68D19e111663D6c986caf1dA1edA1c304?chain=canto) | 212.005 | 0.00007% | >= 3 years:<br/>618 |
-| 509 | [0x1b77b7C80397ac33831447701f9F85a15863a4Dc](https://debank.com/profile/0x1b77b7C80397ac33831447701f9F85a15863a4Dc?chain=canto) | 211.401 | 0.00007% | >= 3 years:<br/>606 |
-| 510 | [0x37bBed10611e5e8b7cB727B85a088a39BeD3Eb0C](https://debank.com/profile/0x37bBed10611e5e8b7cB727B85a088a39BeD3Eb0C?chain=canto) | 211.33 | 0.00007% | >= 3 years:<br/>581 |
-| 511 | [0x81db2dFD33b24419F0F715e331f678411Eb1ec30](https://debank.com/profile/0x81db2dFD33b24419F0F715e331f678411Eb1ec30?chain=canto) | 208.177 | 0.00007% | >= 3 years:<br/>521 |
-| 512 | [0xE1518a5ae4C762a0Dd7773B987F6BD8bd7cA155c](https://debank.com/profile/0xE1518a5ae4C762a0Dd7773B987F6BD8bd7cA155c?chain=canto) | 200.763 | 0.00007% | >= 3 years:<br/>437 |
-| 513 | [0x576Eb27cBf54518D3De5a38eA7746ef6A9b8b5E6](https://debank.com/profile/0x576Eb27cBf54518D3De5a38eA7746ef6A9b8b5E6?chain=canto) | 200.272 | 0.00007% | >= 3 years:<br/>515 |
-| 514 | [0x501Ee58aeF617A1B1bcFd16Cf12D0bC8f4F20F59](https://debank.com/profile/0x501Ee58aeF617A1B1bcFd16Cf12D0bC8f4F20F59?chain=canto) | 198.851 | 0.00007% | >= 3 years:<br/>1137 |
-| 515 | [0xB6c3e778FbfC698f5B3fc941fA4727525141E0Ca](https://debank.com/profile/0xB6c3e778FbfC698f5B3fc941fA4727525141E0Ca?chain=canto) | 198.289 | 0.00007% | >= 3 years:<br/>654 |
-| 516 | [0x49a3Aab8EBe80725646937b9E9f6f8b4e9867bfe](https://debank.com/profile/0x49a3Aab8EBe80725646937b9E9f6f8b4e9867bfe?chain=canto) | 197.853 | 0.00007% | >= 3 years:<br/>717 |
-| 517 | [0xaA01dD01ea027C3880204caA7572101B34baD366](https://debank.com/profile/0xaA01dD01ea027C3880204caA7572101B34baD366?chain=canto) | 186.805 | 0.00006% | >= 3 years:<br/>637 |
-| 518 | [0x671785E5326748dDe318b3D57051A1a78b35181C](https://debank.com/profile/0x671785E5326748dDe318b3D57051A1a78b35181C?chain=canto) | 185.927 | 0.00006% | >= 3 years:<br/>622 |
-| 519 | [0xAACE084Fa283632AD4471B9E2C84D2f4d376d0aE](https://debank.com/profile/0xAACE084Fa283632AD4471B9E2C84D2f4d376d0aE?chain=canto) | 185.105 | 0.00006% | >= 3 years:<br/>363, 480 |
-| 520 | [0x30B5a6e6f54507E0DEE280923234204B6A82664A](https://debank.com/profile/0x30B5a6e6f54507E0DEE280923234204B6A82664A?chain=canto) | 183.121 | 0.00006% | >= 3 years:<br/>158 |
-| 521 | [0x6969694cF766A71A1074654496C343BafE133FF8](https://debank.com/profile/0x6969694cF766A71A1074654496C343BafE133FF8?chain=canto) | 181.241 | 0.00006% | >= 3 years:<br/>293, 591 |
-| 522 | [0x6A8B2c8dEb5012014b76FB7Eb08CA3B6EAD840A3](https://debank.com/profile/0x6A8B2c8dEb5012014b76FB7Eb08CA3B6EAD840A3?chain=canto) | 178.055 | 0.00006% | >= 3 years:<br/>690 |
-| 523 | [0x97c98D6ab8DBbfe6ba464BD7a849d376DA1bB540](https://debank.com/profile/0x97c98D6ab8DBbfe6ba464BD7a849d376DA1bB540?chain=canto) | 174.424 | 0.00006% | >= 3 years:<br/>195 |
-| 524 | [0xAec52cAD1e7b8f3C21F38a312fA3998839D3c2C8](https://debank.com/profile/0xAec52cAD1e7b8f3C21F38a312fA3998839D3c2C8?chain=canto) | 169.894 | 0.00006% | >= 3 years:<br/>631 |
-| 525 | [0x54BA3FF9dDbD2dEE95CDA54e863b07B0cdAD2eE4](https://debank.com/profile/0x54BA3FF9dDbD2dEE95CDA54e863b07B0cdAD2eE4?chain=canto) | 157.88 | 0.00005% | >= 3 years:<br/>451 |
-| 526 | [0x46822E4246a4a414459A2FDA91467cE96408f1Bc](https://debank.com/profile/0x46822E4246a4a414459A2FDA91467cE96408f1Bc?chain=canto) | 153.495 | 0.00005% | >= 3 years:<br/>366 |
-| 527 | [0x707c4603FB72996FF95AB91f571516aFC0F3Fe1b](https://debank.com/profile/0x707c4603FB72996FF95AB91f571516aFC0F3Fe1b?chain=canto) | 149.539 | 0.00005% | >= 3 years:<br/>120, 218, 230 |
-| 528 | [0xCb59280EB3983a4221263343EF184D2D0189De17](https://debank.com/profile/0xCb59280EB3983a4221263343EF184D2D0189De17?chain=canto) | 148.376 | 0.00005% | >= 3 years:<br/>150 |
-| 529 | [0x41a6ac7f4e4DBfFEB934f95F1Db58B68C76Dc4dF](https://debank.com/profile/0x41a6ac7f4e4DBfFEB934f95F1Db58B68C76Dc4dF?chain=canto) | 142.192 | 0.00005% | >= 3 years:<br/>130, 585 |
-| 530 | [0xe7A4Dd3f2B5a2F0d6c0Cbe42e0176bDd00541851](https://debank.com/profile/0xe7A4Dd3f2B5a2F0d6c0Cbe42e0176bDd00541851?chain=canto) | 137.474 | 0.00005% | >= 3 years:<br/>360, 693 |
-| 531 | [0xE7A1C621Ed75EC40fe4c86605e60d2851287D14D](https://debank.com/profile/0xE7A1C621Ed75EC40fe4c86605e60d2851287D14D?chain=canto) | 137.136 | 0.00005% | >= 3 years:<br/>177 |
-| 532 | [0x79F45626a89f47D3E49FE7c9cf24f3545F8526C3](https://debank.com/profile/0x79F45626a89f47D3E49FE7c9cf24f3545F8526C3?chain=canto) | 130.002 | 0.00004% | >= 3 years:<br/>362 |
-| 533 | [0xC81484137F6FC2Fb9115d176Ce54AbD4F2FA7e6b](https://debank.com/profile/0xC81484137F6FC2Fb9115d176Ce54AbD4F2FA7e6b?chain=canto) | 119.982 | 0.00004% | >= 3 years:<br/>496 |
-| 534 | [0x2E23E9a0cB139582E5012D2f07250E9A78208B9E](https://debank.com/profile/0x2E23E9a0cB139582E5012D2f07250E9A78208B9E?chain=canto) | 115.85 | 0.00004% | >= 3 years:<br/>478 |
-| 535 | [0xe124AC1D71aB774f31b884fefaFd126a66e5b935](https://debank.com/profile/0xe124AC1D71aB774f31b884fefaFd126a66e5b935?chain=canto) | 115.196 | 0.00004% | >= 3 years:<br/>388, 497<br/><br/>< 3 years:<br/>757 |
-| 536 | [0xf4E2152c622260A1f1f8E8B8c4C3C5065165Ce55](https://debank.com/profile/0xf4E2152c622260A1f1f8E8B8c4C3C5065165Ce55?chain=canto) | 111.282 | 0.00004% | >= 3 years:<br/>272 |
-| 537 | [0xB26aE0Fb1C2A8f5f3cEEFA1dcc235f6B8260545b](https://debank.com/profile/0xB26aE0Fb1C2A8f5f3cEEFA1dcc235f6B8260545b?chain=canto) | 110.948 | 0.00004% | >= 3 years:<br/>505 |
-| 538 | [0x7556C2a4FbD77B91bB1bFBf647A4D2B36d63CF41](https://debank.com/profile/0x7556C2a4FbD77B91bB1bFBf647A4D2B36d63CF41?chain=canto) | 110.614 | 0.00004% | >= 3 years:<br/>666 |
-| 539 | [0xD016cCF7B485D658E063d2E7CB3Afef94Bf79548](https://debank.com/profile/0xD016cCF7B485D658E063d2E7CB3Afef94Bf79548?chain=canto) | 106.141 | 0.00004% | >= 3 years:<br/>266, 675 |
-| 540 | [0x00A62B6d805B2AB6A7a4B719691e68611f53a085](https://debank.com/profile/0x00A62B6d805B2AB6A7a4B719691e68611f53a085?chain=canto) | 102.275 | 0.00003% | >= 3 years:<br/>620 |
-| 541 | [0x7Cb552152e2b28F9f6911c51B69B0d8D1FADafe1](https://debank.com/profile/0x7Cb552152e2b28F9f6911c51B69B0d8D1FADafe1?chain=canto) | 101.166 | 0.00003% | >= 3 years:<br/>179, 187 |
-| 542 | [0x2809D5D8f8771c9278DdF0A2D452501ACe7d790A](https://debank.com/profile/0x2809D5D8f8771c9278DdF0A2D452501ACe7d790A?chain=canto) | 96.73 | 0.00003% | >= 3 years:<br/>590 |
-| 543 | [0x1296b0A992abc44675fF6800Dd86696DC9366490](https://debank.com/profile/0x1296b0A992abc44675fF6800Dd86696DC9366490?chain=canto) | 96.069 | 0.00003% | >= 3 years:<br/>852 |
-| 544 | [0x11B0AB779e48FcdbfD538de4C62B034a44D2aE5e](https://debank.com/profile/0x11B0AB779e48FcdbfD538de4C62B034a44D2aE5e?chain=canto) | 95.816 | 0.00003% | >= 3 years:<br/>1056 |
-| 545 | [0xF11E4b85246B28734DB56D54d0f81C8C4D8af8ef](https://debank.com/profile/0xF11E4b85246B28734DB56D54d0f81C8C4D8af8ef?chain=canto) | 94.566 | 0.00003% | >= 3 years:<br/>290 |
-| 546 | [0x50DF03f77FEF40aC999DF4329Eb037806ed687B4](https://debank.com/profile/0x50DF03f77FEF40aC999DF4329Eb037806ed687B4?chain=canto) | 94.151 | 0.00003% | >= 3 years:<br/>286 |
-| 547 | [0xCf43b38D5080ac6dfbbEd50B853e314152d2E84B](https://debank.com/profile/0xCf43b38D5080ac6dfbbEd50B853e314152d2E84B?chain=canto) | 92.812 | 0.00003% | >= 3 years:<br/>526 |
-| 548 | [0xA0A683Ef1cE94457F4c8dCb99AAa54aF54d5bc6C](https://debank.com/profile/0xA0A683Ef1cE94457F4c8dCb99AAa54aF54d5bc6C?chain=canto) | 87.056 | 0.00003% | >= 3 years:<br/>600 |
-| 549 | [0xd286a9bB11d2165915E3bf6D1c79aadEBe30f605](https://debank.com/profile/0xd286a9bB11d2165915E3bf6D1c79aadEBe30f605?chain=canto) | 85.148 | 0.00003% | >= 3 years:<br/>201 |
-| 550 | [0x801612E860e40612cfbbdEF0133A2Fb6938f2f73](https://debank.com/profile/0x801612E860e40612cfbbdEF0133A2Fb6938f2f73?chain=canto) | 84.806 | 0.00003% | >= 3 years:<br/>175, 697 |
-| 551 | [0x3850FAA53550bD0466b50F44892f92EaCE080457](https://debank.com/profile/0x3850FAA53550bD0466b50F44892f92EaCE080457?chain=canto) | 83.355 | 0.00003% | >= 3 years:<br/>471 |
-| 552 | [0x0DA9ea7Dc6E9E0C5DaEB13078C1cC6d6401B1AF8](https://debank.com/profile/0x0DA9ea7Dc6E9E0C5DaEB13078C1cC6d6401B1AF8?chain=canto) | 83.215 | 0.00003% | >= 3 years:<br/>527 |
-| 553 | [0x55e1490a1878D0B61811726e2cB96560022E764c](https://debank.com/profile/0x55e1490a1878D0B61811726e2cB96560022E764c?chain=canto) | 81.382 | 0.00003% | >= 3 years:<br/>196 |
-| 554 | [0x908E8E8084d660f8f9054AA8Ad1B31380d04B08F](https://debank.com/profile/0x908E8E8084d660f8f9054AA8Ad1B31380d04B08F?chain=canto) | 80.157 | 0.00003% | >= 3 years:<br/>208 |
-| 555 | [0xEFa9bEbE299dE7AcAECa6876E1E4f5508eEeF2db](https://debank.com/profile/0xEFa9bEbE299dE7AcAECa6876E1E4f5508eEeF2db?chain=canto) | 76.024 | 0.00003% | >= 3 years:<br/>235, 689<br/><br/>< 3 years:<br/>783 |
-| 556 | [0x3A3faaA349aD27e428861365954bBF2D4F38Ef94](https://debank.com/profile/0x3A3faaA349aD27e428861365954bBF2D4F38Ef94?chain=canto) | 74.514 | 0.00002% | >= 3 years:<br/>439 |
-| 557 | [0xC26CD230129582b171F8F3Fdd640C5dbD94854E1](https://debank.com/profile/0xC26CD230129582b171F8F3Fdd640C5dbD94854E1?chain=canto) | 72.04 | 0.00002% | >= 3 years:<br/>520 |
-| 558 | [0x6d6DE2c03DCeb26E80AE2007a0B6e3D379C9C32a](https://debank.com/profile/0x6d6DE2c03DCeb26E80AE2007a0B6e3D379C9C32a?chain=canto) | 70.998 | 0.00002% | >= 3 years:<br/>517 |
-| 559 | [0x7e76d0C1128902324D5511D6a2De549712081B70](https://debank.com/profile/0x7e76d0C1128902324D5511D6a2De549712081B70?chain=canto) | 69.248 | 0.00002% | < 3 years:<br/>847 |
-| 560 | [0xf622101E8f0e955ed714799aD17c21992c8F243b](https://debank.com/profile/0xf622101E8f0e955ed714799aD17c21992c8F243b?chain=canto) | 66.18 | 0.00002% | >= 3 years:<br/>447 |
-| 561 | [0x2385233abb910357e2b97A16D40e0443e53d0769](https://debank.com/profile/0x2385233abb910357e2b97A16D40e0443e53d0769?chain=canto) | 61.88 | 0.00002% | < 3 years:<br/>864 |
-| 562 | [0xe0dDa4f11dA57F5b01D360072Ca1627Ea5bf93df](https://debank.com/profile/0xe0dDa4f11dA57F5b01D360072Ca1627Ea5bf93df?chain=canto) | 61.584 | 0.00002% | >= 3 years:<br/>655 |
-| 563 | [0xED20BC9f8BE737572d7e40237023C7A8FEA3449e](https://debank.com/profile/0xED20BC9f8BE737572d7e40237023C7A8FEA3449e?chain=canto) | 61.114 | 0.00002% | >= 3 years:<br/>112 |
-| 564 | [0x776CE1769dcD53f80537A1466a7fF7436F0D4E79](https://debank.com/profile/0x776CE1769dcD53f80537A1466a7fF7436F0D4E79?chain=canto) | 59.756 | 0.00002% | < 3 years:<br/>860, 868 |
-| 565 | [0x7074E05C39b41EDd1C16478856b5de54B3ac67D6](https://debank.com/profile/0x7074E05C39b41EDd1C16478856b5de54B3ac67D6?chain=canto) | 58.153 | 0.00002% | >= 3 years:<br/>226, 265, 677 |
-| 566 | [0xbFB5458071867Bc00985BC6c13EE400327Ac5F97](https://debank.com/profile/0xbFB5458071867Bc00985BC6c13EE400327Ac5F97?chain=canto) | 57.764 | 0.00002% | >= 3 years:<br/>147 |
-| 567 | [0x9FfE162b9B7FBCa991840B936F95B40808A1a998](https://debank.com/profile/0x9FfE162b9B7FBCa991840B936F95B40808A1a998?chain=canto) | 56.664 | 0.00002% | >= 3 years:<br/>583 |
-| 568 | [0x71baFD458A46b3BE856C64cdFc25845c0cf9C6Ca](https://debank.com/profile/0x71baFD458A46b3BE856C64cdFc25845c0cf9C6Ca?chain=canto) | 56.631 | 0.00002% | >= 3 years:<br/>1060, 1061, 1108, 1113, 1114<br/><br/>< 3 years:<br/>1106, 1109, 1111, 1120 |
-| 569 | [0x5D8A52e816b7A29789C32dD21A034caDDd2bC750](https://debank.com/profile/0x5D8A52e816b7A29789C32dD21A034caDDd2bC750?chain=canto) | 56.203 | 0.00002% | >= 3 years:<br/>264 |
-| 570 | [0x0000b1F187e5C260f8087B762eaE63ec8B0DaDF2](https://debank.com/profile/0x0000b1F187e5C260f8087B762eaE63ec8B0DaDF2?chain=canto) | 55.591 | 0.00002% | >= 3 years:<br/>671 |
-| 571 | [0x63565663169428048A4c69F278129D1214603B54](https://debank.com/profile/0x63565663169428048A4c69F278129D1214603B54?chain=canto) | 53.119 | 0.00002% | >= 3 years:<br/>491 |
-| 572 | [0xcada1A8378Ec627790433fcDe0F2a06Ec431d4C0](https://debank.com/profile/0xcada1A8378Ec627790433fcDe0F2a06Ec431d4C0?chain=canto) | 51.192 | 0.00002% | < 3 years:<br/>912 |
-| 573 | [0x7896c3075E0dc2BC727cE34Df90f39985a21b264](https://debank.com/profile/0x7896c3075E0dc2BC727cE34Df90f39985a21b264?chain=canto) | 47.42 | 0.00002% | >= 3 years:<br/>814 |
-| 574 | [0x47af8Fe62Da2CaE766fF5BE512918ADcC21eC54B](https://debank.com/profile/0x47af8Fe62Da2CaE766fF5BE512918ADcC21eC54B?chain=canto) | 46.235 | 0.00002% | >= 3 years:<br/>603 |
-| 575 | [0xb1cCDD6208eE0E912665c2ECccC75Ae2a5AE227D](https://debank.com/profile/0xb1cCDD6208eE0E912665c2ECccC75Ae2a5AE227D?chain=canto) | 43.928 | 0.00001% | >= 3 years:<br/>503 |
-| 576 | [0xb0916C38861dCeef1A62A77887e573861FFb5d63](https://debank.com/profile/0xb0916C38861dCeef1A62A77887e573861FFb5d63?chain=canto) | 39.342 | 0.00001% | >= 3 years:<br/>229, 241 |
-| 577 | [0xD3198D541D9a3ECdAC8c33620E177CE1FEdCAb68](https://debank.com/profile/0xD3198D541D9a3ECdAC8c33620E177CE1FEdCAb68?chain=canto) | 38.995 | 0.00001% | >= 3 years:<br/>767 |
-| 578 | [0xe21C87ea23491c4DD794c6D0103c50De6b695B6D](https://debank.com/profile/0xe21C87ea23491c4DD794c6D0103c50De6b695B6D?chain=canto) | 38.95 | 0.00001% | >= 3 years:<br/>629 |
-| 579 | [0xD1dC73624801E480065070D76Cb0C9D2b010Bd02](https://debank.com/profile/0xD1dC73624801E480065070D76Cb0C9D2b010Bd02?chain=canto) | 38.784 | 0.00001% | >= 3 years:<br/>658 |
-| 580 | [0x0C7694d5CB77E75C93C8FEde6145a0bD39b2f8F4](https://debank.com/profile/0x0C7694d5CB77E75C93C8FEde6145a0bD39b2f8F4?chain=canto) | 38.17 | 0.00001% | >= 3 years:<br/>670 |
-| 581 | [0x8DE3c3891268502F77DB7E876d727257DEc0F852](https://debank.com/profile/0x8DE3c3891268502F77DB7E876d727257DEc0F852?chain=canto) | 37.825 | 0.00001% | >= 3 years:<br/>263 |
-| 582 | [0x2Ba838E42126aC349D01c3D1FAc85a36266151a4](https://debank.com/profile/0x2Ba838E42126aC349D01c3D1FAc85a36266151a4?chain=canto) | 34.658 | 0.00001% | >= 3 years:<br/>116 |
-| 583 | [0x27681edf945f8CD3B72E97CF3b869bFA3dA2eEDD](https://debank.com/profile/0x27681edf945f8CD3B72E97CF3b869bFA3dA2eEDD?chain=canto) | 32.953 | 0.00001% | >= 3 years:<br/>304 |
-| 584 | [0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3](https://debank.com/profile/0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3?chain=canto) | 32.894 | 0.00001% | >= 3 years:<br/>678 |
-| 585 | [0xD26eA7412FB75D5E4c8c9F3EE7b1dfFf64440eE8](https://debank.com/profile/0xD26eA7412FB75D5E4c8c9F3EE7b1dfFf64440eE8?chain=canto) | 29.226 | 0.00001% | >= 3 years:<br/>255 |
-| 586 | [0x090476500Ca188fD2aDa370bB1B4e020f86E8EAF](https://debank.com/profile/0x090476500Ca188fD2aDa370bB1B4e020f86E8EAF?chain=canto) | 28.824 | 0.00001% | >= 3 years:<br/>310, 636 |
-| 587 | [0xc742a9458c4Cc6f6498007ffC81266Cd3a3f578A](https://debank.com/profile/0xc742a9458c4Cc6f6498007ffC81266Cd3a3f578A?chain=canto) | 26.978 | 0.00001% | >= 3 years:<br/>125 |
-| 588 | [0x5e0a088942EC09C9Ea98aE237625f063A3BeD237](https://debank.com/profile/0x5e0a088942EC09C9Ea98aE237625f063A3BeD237?chain=canto) | 24.692 | 0.00001% | < 3 years:<br/>284 |
-| 589 | [0x4b3aa773F44e620cBE3d2AFfe0dc2c25eb72e3Df](https://debank.com/profile/0x4b3aa773F44e620cBE3d2AFfe0dc2c25eb72e3Df?chain=canto) | 24.278 | 0.00001% | >= 3 years:<br/>875 |
-| 590 | [0x94c6797865316122742BB35E9AFE42B0DA8F37E4](https://debank.com/profile/0x94c6797865316122742BB35E9AFE42B0DA8F37E4?chain=canto) | 20.94 | 0.00001% | >= 3 years:<br/>525 |
-| 591 | [0xC9D1708BeE78944F5c45E301405C1d34ca866FA6](https://debank.com/profile/0xC9D1708BeE78944F5c45E301405C1d34ca866FA6?chain=canto) | 20.148 | 0.00001% | >= 3 years:<br/>307 |
-| 592 | [0xbCA35347207Aef8024dCf1E518DD75543523467E](https://debank.com/profile/0xbCA35347207Aef8024dCf1E518DD75543523467E?chain=canto) | 20.083 | 0.00001% | >= 3 years:<br/>306 |
-| 593 | [0xB393F3777f6c9715aA5746e540497704286C2873](https://debank.com/profile/0xB393F3777f6c9715aA5746e540497704286C2873?chain=canto) | 20.007 | 0.00001% | >= 3 years:<br/>305 |
-| 594 | [0x859Fc918Cf1322686FeC52A30E4A9eA388DF876D](https://debank.com/profile/0x859Fc918Cf1322686FeC52A30E4A9eA388DF876D?chain=canto) | 16.921 | 0.00001% | >= 3 years:<br/>257, 691 |
-| 595 | [0x83e6FB0845Dd795A81FB2315154389bF1C8129B9](https://debank.com/profile/0x83e6FB0845Dd795A81FB2315154389bF1C8129B9?chain=canto) | 13.18 | 0.00000% | >= 3 years:<br/>512 |
-| 596 | [0xA1a153CdF49b83f8BEaf6afED7A27B7d0A37174e](https://debank.com/profile/0xA1a153CdF49b83f8BEaf6afED7A27B7d0A37174e?chain=canto) | 13.119 | 0.00000% | >= 3 years:<br/>313, 640 |
-| 597 | [0xb4dA2aB44E2f418F3d5027E602e409aD9113C6bf](https://debank.com/profile/0xb4dA2aB44E2f418F3d5027E602e409aD9113C6bf?chain=canto) | 12.929 | 0.00000% | >= 3 years:<br/>566 |
-| 598 | [0x079F6b25092850b0b0A7f1c52AE9e01A9f66583e](https://debank.com/profile/0x079F6b25092850b0b0A7f1c52AE9e01A9f66583e?chain=canto) | 12.754 | 0.00000% | >= 3 years:<br/>650 |
-| 599 | [0x75592081D5FC1c38d2da8098dfE535CaDBe39425](https://debank.com/profile/0x75592081D5FC1c38d2da8098dfE535CaDBe39425?chain=canto) | 11.241 | 0.00000% | >= 3 years:<br/>261 |
-| 600 | [0xe377F29953ca1310BaBA1F1D92F7e720eEdE144a](https://debank.com/profile/0xe377F29953ca1310BaBA1F1D92F7e720eEdE144a?chain=canto) | 10.439 | 0.00000% | >= 3 years:<br/>682 |
-| 601 | [0x65b8ee88Cd729b00c574884f3404678bAc479dab](https://debank.com/profile/0x65b8ee88Cd729b00c574884f3404678bAc479dab?chain=canto) | 9.655 | 0.00000% | >= 3 years:<br/>877 |
-| 602 | [0xEF4a52d5483049B37cB883539d1B380eeD80a598](https://debank.com/profile/0xEF4a52d5483049B37cB883539d1B380eeD80a598?chain=canto) | 9.583 | 0.00000% | >= 3 years:<br/>1055 |
-| 603 | [0xd4A03cE230616680574F177095C07433E3A3B992](https://debank.com/profile/0xd4A03cE230616680574F177095C07433E3A3B992?chain=canto) | 9.248 | 0.00000% | >= 3 years:<br/>915 |
-| 604 | [0xf6b9Cb280Ae3c5dd5eC22D7A1A2A7f5F0a1AE879](https://debank.com/profile/0xf6b9Cb280Ae3c5dd5eC22D7A1A2A7f5F0a1AE879?chain=canto) | 9.089 | 0.00000% | >= 3 years:<br/>653 |
-| 605 | [0xD63154aBc9c6655626F16F0AED41c2e958410724](https://debank.com/profile/0xD63154aBc9c6655626F16F0AED41c2e958410724?chain=canto) | 8.128 | 0.00000% | < 3 years:<br/>867 |
-| 606 | [0xd3Da55c0B6AEcc956A37f02c6ee7BDf779130875](https://debank.com/profile/0xd3Da55c0B6AEcc956A37f02c6ee7BDf779130875?chain=canto) | 7.4 | 0.00000% | >= 3 years:<br/>616 |
-| 607 | [0x4FcDA1bd88776882Ee372EBAE8e6d05919E7FDD3](https://debank.com/profile/0x4FcDA1bd88776882Ee372EBAE8e6d05919E7FDD3?chain=canto) | 7.372 | 0.00000% | >= 3 years:<br/>718 |
-| 608 | [0x73495E34A5577a390753ba344A48D8E731A2Dd32](https://debank.com/profile/0x73495E34A5577a390753ba344A48D8E731A2Dd32?chain=canto) | 7.319 | 0.00000% | >= 3 years:<br/>445 |
-| 609 | [0x3d1A613614b4B19115eE9d1DcddD47C629A25022](https://debank.com/profile/0x3d1A613614b4B19115eE9d1DcddD47C629A25022?chain=canto) | 7.11 | 0.00000% | < 3 years:<br/>1073 |
-| 610 | [0xb314DA0A985d4deD335eB15454417A536AD41651](https://debank.com/profile/0xb314DA0A985d4deD335eB15454417A536AD41651?chain=canto) | 6.481 | 0.00000% | >= 3 years:<br/>633 |
-| 611 | [0x95f6f16b8E45039A5Aa679711B272BFc6B7805C6](https://debank.com/profile/0x95f6f16b8E45039A5Aa679711B272BFc6B7805C6?chain=canto) | 5.495 | 0.00000% | < 3 years:<br/>385 |
-| 612 | [0xbb022B95a85FFf259CE6E60D6373148f015a1d59](https://debank.com/profile/0xbb022B95a85FFf259CE6E60D6373148f015a1d59?chain=canto) | 5.267 | 0.00000% | >= 3 years:<br/>853 |
-| 613 | [0x3653442Ca5028E3CCaAe5192F054849E30569148](https://debank.com/profile/0x3653442Ca5028E3CCaAe5192F054849E30569148?chain=canto) | 4.992 | 0.00000% | >= 3 years:<br/>719 |
-| 614 | [0x9986cda2891E7963CC75f50FC4bB360B47a85FaB](https://debank.com/profile/0x9986cda2891E7963CC75f50FC4bB360B47a85FaB?chain=canto) | 4.708 | 0.00000% | >= 3 years:<br/>330 |
-| 615 | [0x7A8B83DaC270463895233Bb3932A799c12919f27](https://debank.com/profile/0x7A8B83DaC270463895233Bb3932A799c12919f27?chain=canto) | 3.934 | 0.00000% | >= 3 years:<br/>267 |
-| 616 | [0x054c2F551B2434caf63423252d7f5Ac1f2bcFFDe](https://debank.com/profile/0x054c2F551B2434caf63423252d7f5Ac1f2bcFFDe?chain=canto) | 3.372 | 0.00000% | >= 3 years:<br/>680<br/><br/>< 3 years:<br/>317 |
-| 617 | [0x31F1e01763Be70c0bA7A5F0a4314B4ff79d5Bea4](https://debank.com/profile/0x31F1e01763Be70c0bA7A5F0a4314B4ff79d5Bea4?chain=canto) | 2.944 | 0.00000% | >= 3 years:<br/>679 |
-| 618 | [0x9105F56F58A9cDB0e2DFb8696197CFAF3E45b9F0](https://debank.com/profile/0x9105F56F58A9cDB0e2DFb8696197CFAF3E45b9F0?chain=canto) | 2.72 | 0.00000% | >= 3 years:<br/>262 |
-| 619 | [0x63906B807e91c3cB5c18D28B76C5Be90E488e5EA](https://debank.com/profile/0x63906B807e91c3cB5c18D28B76C5Be90E488e5EA?chain=canto) | 2.496 | 0.00000% | >= 3 years:<br/>649 |
-| 620 | [0x7d30B785901A02A18aef0210f828E81C0cb82a9E](https://debank.com/profile/0x7d30B785901A02A18aef0210f828E81C0cb82a9E?chain=canto) | 2.45 | 0.00000% | >= 3 years:<br/>703 |
-| 621 | [0x4c890Dc20f7D99D0135396A08d07d1518a45a1DD](https://debank.com/profile/0x4c890Dc20f7D99D0135396A08d07d1518a45a1DD?chain=canto) | 2.068 | 0.00000% | >= 3 years:<br/>245<br/><br/>< 3 years:<br/>289 |
-| 622 | [0x2726E0F1518721791833b2836c56Bc99014bEF7F](https://debank.com/profile/0x2726E0F1518721791833b2836c56Bc99014bEF7F?chain=canto) | 1.948 | 0.00000% | >= 3 years:<br/>683 |
-| 623 | [0x1A5F6f16B81627fF22C36614D7ba59A4EFC2E206](https://debank.com/profile/0x1A5F6f16B81627fF22C36614D7ba59A4EFC2E206?chain=canto) | 1.936 | 0.00000% | < 3 years:<br/>342 |
-| 624 | [0x9c966b06b5E422B27D2Ac1967e8387Fc5deB75cb](https://debank.com/profile/0x9c966b06b5E422B27D2Ac1967e8387Fc5deB75cb?chain=canto) | 1.873 | 0.00000% | >= 3 years:<br/>917 |
-| 625 | [0xb00d51d3992BC412f783D0e21EDcf952Ce651D91](https://debank.com/profile/0xb00d51d3992BC412f783D0e21EDcf952Ce651D91?chain=canto) | 1.709 | 0.00000% | >= 3 years:<br/>137 |
-| 626 | [0x9BDbdb4A8f7f816C87a67F5281484ED902C6b942](https://debank.com/profile/0x9BDbdb4A8f7f816C87a67F5281484ED902C6b942?chain=canto) | 1.686 | 0.00000% | >= 3 years:<br/>271 |
-| 627 | [0x17782D2C9660861c70D397697dAd8700B8AdbE9D](https://debank.com/profile/0x17782D2C9660861c70D397697dAd8700B8AdbE9D?chain=canto) | 1.421 | 0.00000% | >= 3 years:<br/>681 |
-| 628 | [0xc1c63A197cBD2b11D987dadc3e5cc5794e5A9AE6](https://debank.com/profile/0xc1c63A197cBD2b11D987dadc3e5cc5794e5A9AE6?chain=canto) | 1.355 | 0.00000% | < 3 years:<br/>831 |
-| 629 | [0xFe202706E36F31aFBaf4b4543C2A8bBa4ddB2deE](https://debank.com/profile/0xFe202706E36F31aFBaf4b4543C2A8bBa4ddB2deE?chain=canto) | 1.253 | 0.00000% | >= 3 years:<br/>608 |
-| 630 | [0xd0cC9738866cd82B237A14c92ac60577602d6c18](https://debank.com/profile/0xd0cC9738866cd82B237A14c92ac60577602d6c18?chain=canto) | 1.124 | 0.00000% | >= 3 years:<br/>102 |
-| 631 | [0x82619EDe0ac5d964a0711613cFf5446ED3fF85Dc](https://debank.com/profile/0x82619EDe0ac5d964a0711613cFf5446ED3fF85Dc?chain=canto) | 1.124 | 0.00000% | >= 3 years:<br/>119 |
-| 632 | [0xc94527FdE2d01dd166991231120dCC2A6F09c303](https://debank.com/profile/0xc94527FdE2d01dd166991231120dCC2A6F09c303?chain=canto) | 0.97 | 0.00000% | >= 3 years:<br/>943 |
-| 633 | [0xcd69E59C6f4079c997dEf5e46bF18f74DF1c4b9a](https://debank.com/profile/0xcd69E59C6f4079c997dEf5e46bF18f74DF1c4b9a?chain=canto) | 0.857 | 0.00000% | >= 3 years:<br/>316 |
-| 634 | [0x7da07CB7a0538Cd46f8234F8f61e57404c21DCe1](https://debank.com/profile/0x7da07CB7a0538Cd46f8234F8f61e57404c21DCe1?chain=canto) | 0.196 | 0.00000% | >= 3 years:<br/>923 |
-| 635 | [0x618d78142F87A08Ba92132C5E9204298ef665a55](https://debank.com/profile/0x618d78142F87A08Ba92132C5E9204298ef665a55?chain=canto) | 0.196 | 0.00000% | >= 3 years:<br/>922 |
-| 636 | [0x5d5EDf52d270BD73011b6200494617775Bb85006](https://debank.com/profile/0x5d5EDf52d270BD73011b6200494617775Bb85006?chain=canto) | 0.195 | 0.00000% | >= 3 years:<br/>924 |
-| 637 | [0x4a83A2d95bB61d505EeE428478419EA4799345cd](https://debank.com/profile/0x4a83A2d95bB61d505EeE428478419EA4799345cd?chain=canto) | 0.187 | 0.00000% | >= 3 years:<br/>918 |
-| 638 | [0x0000000000000000000000000000000000000000](https://debank.com/profile/0x0000000000000000000000000000000000000000?chain=canto) | 0 | 0.00000% | < 3 years:<br/>57, 99, 124, 129, 191, 205, 209, 213, 236, 237, 238, 244, 248, 256, 268, 269, 270, 278, 288, 297, 298, 299, 302, 311, 312, 331, 332, 339, 341, 346, 347, 350, 351, 353, 354, 359, 364, 365, 368, 370, 372, 373, 382, 384, 387, 389, 394, 401, 413, 417, 419, 432, 435, 448, 449, 450, 453, 457, 458, 462, 464, 476, 483, 513, 529, 531, 532, 535, 537, 541, 544, 546, 550, 552, 553, 561, 589, 593, 625, 644, 647, 651, 661, 667, 699, 723, 730, 732, 734, 737, 742, 744, 745, 748, 749, 752, 753, 793, 794, 795, 796, 800, 802, 803, 806, 807, 809, 810, 811, 813, 829, 832, 837, 839, 842, 849, 850, 856, 857, 865, 866, 869, 870, 871, 872, 882, 884, 885, 904, 908, 909, 910, 914, 916, 919, 920, 925, 926, 930, 931, 932, 933, 944, 954, 962, 963, 965, 966, 972, 973, 974, 981, 999, 1001, 1002, 1007, 1013, 1014, 1016, 1026, 1027, 1028, 1029, 1033, 1038, 1050, 1053, 1058, 1059, 1072, 1080, 1091, 1095, 1097, 1101, 1104, 1105, 1110, 1119, 1124, 1125, 1132, 1138, 1139, 1146 |
-| 639 | [0x04c523C581415Ee4853D8F220010234D1E7CC561](https://debank.com/profile/0x04c523C581415Ee4853D8F220010234D1E7CC561?chain=canto) | 0 | 0.00000% | < 3 years:<br/>327 |
-| 640 | [0xe7Cdd6583b674AF8d10b89899b134C41846dA0bf](https://debank.com/profile/0xe7Cdd6583b674AF8d10b89899b134C41846dA0bf?chain=canto) | 0 | 0.00000% | < 3 years:<br/>328 |
-| 641 | [0xd701E72C00c461f8Ceb19591c1760B42918ac7F9](https://debank.com/profile/0xd701E72C00c461f8Ceb19591c1760B42918ac7F9?chain=canto) | 0 | 0.00000% | < 3 years:<br/>340 |
-| 642 | [0x96402c290A1d7B8DdE1A3172EB2684b55727666C](https://debank.com/profile/0x96402c290A1d7B8DdE1A3172EB2684b55727666C?chain=canto) | 0 | 0.00000% | < 3 years:<br/>375, 376 |
-| 643 | [0xb75e6A898F4D7dD32EfEA8D27094432b0f90618D](https://debank.com/profile/0xb75e6A898F4D7dD32EfEA8D27094432b0f90618D?chain=canto) | 0 | 0.00000% | < 3 years:<br/>741 |
-| 644 | [0x274949b0dB377742A46074f75749E953A8da45A7](https://debank.com/profile/0x274949b0dB377742A46074f75749E953A8da45A7?chain=canto) | 0 | 0.00000% | < 3 years:<br/>770 |
-| 645 | [0x5B136c570057B8A24FbBfe4B9988e9F84a1df4c9](https://debank.com/profile/0x5B136c570057B8A24FbBfe4B9988e9F84a1df4c9?chain=canto) | 0 | 0.00000% | < 3 years:<br/>798 |
-| 646 | [0x23269Ae20Ad7028734f89D17535770FEba5A994C](https://debank.com/profile/0x23269Ae20Ad7028734f89D17535770FEba5A994C?chain=canto) | 0 | 0.00000% | < 3 years:<br/>815 |
-| 647 | [0x58bA57abce300a8f60f318318bC8e55cf2d2e7aF](https://debank.com/profile/0x58bA57abce300a8f60f318318bC8e55cf2d2e7aF?chain=canto) | 0 | 0.00000% | < 3 years:<br/>816 |
-| 648 | [0x9bB46E25B9701Ef0674a068033b443434AB24596](https://debank.com/profile/0x9bB46E25B9701Ef0674a068033b443434AB24596?chain=canto) | 0 | 0.00000% | < 3 years:<br/>817, 818, 819, 820, 821, 822, 823, 824, 825, 826 |
-| 649 | [0xA9a4FBB7da516cd9902eC69f759910Fd2A68df99](https://debank.com/profile/0xA9a4FBB7da516cd9902eC69f759910Fd2A68df99?chain=canto) | 0 | 0.00000% | < 3 years:<br/>854 |
-| 650 | [0x9E4F9e32C9b4F9dCc0F52185aA4f6FAcA60fCaD4](https://debank.com/profile/0x9E4F9e32C9b4F9dCc0F52185aA4f6FAcA60fCaD4?chain=canto) | 0 | 0.00000% | < 3 years:<br/>861 |
-| 651 | [0xbF41F3173c91cdcBa6bE8F2053D0b518de4aEC48](https://debank.com/profile/0xbF41F3173c91cdcBa6bE8F2053D0b518de4aEC48?chain=canto) | 0 | 0.00000% | < 3 years:<br/>863 |
-| 652 | [0x9D8C9112384967260078F1161FF82E40c0Da81A5](https://debank.com/profile/0x9D8C9112384967260078F1161FF82E40c0Da81A5?chain=canto) | 0 | 0.00000% | < 3 years:<br/>883 |
-| 653 | [0x3185EF019BA1C04B8d65eDB64c1c34C3eaE52271](https://debank.com/profile/0x3185EF019BA1C04B8d65eDB64c1c34C3eaE52271?chain=canto) | 0 | 0.00000% | < 3 years:<br/>911 |
-| 654 | [0x45F0D20cC203520E754f59D8d6E806638714f948](https://debank.com/profile/0x45F0D20cC203520E754f59D8d6E806638714f948?chain=canto) | 0 | 0.00000% | < 3 years:<br/>1004 |
-| 655 | [0x0C4Cad0A420520074C91983E315faba77EcBe493](https://debank.com/profile/0x0C4Cad0A420520074C91983E315faba77EcBe493?chain=canto) | 0 | 0.00000% | < 3 years:<br/>1006 |
-| 656 | [0x5F72A78EC3C6778edD72715E0c394E1E44C3fDE4](https://debank.com/profile/0x5F72A78EC3C6778edD72715E0c394E1E44C3fDE4?chain=canto) | 0 | 0.00000% | < 3 years:<br/>1018 |
-| 657 | [0xB5123919269DBb52823C27D05e7A58B99EE63f08](https://debank.com/profile/0xB5123919269DBb52823C27D05e7A58B99EE63f08?chain=canto) | 0 | 0.00000% | < 3 years:<br/>1030 |
-| 658 | [0xDb414e0D262f9f0fdA3eD96bf68e02C9fCEA09cC](https://debank.com/profile/0xDb414e0D262f9f0fdA3eD96bf68e02C9fCEA09cC?chain=canto) | 0 | 0.00000% | < 3 years:<br/>1039 |
+  | 1 | [0x13eeB8EdfF60BbCcB24Ec7Dd5668aa246525Dc51](https://debank.com/profile/0x13eeB8EdfF60BbCcB24Ec7Dd5668aa246525Dc51?chain=canto) | 69,586,594.178 | 23.15405% | 33, 34, 35, 36, 38, 39, 40, 41, 42, 47, 48, 49, 50, 55, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 73, 74, 75, 80, 139, 183 |
+| 2 | [0xcC06464C7bbCF81417c08563dA2E1847c22b703a](https://debank.com/profile/0xcC06464C7bbCF81417c08563dA2E1847c22b703a?chain=canto) | 23,228,788.083 | 7.72908% | 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 377 |
+| 3 | [0x1bAe1083CF4125eD5dEeb778985C1Effac0ecC06](https://debank.com/profile/0x1bAe1083CF4125eD5dEeb778985C1Effac0ecC06?chain=canto) | 23,108,073.692 | 7.68892% | 29, 30, 31, 32, 51, 52, 53, 54, 84, 85, 90, 91, 93 |
+| 4 | [0x06b16991B53632C2362267579AE7C4863c72fDb8](https://debank.com/profile/0x06b16991B53632C2362267579AE7C4863c72fDb8?chain=canto) | 12,771,288.164 | 4.24948% | 20, 21, 22, 765 |
+| 5 | [0x0b776552c1Aef1Dc33005DD25AcDA22493b6615d](https://debank.com/profile/0x0b776552c1Aef1Dc33005DD25AcDA22493b6615d?chain=canto) | 12,592,232.779 | 4.18990% | 1, 17, 18, 19, 828 |
+| 6 | [0x78e801136F77805239A7F533521A7a5570F572C8](https://debank.com/profile/0x78e801136F77805239A7F533521A7a5570F572C8?chain=canto) | 12,071,154.979 | 4.01652% | 23, 24, 25 |
+| 7 | [0x03B88DacB7c21B54cEfEcC297D981E5b721A9dF1](https://debank.com/profile/0x03B88DacB7c21B54cEfEcC297D981E5b721A9dF1?chain=canto) | 12,051,957.525 | 4.01013% | 26, 27, 28 |
+| 8 | [0x069e85D4F1010DD961897dC8C095FBB5FF297434](https://debank.com/profile/0x069e85D4F1010DD961897dC8C095FBB5FF297434?chain=canto) | 8,329,401.852 | 2.77150% | 15, 16, 94, 95, 738, 739, 743 |
+| 9 | [0xCba1A275e2D858EcffaF7a87F606f74B719a8A93](https://debank.com/profile/0xCba1A275e2D858EcffaF7a87F606f74B719a8A93?chain=canto) | 6,047,191.684 | 2.01213% | 215 |
+| 10 | [0x13cB009A280bd617ec1C9dB97A2584A90F0b23F3](https://debank.com/profile/0x13cB009A280bd617ec1C9dB97A2584A90F0b23F3?chain=canto) | 6,002,210.354 | 1.99716% | 1085, 1086, 1089, 1130, 1131 |
+| 11 | [0xCFFC6e659DF622e2d41c7A879C76E6d33F37925E](https://debank.com/profile/0xCFFC6e659DF622e2d41c7A879C76E6d33F37925E?chain=canto) | 5,646,188.863 | 1.87870% | 406 |
+| 12 | [0xF09d213EE8a8B159C884b276b86E08E26B3bfF75](https://debank.com/profile/0xF09d213EE8a8B159C884b276b86E08E26B3bfF75?chain=canto) | 5,334,856.421 | 1.77511% | 100 |
+| 13 | [0x69224dbA1D77bfe6eA99409aB595d04631D95C22](https://debank.com/profile/0x69224dbA1D77bfe6eA99409aB595d04631D95C22?chain=canto) | 4,555,633.179 | 1.51583% | 96, 97, 98, 1136 |
+| 14 | [0x25C6fE5005d5cf4C7e665A9056B06856248E4f22](https://debank.com/profile/0x25C6fE5005d5cf4C7e665A9056B06856248E4f22?chain=canto) | 4,351,014.802 | 1.44774% | 1133 |
+| 15 | [0x4F09B919d969b58A96E8BD7673f12372D09395E8](https://debank.com/profile/0x4F09B919d969b58A96E8BD7673f12372D09395E8?chain=canto) | 4,097,434.219 | 1.36337% | 43 |
+| 16 | [0x548a6b2CbDb368c90a8E9FAFAD5A478f71B67076](https://debank.com/profile/0x548a6b2CbDb368c90a8E9FAFAD5A478f71B67076?chain=canto) | 4,082,890.894 | 1.35853% | 86, 87, 88, 1147 |
+| 17 | [0xae8003c792CDEefd54f93E98481a8d58cAdd30aa](https://debank.com/profile/0xae8003c792CDEefd54f93E98481a8d58cAdd30aa?chain=canto) | 3,728,546.566 | 1.24063% | 1140, 1141, 1142, 1144, 1156 |
+| 18 | [0xD204E3dC1937d3a30fc6F20ABc48AC5506C94D1E](https://debank.com/profile/0xD204E3dC1937d3a30fc6F20ABc48AC5506C94D1E?chain=canto) | 3,226,851.346 | 1.07369% | 44 |
+| 19 | [0xfF2AD84b31f046dECC8A4F627c7cf81fe61FF54b](https://debank.com/profile/0xfF2AD84b31f046dECC8A4F627c7cf81fe61FF54b?chain=canto) | 3,208,463.247 | 1.06758% | 45 |
+| 20 | [0xF6ec240620aD5288028ad1F96D8725db0c838B90](https://debank.com/profile/0xF6ec240620aD5288028ad1F96D8725db0c838B90?chain=canto) | 3,137,126.497 | 1.04384% | 37, 455 |
+| 21 | [0xa31d50414535263A9b217C7A517253Db0E9e8519](https://debank.com/profile/0xa31d50414535263A9b217C7A517253Db0E9e8519?chain=canto) | 3,017,788.745 | 1.00413% | 46 |
+| 22 | [0x1e4E1d10BA1c34dF8b48d5bC8508D6644431ACc2](https://debank.com/profile/0x1e4E1d10BA1c34dF8b48d5bC8508D6644431ACc2?chain=canto) | 2,832,497.621 | 0.94248% | 785, 1077, 1084 |
+| 23 | [0xa7f37a4699dD344440341134e9f94a4E7BA83110](https://debank.com/profile/0xa7f37a4699dD344440341134e9f94a4E7BA83110?chain=canto) | 2,808,372.408 | 0.93445% | 76, 79, 81 |
+| 24 | [0xb6fB12999a09eFfdbcC6F60776331eacCc42E539](https://debank.com/profile/0xb6fB12999a09eFfdbcC6F60776331eacCc42E539?chain=canto) | 2,407,879.89 | 0.80119% | 252, 253, 399, 750, 751 |
+| 25 | [0x53a5dD07127739e5038cE81eff24ec503A6CC479](https://debank.com/profile/0x53a5dD07127739e5038cE81eff24ec503A6CC479?chain=canto) | 2,371,802.914 | 0.78919% | 835 |
+| 26 | [0x2F143CeE05f5BB2a15C2db55E31F6a9F9F81A5ea](https://debank.com/profile/0x2F143CeE05f5BB2a15C2db55E31F6a9F9F81A5ea?chain=canto) | 2,252,363.434 | 0.74945% | 402, 1045 |
+| 27 | [0xC6493626be58Dc647A5103970Da5BcF9F7FdbFd2](https://debank.com/profile/0xC6493626be58Dc647A5103970Da5BcF9F7FdbFd2?chain=canto) | 2,178,006.1 | 0.72470% | 92 |
+| 28 | [0xF0e4e74Ce34738826477b9280776fc797506fE13](https://debank.com/profile/0xF0e4e74Ce34738826477b9280776fc797506fE13?chain=canto) | 1,986,160.336 | 0.66087% | 72, 287, 688 |
+| 29 | [0x50149b01f19c2D4A403B1FE4469c117a5cEdb4fc](https://debank.com/profile/0x50149b01f19c2D4A403B1FE4469c117a5cEdb4fc?chain=canto) | 1,887,855.965 | 0.62816% | 101 |
+| 30 | [0xe5Fae1A033AD8cb1355E8F19811380AfD15B8bBa](https://debank.com/profile/0xe5Fae1A033AD8cb1355E8F19811380AfD15B8bBa?chain=canto) | 1,799,796.604 | 0.59886% | 1041, 1042 |
+| 31 | [0x2b26dA567C2A8c220daF91be8E37A429D33AEF0B](https://debank.com/profile/0x2b26dA567C2A8c220daF91be8E37A429D33AEF0B?chain=canto) | 1,736,777.723 | 0.57789% | 652 |
+| 32 | [0xAA3736052423f768D224E38771F6D08802a6a3De](https://debank.com/profile/0xAA3736052423f768D224E38771F6D08802a6a3De?chain=canto) | 1,736,182.24 | 0.57769% | 71 |
+| 33 | [0x90F15E09B8Fb5BC080B968170C638920Db3A3446](https://debank.com/profile/0x90F15E09B8Fb5BC080B968170C638920Db3A3446?chain=canto) | 1,608,254.659 | 0.53513% | 210, 768, 769, 789 |
+| 34 | [0xA67D2c03c3cfe6177a60cAed0a4cfDA7C7a563e0](https://debank.com/profile/0xA67D2c03c3cfe6177a60cAed0a4cfDA7C7a563e0?chain=canto) | 1,520,184.162 | 0.50582% | 83 |
+| 35 | [0x8CeFecbd7658E86BaB727D24EBf5ba104ae1AAF0](https://debank.com/profile/0x8CeFecbd7658E86BaB727D24EBf5ba104ae1AAF0?chain=canto) | 1,509,522.246 | 0.50227% | 1076, 1081 |
+| 36 | [0x57702217d1cDbf4DF7110ABD91832216310B4062](https://debank.com/profile/0x57702217d1cDbf4DF7110ABD91832216310B4062?chain=canto) | 1,449,379.349 | 0.48226% | 160, 1129 |
+| 37 | [0x2B5A41eF9Ec5edcdAB420758CfFFCBE8A1d52F6D](https://debank.com/profile/0x2B5A41eF9Ec5edcdAB420758CfFFCBE8A1d52F6D?chain=canto) | 1,433,797.693 | 0.47708% | 1107, 1115 |
+| 38 | [0xA1bd107a3F1B8B6e83E0290Ed10561A0A8aF2D11](https://debank.com/profile/0xA1bd107a3F1B8B6e83E0290Ed10561A0A8aF2D11?chain=canto) | 1,260,680.776 | 0.41948% | 1087 |
+| 39 | [0xD7ec17Fb2A97B1c0b6cDA86B031678A11184D3df](https://debank.com/profile/0xD7ec17Fb2A97B1c0b6cDA86B031678A11184D3df?chain=canto) | 1,249,159.444 | 0.41564% | 844 |
+| 40 | [0x09b45D9e4D5f2a4388403B2AA97E7E4619cefb5F](https://debank.com/profile/0x09b45D9e4D5f2a4388403B2AA97E7E4619cefb5F?chain=canto) | 1,190,040.092 | 0.39597% | 1088 |
+| 41 | [0x169D49e0cB5Cb981d2602c7d17934AE10E2569C2](https://debank.com/profile/0x169D49e0cB5Cb981d2602c7d17934AE10E2569C2?chain=canto) | 1,170,341.842 | 0.38942% | 463 |
+| 42 | [0x427634084Fc822EDB362F368cfdb93cF2ABf143B](https://debank.com/profile/0x427634084Fc822EDB362F368cfdb93cF2ABf143B?chain=canto) | 1,116,009.609 | 0.37134% | 701 |
+| 43 | [0x50230fbfC593C92E55ae27d3F25633DdB9693Ef6](https://debank.com/profile/0x50230fbfC593C92E55ae27d3F25633DdB9693Ef6?chain=canto) | 1,095,674.732 | 0.36457% | 967, 968, 969, 970, 971, 975 |
+| 44 | [0xCFFE08BDf20918007f8Ab268C32f8756494fC8D8](https://debank.com/profile/0xCFFE08BDf20918007f8Ab268C32f8756494fC8D8?chain=canto) | 1,082,292.98 | 0.36012% | 349, 538, 724, 792, 1015 |
+| 45 | [0xCAfc58De1E6A071790eFbB6B83b35397023E1544](https://debank.com/profile/0xCAfc58De1E6A071790eFbB6B83b35397023E1544?chain=canto) | 1,069,116.583 | 0.35573% | 82 |
+| 46 | [0xC5C821dE580A01f5979F3223cb2A34a8832eF3A4](https://debank.com/profile/0xC5C821dE580A01f5979F3223cb2A34a8832eF3A4?chain=canto) | 1,052,725.319 | 0.35028% | 77 |
+| 47 | [0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC](https://debank.com/profile/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC?chain=canto) | 1,014,777.161 | 0.33765% | 78 |
+| 48 | [0xBA1ee94032904bD9E8FE966a924355Fe5542b5A7](https://debank.com/profile/0xBA1ee94032904bD9E8FE966a924355Fe5542b5A7?chain=canto) | 1,006,760.871 | 0.33499% | 89 |
+| 49 | [0xd8d9A3F4f013722db285e16fEB2751501c87907E](https://debank.com/profile/0xd8d9A3F4f013722db285e16fEB2751501c87907E?chain=canto) | 1,006,718.587 | 0.33497% | 611 |
+| 50 | [0xCccaCBFa941D79F5B54eCBaF4D74A2B9C9a5d8FF](https://debank.com/profile/0xCccaCBFa941D79F5B54eCBaF4D74A2B9C9a5d8FF?chain=canto) | 1,004,780.951 | 0.33433% | 1159 |
+| 51 | [0x2d1bdC590Cb736097Bc5577c8974e28dc48F5ECc](https://debank.com/profile/0x2d1bdC590Cb736097Bc5577c8974e28dc48F5ECc?chain=canto) | 999,574.36 | 0.33260% | 390, 391, 392, 393, 395, 396, 397, 725, 726, 727, 728, 747, 900, 958 |
+| 52 | [0x995F09D33AB1DbC68F6AB1f775E518b5fE842fB5](https://debank.com/profile/0x995F09D33AB1DbC68F6AB1f775E518b5fE842fB5?chain=canto) | 984,069.341 | 0.32744% | 1090 |
+| 53 | [0x2fcC020F72E5d2EdD2a24D04f3Dc90D7fDFbD1DD](https://debank.com/profile/0x2fcC020F72E5d2EdD2a24D04f3Dc90D7fDFbD1DD?chain=canto) | 885,391.8 | 0.29460% | 827 |
+| 54 | [0x0ddA3228B0729BfE7698988A669B81d4A306A8Ea](https://debank.com/profile/0x0ddA3228B0729BfE7698988A669B81d4A306A8Ea?chain=canto) | 847,222.434 | 0.28190% | 1065, 1066, 1067, 1068, 1069, 1092, 1093 |
+| 55 | [0x397A7EC90bb4f0e89Ffd2Fb3269a3ef295d4f84A](https://debank.com/profile/0x397A7EC90bb4f0e89Ffd2Fb3269a3ef295d4f84A?chain=canto) | 837,462.517 | 0.27865% | 782 |
+| 56 | [0xA6Ab028bd3945F769CDb4896EF3371019b776BB4](https://debank.com/profile/0xA6Ab028bd3945F769CDb4896EF3371019b776BB4?chain=canto) | 791,611.143 | 0.26340% | 1082 |
+| 57 | [0x3bce96AB4cABd0b8514E42A84A074403413863a8](https://debank.com/profile/0x3bce96AB4cABd0b8514E42A84A074403413863a8?chain=canto) | 749,208.284 | 0.24929% | 1034 |
+| 58 | [0xf8F53D1Da544f587E5639DD547328CBd9F3Ddda0](https://debank.com/profile/0xf8F53D1Da544f587E5639DD547328CBd9F3Ddda0?chain=canto) | 742,693.844 | 0.24712% | 1037 |
+| 59 | [0xF0856528194E7C04d4f71782ECa7d4446082A75F](https://debank.com/profile/0xF0856528194E7C04d4f71782ECa7d4446082A75F?chain=canto) | 739,068.622 | 0.24592% | 1035 |
+| 60 | [0x22Cf84e1DeB9a0Ce86d1533e438d6cdA9d289927](https://debank.com/profile/0x22Cf84e1DeB9a0Ce86d1533e438d6cdA9d289927?chain=canto) | 739,048.708 | 0.24591% | 1036 |
+| 61 | [0x0a3043F9d2b1c6cCfc492EB59Af5156F378c57BD](https://debank.com/profile/0x0a3043F9d2b1c6cCfc492EB59Af5156F378c57BD?chain=canto) | 684,613.6 | 0.22780% | 189, 254, 334, 1153, 1154, 1155 |
+| 62 | [0x3C2d6d7144241F1F1203c29C124585e55B58975E](https://debank.com/profile/0x3C2d6d7144241F1F1203c29C124585e55B58975E?chain=canto) | 650,750.24 | 0.21653% | 123, 907, 1126 |
+| 63 | [0x684c350D9A0569A07454D778134f04406315a5b8](https://debank.com/profile/0x684c350D9A0569A07454D778134f04406315a5b8?chain=canto) | 591,226.209 | 0.19672% | 1047, 1071 |
+| 64 | [0x486A0e4897018B286b7b2bfe63476AaD1437A040](https://debank.com/profile/0x486A0e4897018B286b7b2bfe63476AaD1437A040?chain=canto) | 521,104.183 | 0.17339% | 1118 |
+| 65 | [0xC9eebecb1d0AfF4fb2B9978516E075A33639892C](https://debank.com/profile/0xC9eebecb1d0AfF4fb2B9978516E075A33639892C?chain=canto) | 496,837.002 | 0.16532% | 106 |
+| 66 | [0x5A1a3dff949225E39767Ca981218756DB47C7d8c](https://debank.com/profile/0x5A1a3dff949225E39767Ca981218756DB47C7d8c?chain=canto) | 433,973.196 | 0.14440% | 200, 436 |
+| 67 | [0xaA970e6bD6E187492f8327e514c9E8c36c81f11E](https://debank.com/profile/0xaA970e6bD6E187492f8327e514c9E8c36c81f11E?chain=canto) | 350,196.753 | 0.11652% | 104, 110, 1078 |
+| 68 | [0x6a27d11E78b97d15DE5edbE5cf1fA3619466fe3e](https://debank.com/profile/0x6a27d11E78b97d15DE5edbE5cf1fA3619466fe3e?chain=canto) | 347,593.956 | 0.11566% | 308, 426 |
+| 69 | [0x55BC5E6Ad29DA823854822749FD2Eda2775C78bd](https://debank.com/profile/0x55BC5E6Ad29DA823854822749FD2Eda2775C78bd?chain=canto) | 318,586.051 | 0.10601% | 446 |
+| 70 | [0x9aCf8D0315094d33Aa6875B673EB126483C3A2c0](https://debank.com/profile/0x9aCf8D0315094d33Aa6875B673EB126483C3A2c0?chain=canto) | 304,808.527 | 0.10142% | 428, 1096, 1161 |
+| 71 | [0x8A94DB91F5a6e5b8a8bFDae9c60D49aEe03E860F](https://debank.com/profile/0x8A94DB91F5a6e5b8a8bFDae9c60D49aEe03E860F?chain=canto) | 298,257.899 | 0.09924% | 322 |
+| 72 | [0x8d26C9DAC7E16738752fa1446b956A97C63e2F39](https://debank.com/profile/0x8d26C9DAC7E16738752fa1446b956A97C63e2F39?chain=canto) | 296,663.414 | 0.09871% | 1005 |
+| 73 | [0x3c86f7e3D52b4084c73E3612775eC8b9bc6721Ec](https://debank.com/profile/0x3c86f7e3D52b4084c73E3612775eC8b9bc6721Ec?chain=canto) | 291,547.255 | 0.09701% | 772 |
+| 74 | [0x7c22953Bf2245A8298baf26D586Bd4b08a87caaa](https://debank.com/profile/0x7c22953Bf2245A8298baf26D586Bd4b08a87caaa?chain=canto) | 287,822.451 | 0.09577% | 103, 905, 1098 |
+| 75 | [0x714C8A1DB40eedc9240AF30bB25D5440796536aa](https://debank.com/profile/0x714C8A1DB40eedc9240AF30bB25D5440796536aa?chain=canto) | 274,544.256 | 0.09135% | 586, 906, 964, 1099 |
+| 76 | [0xf37f3490C27e4CD822B56F16c59bc318Ba3551AD](https://debank.com/profile/0xf37f3490C27e4CD822B56F16c59bc318Ba3551AD?chain=canto) | 250,415.534 | 0.08332% | 848 |
+| 77 | [0x35128c4263aA0213c59A897Fd31d8C837E8B71C8](https://debank.com/profile/0x35128c4263aA0213c59A897Fd31d8C837E8B71C8?chain=canto) | 250,109.973 | 0.08322% | 186 |
+| 78 | [0x4A80f927126eC56c1E6773805fFa03A04216b293](https://debank.com/profile/0x4A80f927126eC56c1E6773805fFa03A04216b293?chain=canto) | 248,683.56 | 0.08275% | 279, 540 |
+| 79 | [0xAE886e2A6AA00e98C0C7b1e4885f94a2dB720690](https://debank.com/profile/0xAE886e2A6AA00e98C0C7b1e4885f94a2dB720690?chain=canto) | 244,661.03 | 0.08141% | 190, 609, 790, 897, 955 |
+| 80 | [0x0709B103d46d71458a71e5d81230DD688809A53D](https://debank.com/profile/0x0709B103d46d71458a71e5d81230DD688809A53D?chain=canto) | 242,389.628 | 0.08065% | 1083 |
+| 81 | [0x450f8F4096C05c5B2CEf13dbC4bB963a95247589](https://debank.com/profile/0x450f8F4096C05c5B2CEf13dbC4bB963a95247589?chain=canto) | 235,115.133 | 0.07823% | 507 |
+| 82 | [0x3c5Aac016EF2F178e8699D6208796A2D67557fe2](https://debank.com/profile/0x3c5Aac016EF2F178e8699D6208796A2D67557fe2?chain=canto) | 233,294.297 | 0.07763% | 434 |
+| 83 | [0x9b25235ee2e5564F50810E03eA5F91976A8EE6fA](https://debank.com/profile/0x9b25235ee2e5564F50810E03eA5F91976A8EE6fA?chain=canto) | 198,981.194 | 0.06621% | 234, 558 |
+| 84 | [0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2](https://debank.com/profile/0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2?chain=canto) | 179,316.327 | 0.05967% | 323 |
+| 85 | [0x62D6E8C7c03D3Fc6276d3A44977C2501593BB90A](https://debank.com/profile/0x62D6E8C7c03D3Fc6276d3A44977C2501593BB90A?chain=canto) | 178,293.113 | 0.05932% | 777, 901, 959 |
+| 86 | [0x5fA275BA9F04BDC906084478Dbf41CBE29388C5d](https://debank.com/profile/0x5fA275BA9F04BDC906084478Dbf41CBE29388C5d?chain=canto) | 177,783.732 | 0.05916% | 855, 903, 961, 1103 |
+| 87 | [0xf889B1D99b440AAa48839D7032088d96f7b3bceb](https://debank.com/profile/0xf889B1D99b440AAa48839D7032088d96f7b3bceb?chain=canto) | 177,782.626 | 0.05915% | 383, 862, 1074 |
+| 88 | [0x16f7773b109662294bE355D9C554fBFE2eF24147](https://debank.com/profile/0x16f7773b109662294bE355D9C554fBFE2eF24147?chain=canto) | 159,419.869 | 0.05304% | 763 |
+| 89 | [0xAd789Eb3042dDE224CbBcacf0b57399de0807502](https://debank.com/profile/0xAd789Eb3042dDE224CbBcacf0b57399de0807502?chain=canto) | 149,995.534 | 0.04991% | 657 |
+| 90 | [0x951B6d50D07C39b0f97A7bb2F5c1e96F07a093d3](https://debank.com/profile/0x951B6d50D07C39b0f97A7bb2F5c1e96F07a093d3?chain=canto) | 141,526.113 | 0.04709% | 791 |
+| 91 | [0xBe26f41cBc89B8f6938871854d8699Ee45eA4d61](https://debank.com/profile/0xBe26f41cBc89B8f6938871854d8699Ee45eA4d61?chain=canto) | 136,050.024 | 0.04527% | 479 |
+| 92 | [0x5D58EDC7a7C91239Ec2FD56a646679780886323c](https://debank.com/profile/0x5D58EDC7a7C91239Ec2FD56a646679780886323c?chain=canto) | 133,594.384 | 0.04445% | 1152 |
+| 93 | [0xC438E5d32f9381b59072b9a0c730Cbac41575A4E](https://debank.com/profile/0xC438E5d32f9381b59072b9a0c730Cbac41575A4E?chain=canto) | 124,034.379 | 0.04127% | 204, 898, 956, 1102 |
+| 94 | [0xb14d56ce29dADE0316EA5Df06D491636a7c4F3C8](https://debank.com/profile/0xb14d56ce29dADE0316EA5Df06D491636a7c4F3C8?chain=canto) | 119,726.223 | 0.03984% | 668 |
+| 95 | [0xCcca25ac5C1615bA9b4f0225eBAed20168Ad1434](https://debank.com/profile/0xCcca25ac5C1615bA9b4f0225eBAed20168Ad1434?chain=canto) | 117,785.386 | 0.03919% | 656 |
+| 96 | [0x5A2f17CA66dCEeD4C21253Af1663B5dB17B066Dc](https://debank.com/profile/0x5A2f17CA66dCEeD4C21253Af1663B5dB17B066Dc?chain=canto) | 115,351.649 | 0.03838% | 602, 929 |
+| 97 | [0x6b61Dc88F642b9c5e5a16515281Fa9b397028048](https://debank.com/profile/0x6b61Dc88F642b9c5e5a16515281Fa9b397028048?chain=canto) | 114,443.098 | 0.03808% | 405 |
+| 98 | [0x063e340ed6bf775F2e8bda507F9CE4816109EB6E](https://debank.com/profile/0x063e340ed6bf775F2e8bda507F9CE4816109EB6E?chain=canto) | 114,098.571 | 0.03796% | 1070 |
+| 99 | [0x9076DD7dBc8e8eE5A4aC72924Cd852D27a605b52](https://debank.com/profile/0x9076DD7dBc8e8eE5A4aC72924Cd852D27a605b52?chain=canto) | 113,365.252 | 0.03772% | 578 |
+| 100 | [0x30FC315f8DDBFdfAe3cEf41d7e1BF818e9c99418](https://debank.com/profile/0x30FC315f8DDBFdfAe3cEf41d7e1BF818e9c99418?chain=canto) | 112,623.13 | 0.03747% | 568 |
+| 101 | [0xD1A0B66835D830e9ada42eEf436f3AA8005b20B5](https://debank.com/profile/0xD1A0B66835D830e9ada42eEf436f3AA8005b20B5?chain=canto) | 110,755.153 | 0.03685% | 178 |
+| 102 | [0x91ddEb35264287785762e666B5fba5Da9E83b5C8](https://debank.com/profile/0x91ddEb35264287785762e666B5fba5Da9E83b5C8?chain=canto) | 105,039.813 | 0.03495% | 315, 684 |
+| 103 | [0x938EF8eB7d92B548714A1c2f4cF02581b449b68f](https://debank.com/profile/0x938EF8eB7d92B548714A1c2f4cF02581b449b68f?chain=canto) | 102,595.385 | 0.03414% | 808 |
+| 104 | [0x424bE8DF5Db7B04b1063Bd4Ee0F99Db445C59624](https://debank.com/profile/0x424bE8DF5Db7B04b1063Bd4Ee0F99Db445C59624?chain=canto) | 102,072.086 | 0.03396% | 465 |
+| 105 | [0xC002Ae38dE291433239B5D85ce6253638c85E47F](https://debank.com/profile/0xC002Ae38dE291433239B5D85ce6253638c85E47F?chain=canto) | 102,028.423 | 0.03395% | 1040 |
+| 106 | [0xf96A10dcB261Aa932a589146E87D80E4Cc8446F2](https://debank.com/profile/0xf96A10dcB261Aa932a589146E87D80E4Cc8446F2?chain=canto) | 98,490.534 | 0.03277% | 761 |
+| 107 | [0x49Ab5fc10011685912a9b36B0eE4deF3BA74700E](https://debank.com/profile/0x49Ab5fc10011685912a9b36B0eE4deF3BA74700E?chain=canto) | 97,936.494 | 0.03259% | 337, 345 |
+| 108 | [0xDf6Af6DAC1B707f3A63a97f72Fe34E81aB16F592](https://debank.com/profile/0xDf6Af6DAC1B707f3A63a97f72Fe34E81aB16F592?chain=canto) | 96,618.226 | 0.03215% | 555 |
+| 109 | [0xF1F957595dc117128BF7d3AC5f71042a889b826a](https://debank.com/profile/0xF1F957595dc117128BF7d3AC5f71042a889b826a?chain=canto) | 95,245.299 | 0.03169% | 1123 |
+| 110 | [0xa8E733C326cF7fAabc85A81Fd99b2902A795eaD1](https://debank.com/profile/0xa8E733C326cF7fAabc85A81Fd99b2902A795eaD1?chain=canto) | 94,324.619 | 0.03139% | 506 |
+| 111 | [0x4733D8e32496e1e7CBc0c734B565a32e84676b5f](https://debank.com/profile/0x4733D8e32496e1e7CBc0c734B565a32e84676b5f?chain=canto) | 88,093.354 | 0.02931% | 1121, 1135 |
+| 112 | [0xE8306d0cBa02c1f5a23b38DC3D0f4D6c5fA7A092](https://debank.com/profile/0xE8306d0cBa02c1f5a23b38DC3D0f4D6c5fA7A092?chain=canto) | 88,001.161 | 0.02928% | 896 |
+| 113 | [0xB835367ae1CaFCEa58a10A51b17Fea25d16c3daB](https://debank.com/profile/0xB835367ae1CaFCEa58a10A51b17Fea25d16c3daB?chain=canto) | 86,870.758 | 0.02891% | 1116 |
+| 114 | [0xf6301E682769A8b3ECdCe94b2419ba40A958D17e](https://debank.com/profile/0xf6301E682769A8b3ECdCe94b2419ba40A958D17e?chain=canto) | 84,140.253 | 0.02800% | 182, 902, 960 |
+| 115 | [0x70ddC127D567b99f1cabC9E01a7AEE9577DFD8e1](https://debank.com/profile/0x70ddC127D567b99f1cabC9E01a7AEE9577DFD8e1?chain=canto) | 80,126.135 | 0.02666% | 400 |
+| 116 | [0x2bf36C23f5d6973CD8d34ADad92A695A4B8C0768](https://debank.com/profile/0x2bf36C23f5d6973CD8d34ADad92A695A4B8C0768?chain=canto) | 77,034.662 | 0.02563% | 412, 1063 |
+| 117 | [0xD39ec0556B27beA894718C981470A15724278585](https://debank.com/profile/0xD39ec0556B27beA894718C981470A15724278585?chain=canto) | 75,721.234 | 0.02520% | 295, 335, 343, 378, 686, 887, 945 |
+| 118 | [0x3854BEC598caE635F99C545DE0bCeCB37fFFE23e](https://debank.com/profile/0x3854BEC598caE635F99C545DE0bCeCB37fFFE23e?chain=canto) | 75,009.415 | 0.02496% | 369, 499 |
+| 119 | [0x3aCbD79643328D5F7D4F637e043d5ccd92D2C34d](https://debank.com/profile/0x3aCbD79643328D5F7D4F637e043d5ccd92D2C34d?chain=canto) | 72,129.944 | 0.02400% | 492 |
+| 120 | [0xe116d5F4CcD817e93a4827B4B1166fB3fA61BEC5](https://debank.com/profile/0xe116d5F4CcD817e93a4827B4B1166fB3fA61BEC5?chain=canto) | 72,125.149 | 0.02400% | 551 |
+| 121 | [0xd7F1BfBfA430FFEE78511E37772cAdaFF63A9A23](https://debank.com/profile/0xd7F1BfBfA430FFEE78511E37772cAdaFF63A9A23?chain=canto) | 71,515.708 | 0.02380% | 214, 498 |
+| 122 | [0xD360EcB91406717Ad13C4fae757b69B417E2Af6b](https://debank.com/profile/0xD360EcB91406717Ad13C4fae757b69B417E2Af6b?chain=canto) | 69,644.773 | 0.02317% | 899, 957 |
+| 123 | [0x95B0cB330519DB2bCaf74B90C1BDe3D62f673718](https://debank.com/profile/0x95B0cB330519DB2bCaf74B90C1BDe3D62f673718?chain=canto) | 64,757.868 | 0.02155% | 1143 |
+| 124 | [0xEa444DA256b7FA70A44998eB929EA87a67646441](https://debank.com/profile/0xEa444DA256b7FA70A44998eB929EA87a67646441?chain=canto) | 63,940.645 | 0.02128% | 336 |
+| 125 | [0x1e1a93F781a41d546CD4aDf29740c9d2b76EE59b](https://debank.com/profile/0x1e1a93F781a41d546CD4aDf29740c9d2b76EE59b?chain=canto) | 63,731.807 | 0.02121% | 1164 |
+| 126 | [0x4fD91caE8695F1765B28C11876984065894B7b08](https://debank.com/profile/0x4fD91caE8695F1765B28C11876984065894B7b08?chain=canto) | 60,107.587 | 0.02000% | 784, 799 |
+| 127 | [0x1c46564c7476f3F846abcf73e0a885E445ca85e8](https://debank.com/profile/0x1c46564c7476f3F846abcf73e0a885E445ca85e8?chain=canto) | 59,165.598 | 0.01969% | 1100 |
+| 128 | [0x540A6992368aA24dd6baD1DB8BF4982e6183Caf3](https://debank.com/profile/0x540A6992368aA24dd6baD1DB8BF4982e6183Caf3?chain=canto) | 56,466.127 | 0.01879% | 128, 438 |
+| 129 | [0xC797714De7d5D2A0FD328a64b30e1B9f4472731F](https://debank.com/profile/0xC797714De7d5D2A0FD328a64b30e1B9f4472731F?chain=canto) | 56,390.915 | 0.01876% | 771, 775, 881 |
+| 130 | [0x60d311976953E420316010D3FB454af4BC4e4597](https://debank.com/profile/0x60d311976953E420316010D3FB454af4BC4e4597?chain=canto) | 54,215.726 | 0.01804% | 557 |
+| 131 | [0x2401E97E9a1C2582738a29ed30f31C4B0F0c76d6](https://debank.com/profile/0x2401E97E9a1C2582738a29ed30f31C4B0F0c76d6?chain=canto) | 53,789.883 | 0.01790% | 319, 759, 760 |
+| 132 | [0x6a018Ad51DE844243ce7FB743c3E5F4481DF6858](https://debank.com/profile/0x6a018Ad51DE844243ce7FB743c3E5F4481DF6858?chain=canto) | 51,776.592 | 0.01723% | 788 |
+| 133 | [0xc27FD9D5113dE19EA89D0265Be9FD93F35f052c8](https://debank.com/profile/0xc27FD9D5113dE19EA89D0265Be9FD93F35f052c8?chain=canto) | 49,816.264 | 0.01658% | 181, 554 |
+| 134 | [0x135Cc51c0b07a8f70256e8DF398e6B916b402444](https://debank.com/profile/0x135Cc51c0b07a8f70256e8DF398e6B916b402444?chain=canto) | 49,302.595 | 0.01640% | 168, 444 |
+| 135 | [0xAA1742ab92c694934b97Ab9F557E565Bd2217BFf](https://debank.com/profile/0xAA1742ab92c694934b97Ab9F557E565Bd2217BFf?chain=canto) | 49,046.194 | 0.01632% | 219, 673 |
+| 136 | [0xbEE2D469AACB46251aE33Cca91F482e26c971dFF](https://debank.com/profile/0xbEE2D469AACB46251aE33Cca91F482e26c971dFF?chain=canto) | 48,017.883 | 0.01598% | 756 |
+| 137 | [0x13108aB5c6eB7efDcD7Ba6F8cc55d265eAE6176F](https://debank.com/profile/0x13108aB5c6eB7efDcD7Ba6F8cc55d265eAE6176F?chain=canto) | 47,717.601 | 0.01588% | 1052 |
+| 138 | [0xD086EEcB20cF564d5868755E58FD55a1dB9B6D12](https://debank.com/profile/0xD086EEcB20cF564d5868755E58FD55a1dB9B6D12?chain=canto) | 46,689.183 | 0.01554% | 380, 533 |
+| 139 | [0x2F04ed87b5Ac8b703565469311341b0b44e315d7](https://debank.com/profile/0x2F04ed87b5Ac8b703565469311341b0b44e315d7?chain=canto) | 46,675.085 | 0.01553% | 1000 |
+| 140 | [0x56F662AADe12e5aB99C4dcb037d1274d0d5dcb94](https://debank.com/profile/0x56F662AADe12e5aB99C4dcb037d1274d0d5dcb94?chain=canto) | 46,242.45 | 0.01539% | 148, 467 |
+| 141 | [0x25217b4A6138350350A2ce1f97A6B0111bbFdB56](https://debank.com/profile/0x25217b4A6138350350A2ce1f97A6B0111bbFdB56?chain=canto) | 45,477.355 | 0.01513% | 164, 473, 786 |
+| 142 | [0xf6eD81D5E9F61dd1eA21E96Ae1D660ECc388AE4F](https://debank.com/profile/0xf6eD81D5E9F61dd1eA21E96Ae1D660ECc388AE4F?chain=canto) | 44,581.337 | 0.01483% | 774 |
+| 143 | [0xC9ef36e1A1EAA2a832fC344dCf058b2f0f6ac51A](https://debank.com/profile/0xC9ef36e1A1EAA2a832fC344dCf058b2f0f6ac51A?chain=canto) | 43,268.879 | 0.01440% | 928, 1165 |
+| 144 | [0x8656c4f48135DfbAD14CFaa894e1490aEf1cEA3e](https://debank.com/profile/0x8656c4f48135DfbAD14CFaa894e1490aEf1cEA3e?chain=canto) | 42,663.033 | 0.01420% | 567 |
+| 145 | [0xDc43D0c0497FBf3BB3cf43dcAFaCe9c116d5dd21](https://debank.com/profile/0xDc43D0c0497FBf3BB3cf43dcAFaCe9c116d5dd21?chain=canto) | 40,911.01 | 0.01361% | 140, 403 |
+| 146 | [0x9F533Eec49dc2DBbf495F1cD687c2536d424bE07](https://debank.com/profile/0x9F533Eec49dc2DBbf495F1cD687c2536d424bE07?chain=canto) | 39,080.402 | 0.01300% | 1062 |
+| 147 | [0xEfce38f31Ebeb9637E85D3487595261FDf6ebeEb](https://debank.com/profile/0xEfce38f31Ebeb9637E85D3487595261FDf6ebeEb?chain=canto) | 38,168.922 | 0.01270% | 199 |
+| 148 | [0xbA00D84Ddbc8cAe67C5800a52496E47A8CaFcd27](https://debank.com/profile/0xbA00D84Ddbc8cAe67C5800a52496E47A8CaFcd27?chain=canto) | 38,044.459 | 0.01266% | 242, 246 |
+| 149 | [0x986052DDa7f0A5BC0bB209E22F5CDa370101cB0c](https://debank.com/profile/0x986052DDa7f0A5BC0bB209E22F5CDa370101cB0c?chain=canto) | 37,977.743 | 0.01264% | 598 |
+| 150 | [0xb0FabE3bCAC50F065DBF68C0B271118DDC005402](https://debank.com/profile/0xb0FabE3bCAC50F065DBF68C0B271118DDC005402?chain=canto) | 36,537.895 | 0.01216% | 144 |
+| 151 | [0x47b023DB19b34519Aa34C39134b508CAc2C1efcB](https://debank.com/profile/0x47b023DB19b34519Aa34C39134b508CAc2C1efcB?chain=canto) | 36,428.815 | 0.01212% | 669 |
+| 152 | [0xd0441C0B63f6c97D56e9490B3fdd1c45F89D3678](https://debank.com/profile/0xd0441C0B63f6c97D56e9490B3fdd1c45F89D3678?chain=canto) | 35,797.229 | 0.01191% | 240, 441 |
+| 153 | [0x88dAfd252a47b91CBbf1a43F7AAE449076c06328](https://debank.com/profile/0x88dAfd252a47b91CBbf1a43F7AAE449076c06328?chain=canto) | 35,276.597 | 0.01174% | 1148, 1150 |
+| 154 | [0x7cAEa457224C345d1518a23FBd07ebDBdD21170C](https://debank.com/profile/0x7cAEa457224C345d1518a23FBd07ebDBdD21170C?chain=canto) | 33,942.667 | 0.01129% | 1008 |
+| 155 | [0x08f20Ef5cbdC1E719B8EC333B71Cf2E0Ec46c29A](https://debank.com/profile/0x08f20Ef5cbdC1E719B8EC333B71Cf2E0Ec46c29A?chain=canto) | 33,809.445 | 0.01125% | 574 |
+| 156 | [0xB3F039c970bcCF6Bc8b7e2f0C56c517287274531](https://debank.com/profile/0xB3F039c970bcCF6Bc8b7e2f0C56c517287274531?chain=canto) | 32,824.018 | 0.01092% | 617 |
+| 157 | [0x024fa93943E8680A263065A9998a362dd8b219bE](https://debank.com/profile/0x024fa93943E8680A263065A9998a362dd8b219bE?chain=canto) | 32,689.612 | 0.01088% | 674 |
+| 158 | [0x08d2c744Fd60F2dca8C1885D3AA03Ff6D3fA5d11](https://debank.com/profile/0x08d2c744Fd60F2dca8C1885D3AA03Ff6D3fA5d11?chain=canto) | 32,663.305 | 0.01087% | 320 |
+| 159 | [0xFD478A4acF62becE76F834Eb2FF4e0926Aba39Ef](https://debank.com/profile/0xFD478A4acF62becE76F834Eb2FF4e0926Aba39Ef?chain=canto) | 32,002.905 | 0.01065% | 830 |
+| 160 | [0x6c7286c5AB525ccD92c134c0dCDfDdfcA018B048](https://debank.com/profile/0x6c7286c5AB525ccD92c134c0dCDfDdfcA018B048?chain=canto) | 31,362.328 | 0.01044% | 113 |
+| 161 | [0x7E3b6f966f3666F77813db84DD352173749D24d8](https://debank.com/profile/0x7E3b6f966f3666F77813db84DD352173749D24d8?chain=canto) | 31,344.268 | 0.01043% | 121 |
+| 162 | [0x037B21279931E628b11b4507b9F7870B15dE1C17](https://debank.com/profile/0x037B21279931E628b11b4507b9F7870B15dE1C17?chain=canto) | 30,662.116 | 0.01020% | 122 |
+| 163 | [0x6A431fdEe149Ee5cD1925B0A6F30bc3e45481083](https://debank.com/profile/0x6A431fdEe149Ee5cD1925B0A6F30bc3e45481083?chain=canto) | 30,550.899 | 0.01017% | 841 |
+| 164 | [0x28aa4F9ffe21365473B64C161b566C3CdeAD0108](https://debank.com/profile/0x28aa4F9ffe21365473B64C161b566C3CdeAD0108?chain=canto) | 29,472.973 | 0.00981% | 452 |
+| 165 | [0xc06830694A5C22278CE214cBa0dF198486A68D91](https://debank.com/profile/0xc06830694A5C22278CE214cBa0dF198486A68D91?chain=canto) | 28,938.609 | 0.00963% | 740 |
+| 166 | [0xB0720A40d6335dF0aC90fF9e4b755217632Ca78C](https://debank.com/profile/0xB0720A40d6335dF0aC90fF9e4b755217632Ca78C?chain=canto) | 28,374.421 | 0.00944% | 166, 894, 952 |
+| 167 | [0x3822bBBd588fE86964c7751d6c6a6Bd010927307](https://debank.com/profile/0x3822bBBd588fE86964c7751d6c6a6Bd010927307?chain=canto) | 28,272.867 | 0.00941% | 613 |
+| 168 | [0x92Ef2f096558149C49fa2553C4Dff3C7CC2763a6](https://debank.com/profile/0x92Ef2f096558149C49fa2553C4Dff3C7CC2763a6?chain=canto) | 27,084.079 | 0.00901% | 895, 953 |
+| 169 | [0x3f9E0e7E11AB5E3cc0b9c01752Fc13a033DDD4e0](https://debank.com/profile/0x3f9E0e7E11AB5E3cc0b9c01752Fc13a033DDD4e0?chain=canto) | 26,588.391 | 0.00885% | 420 |
+| 170 | [0x9387F71F3928ebe9cE8B3D8cF37a8FB52739aE7d](https://debank.com/profile/0x9387F71F3928ebe9cE8B3D8cF37a8FB52739aE7d?chain=canto) | 26,051.5 | 0.00867% | 940, 1032, 1075 |
+| 171 | [0x08d04CA4A84eab20b43BD74671Db8e46B745488B](https://debank.com/profile/0x08d04CA4A84eab20b43BD74671Db8e46B745488B?chain=canto) | 25,096.248 | 0.00835% | 301 |
+| 172 | [0xDF4c3F9106a28983AeDC9BB70d27259982021335](https://debank.com/profile/0xDF4c3F9106a28983AeDC9BB70d27259982021335?chain=canto) | 25,051.318 | 0.00834% | 927 |
+| 173 | [0x69cD1C2E13113C09a22Ff98cBd2dB3f682f716B4](https://debank.com/profile/0x69cD1C2E13113C09a22Ff98cBd2dB3f682f716B4?chain=canto) | 24,213.164 | 0.00806% | 549 |
+| 174 | [0x020D44CcBCfA264F8e5aADf65FC22641A460a793](https://debank.com/profile/0x020D44CcBCfA264F8e5aADf65FC22641A460a793?chain=canto) | 24,054.989 | 0.00800% | 579 |
+| 175 | [0xc77D249809ae5A118eEf66227d1A01A3D62c82d4](https://debank.com/profile/0xc77D249809ae5A118eEf66227d1A01A3D62c82d4?chain=canto) | 24,050.795 | 0.00800% | 510 |
+| 176 | [0xd50FC1e69E030A27335ea9b25e1Fb183dc20641b](https://debank.com/profile/0xd50FC1e69E030A27335ea9b25e1Fb183dc20641b?chain=canto) | 23,162.301 | 0.00771% | 569 |
+| 177 | [0xA7ff0bC6F74fc6C49ccbA87F3df51b1adf98543D](https://debank.com/profile/0xA7ff0bC6F74fc6C49ccbA87F3df51b1adf98543D?chain=canto) | 22,422.867 | 0.00746% | 805 |
+| 178 | [0x601fBA2000a86809342952673f4ea7EF1c703c44](https://debank.com/profile/0x601fBA2000a86809342952673f4ea7EF1c703c44?chain=canto) | 22,094.335 | 0.00735% | 398 |
+| 179 | [0xf44Ef0256Be6cdC85Af4c5242d3F760C837be179](https://debank.com/profile/0xf44Ef0256Be6cdC85Af4c5242d3F760C837be179?chain=canto) | 21,324.407 | 0.00710% | 648, 731 |
+| 180 | [0x939a7EF73572e9218C7085ACa6d894bc237f15E3](https://debank.com/profile/0x939a7EF73572e9218C7085ACa6d894bc237f15E3?chain=canto) | 20,866.826 | 0.00694% | 1145 |
+| 181 | [0x7e53AF93688908D67fc3ddcE3f4B033dBc257C20](https://debank.com/profile/0x7e53AF93688908D67fc3ddcE3f4B033dBc257C20?chain=canto) | 20,677.316 | 0.00688% | 804 |
+| 182 | [0x750872Cb963321506FDF4F037240E821Ac39CbFD](https://debank.com/profile/0x750872Cb963321506FDF4F037240E821Ac39CbFD?chain=canto) | 20,573.524 | 0.00685% | 371, 607 |
+| 183 | [0xE43fA6CBb7DdA0bD863593c5E75fAe9B4dCD5CD4](https://debank.com/profile/0xE43fA6CBb7DdA0bD863593c5E75fAe9B4dCD5CD4?chain=canto) | 20,170.746 | 0.00671% | 1158 |
+| 184 | [0x8cb8c8C50C0a6D3295a4d2955Cb10e69E636bC80](https://debank.com/profile/0x8cb8c8C50C0a6D3295a4d2955Cb10e69E636bC80?chain=canto) | 19,576.698 | 0.00651% | 780 |
+| 185 | [0xe6cF807E4B2A640DfE03ff06FA6Ab32C334c7dF4](https://debank.com/profile/0xe6cF807E4B2A640DfE03ff06FA6Ab32C334c7dF4?chain=canto) | 18,818.373 | 0.00626% | 367 |
+| 186 | [0x5952024Bd375435d21c2Fd46CDB2aB0990bFd79B](https://debank.com/profile/0x5952024Bd375435d21c2Fd46CDB2aB0990bFd79B?chain=canto) | 17,746.743 | 0.00591% | 501 |
+| 187 | [0x56E30aF541D4d54b96770Ecc1a9113F02FEe3bf1](https://debank.com/profile/0x56E30aF541D4d54b96770Ecc1a9113F02FEe3bf1?chain=canto) | 17,709.304 | 0.00589% | 212 |
+| 188 | [0xBdFC087A5C32F6B6E425697c1A19a10E378136eE](https://debank.com/profile/0xBdFC087A5C32F6B6E425697c1A19a10E378136eE?chain=canto) | 17,359.815 | 0.00578% | 1162 |
+| 189 | [0x89fC87d755e25a935846335d370A348f42d305cE](https://debank.com/profile/0x89fC87d755e25a935846335d370A348f42d305cE?chain=canto) | 16,962.259 | 0.00564% | 1128 |
+| 190 | [0x7798Ba9512B5A684C12e31518923Ea4221A41Fb9](https://debank.com/profile/0x7798Ba9512B5A684C12e31518923Ea4221A41Fb9?chain=canto) | 16,687.303 | 0.00555% | 223 |
+| 191 | [0xd319f112bf73eAe5e3cf06bF8D4076cC5f8B1cD5](https://debank.com/profile/0xd319f112bf73eAe5e3cf06bF8D4076cC5f8B1cD5?chain=canto) | 15,892.947 | 0.00529% | 845 |
+| 192 | [0x7BEA66aD48C584098a67b001c83853526e7e9Ab2](https://debank.com/profile/0x7BEA66aD48C584098a67b001c83853526e7e9Ab2?chain=canto) | 15,155.987 | 0.00504% | 543 |
+| 193 | [0x5C461A0C595d6B2a4b0f4a42fD55bE7aAeD8aF80](https://debank.com/profile/0x5C461A0C595d6B2a4b0f4a42fD55bE7aAeD8aF80?chain=canto) | 14,018.281 | 0.00466% | 614 |
+| 194 | [0xa369B026E088538590b8694f228cD20d9BC35B00](https://debank.com/profile/0xa369B026E088538590b8694f228cD20d9BC35B00?chain=canto) | 13,815.477 | 0.00460% | 470 |
+| 195 | [0x296E0C21DB4061EbF971e55d5db85011E7Ff9797](https://debank.com/profile/0x296E0C21DB4061EbF971e55d5db85011E7Ff9797?chain=canto) | 13,488.317 | 0.00449% | 575 |
+| 196 | [0xdDb3e886D78F180A0B435741901cE091cdd0a848](https://debank.com/profile/0xdDb3e886D78F180A0B435741901cE091cdd0a848?chain=canto) | 13,411.865 | 0.00446% | 344, 1020 |
+| 197 | [0xE524D29daf6D7CDEaaaF07Fa1aa7732a45f330B3](https://debank.com/profile/0xE524D29daf6D7CDEaaaF07Fa1aa7732a45f330B3?chain=canto) | 13,411.48 | 0.00446% | 220, 560 |
+| 198 | [0x6f5a8A35fb10EEcEF9128f407a0fe67B898556CF](https://debank.com/profile/0x6f5a8A35fb10EEcEF9128f407a0fe67B898556CF?chain=canto) | 13,333.921 | 0.00444% | 154, 639 |
+| 199 | [0xAf79312EB821871208ac76A80c8E282f8796964e](https://debank.com/profile/0xAf79312EB821871208ac76A80c8E282f8796964e?chain=canto) | 13,138.317 | 0.00437% | 141 |
+| 200 | [0x73b085ed81Cb4f15b16E47D56e4d04091FaB0af0](https://debank.com/profile/0x73b085ed81Cb4f15b16E47D56e4d04091FaB0af0?chain=canto) | 13,035.263 | 0.00434% | 778, 779 |
+| 201 | [0x19B3475C5B546EAc3674742e75C790868F86EadA](https://debank.com/profile/0x19B3475C5B546EAc3674742e75C790868F86EadA?chain=canto) | 12,367 | 0.00411% | 736 |
+| 202 | [0x60A2C9a2D73ecAfc07Af7F234742f1FC1D1758c6](https://debank.com/profile/0x60A2C9a2D73ecAfc07Af7F234742f1FC1D1758c6?chain=canto) | 12,198.155 | 0.00406% | 459 |
+| 203 | [0x1BD1AA4DdF40e87CE385Eb837FADDb028Fc1Ec23](https://debank.com/profile/0x1BD1AA4DdF40e87CE385Eb837FADDb028Fc1Ec23?chain=canto) | 11,627.991 | 0.00387% | 486 |
+| 204 | [0xb912A1d094FDDbf4Fb2297a15E033c7E351Af088](https://debank.com/profile/0xb912A1d094FDDbf4Fb2297a15E033c7E351Af088?chain=canto) | 11,160.161 | 0.00371% | 936 |
+| 205 | [0xa6534515D03d6549793a4a0b67cC74553f24adfE](https://debank.com/profile/0xa6534515D03d6549793a4a0b67cC74553f24adfE?chain=canto) | 10,930.242 | 0.00364% | 1134 |
+| 206 | [0x861107Cb9b5767792a25677e09945882c564F6C2](https://debank.com/profile/0x861107Cb9b5767792a25677e09945882c564F6C2?chain=canto) | 10,833.571 | 0.00360% | 421 |
+| 207 | [0x53eB9A6f34e1FeAD9Cf1013c7058679bcA6Acc43](https://debank.com/profile/0x53eB9A6f34e1FeAD9Cf1013c7058679bcA6Acc43?chain=canto) | 10,738.079 | 0.00357% | 886 |
+| 208 | [0xb72B159AFFB75Cb092EFe7AF8F178566EFDD225c](https://debank.com/profile/0xb72B159AFFB75Cb092EFe7AF8F178566EFDD225c?chain=canto) | 10,732.571 | 0.00357% | 361, 516, 890, 948 |
+| 209 | [0x78864CE3E53A439ae0A8e15622aA0d21675ad4Cd](https://debank.com/profile/0x78864CE3E53A439ae0A8e15622aA0d21675ad4Cd?chain=canto) | 10,679.745 | 0.00355% | 291, 696 |
+| 210 | [0x02706C602c59F86Cc2EbD9aE662a25987A7C7986](https://debank.com/profile/0x02706C602c59F86Cc2EbD9aE662a25987A7C7986?chain=canto) | 10,673.546 | 0.00355% | 133 |
+| 211 | [0x9808CF542dC77cB111B9D5ce51f530b032714Df8](https://debank.com/profile/0x9808CF542dC77cB111B9D5ce51f530b032714Df8?chain=canto) | 10,567.24 | 0.00352% | 610 |
+| 212 | [0x7267A0bb3420FeDB593841846Da6E3a96853E75f](https://debank.com/profile/0x7267A0bb3420FeDB593841846Da6E3a96853E75f?chain=canto) | 10,398.645 | 0.00346% | 1051 |
+| 213 | [0x3194E37C9cfeF2064429CF62bc674C391BEB2BEE](https://debank.com/profile/0x3194E37C9cfeF2064429CF62bc674C391BEB2BEE?chain=canto) | 10,266.585 | 0.00342% | 572 |
+| 214 | [0xF0B17856471CA6b926FFbeC9ffAA81d5dC152AD1](https://debank.com/profile/0xF0B17856471CA6b926FFbeC9ffAA81d5dC152AD1?chain=canto) | 10,216.578 | 0.00340% | 490 |
+| 215 | [0x48BA9066bF91496aE48Ca95ed5DA2739DE870954](https://debank.com/profile/0x48BA9066bF91496aE48Ca95ed5DA2739DE870954?chain=canto) | 10,168.167 | 0.00338% | 797 |
+| 216 | [0xE075e8541e9c32C080eda53aE8D66B50bc3ED05C](https://debank.com/profile/0xE075e8541e9c32C080eda53aE8D66B50bc3ED05C?chain=canto) | 10,111.305 | 0.00336% | 1024 |
+| 217 | [0x657A38e6994CB578351376dCDb077330D00665d6](https://debank.com/profile/0x657A38e6994CB578351376dCDb077330D00665d6?chain=canto) | 10,091.311 | 0.00336% | 418 |
+| 218 | [0x1CF274a674A29fFe2425c1111b64B4d181744CE2](https://debank.com/profile/0x1CF274a674A29fFe2425c1111b64B4d181744CE2?chain=canto) | 10,059.665 | 0.00335% | 1019 |
+| 219 | [0x842Ca6aE3F6553b1447f4B57900a2D8219E12a9E](https://debank.com/profile/0x842Ca6aE3F6553b1447f4B57900a2D8219E12a9E?chain=canto) | 10,054.672 | 0.00335% | 989 |
+| 220 | [0xdAb48Ff04BA44C51AEEdBa2A68A746866040a38D](https://debank.com/profile/0xdAb48Ff04BA44C51AEEdBa2A68A746866040a38D?chain=canto) | 10,045.584 | 0.00334% | 1017 |
+| 221 | [0xADAbDe71D13b032D7927e17b05A51ff1b9C1C131](https://debank.com/profile/0xADAbDe71D13b032D7927e17b05A51ff1b9C1C131?chain=canto) | 10,040.127 | 0.00334% | 997 |
+| 222 | [0x2C491E8BD8c4e915F41F88Bbfa3846d1C57295cF](https://debank.com/profile/0x2C491E8BD8c4e915F41F88Bbfa3846d1C57295cF?chain=canto) | 10,018.446 | 0.00333% | 556 |
+| 223 | [0x25549275914d44dFC4aBABE024e0bAB8882EF2FE](https://debank.com/profile/0x25549275914d44dFC4aBABE024e0bAB8882EF2FE?chain=canto) | 10,015.884 | 0.00333% | 990 |
+| 224 | [0x5eeB877A4D8Ae876da4C8F6c87B75A1e44efd6C4](https://debank.com/profile/0x5eeB877A4D8Ae876da4C8F6c87B75A1e44efd6C4?chain=canto) | 10,014.914 | 0.00333% | 659, 977 |
+| 225 | [0x5289b10ac29553A1C566f57ebC14aB4a5B7FfF67](https://debank.com/profile/0x5289b10ac29553A1C566f57ebC14aB4a5B7FfF67?chain=canto) | 10,013.945 | 0.00333% | 984 |
+| 226 | [0x58D60CDBEDBfAf998604b551e70A0B9f11E077A3](https://debank.com/profile/0x58D60CDBEDBfAf998604b551e70A0B9f11E077A3?chain=canto) | 10,010.849 | 0.00333% | 938 |
+| 227 | [0x09F47Dee46C9732a263C77B0EC10b34F7e76c544](https://debank.com/profile/0x09F47Dee46C9732a263C77B0EC10b34F7e76c544?chain=canto) | 10,010.849 | 0.00333% | 939 |
+| 228 | [0x1A91520bf0f165E77C16d00e46E649aDfCF5dd00](https://debank.com/profile/0x1A91520bf0f165E77C16d00e46E649aDfCF5dd00?chain=canto) | 10,008.127 | 0.00333% | 979 |
+| 229 | [0x8DCdA9E4FBAe5f2aD96B571eAD92F55cae673BC0](https://debank.com/profile/0x8DCdA9E4FBAe5f2aD96B571eAD92F55cae673BC0?chain=canto) | 10,000.66 | 0.00333% | 994 |
+| 230 | [0xd9550F0caCa4bA0493cf08ABE9fdE72EF0Ec7EA7](https://debank.com/profile/0xd9550F0caCa4bA0493cf08ABE9fdE72EF0Ec7EA7?chain=canto) | 9,975.158 | 0.00332% | 982 |
+| 231 | [0xE296D1b947D29180c8ffE1eb6BED17f1aD076a43](https://debank.com/profile/0xE296D1b947D29180c8ffE1eb6BED17f1aD076a43?chain=canto) | 9,967.738 | 0.00332% | 937 |
+| 232 | [0x54bb95e1e5F4f5748388399d6CF93B6cf4Fb2FB1](https://debank.com/profile/0x54bb95e1e5F4f5748388399d6CF93B6cf4Fb2FB1?chain=canto) | 9,953.825 | 0.00331% | 991 |
+| 233 | [0x8B0ce49a2B92125A5fc9DA1610e82673ABE20710](https://debank.com/profile/0x8B0ce49a2B92125A5fc9DA1610e82673ABE20710?chain=canto) | 9,949.946 | 0.00331% | 998 |
+| 234 | [0x81A45e133cc36be6e6fF010c83AfF01A18797821](https://debank.com/profile/0x81A45e133cc36be6e6fF010c83AfF01A18797821?chain=canto) | 9,941.219 | 0.00331% | 985 |
+| 235 | [0x57D06A431913B6796278B3f8CFC7b4261C22DaEd](https://debank.com/profile/0x57D06A431913B6796278B3f8CFC7b4261C22DaEd?chain=canto) | 9,940.346 | 0.00331% | 993 |
+| 236 | [0x654329D4984235D8cC7dB1A7705f0ad46F5B6183](https://debank.com/profile/0x654329D4984235D8cC7dB1A7705f0ad46F5B6183?chain=canto) | 9,927.643 | 0.00330% | 987 |
+| 237 | [0x094a3b042ca44fc937De7dDB7Ada6196D5fBaCC1](https://debank.com/profile/0x094a3b042ca44fc937De7dDB7Ada6196D5fBaCC1?chain=canto) | 9,919.886 | 0.00330% | 996 |
+| 238 | [0x23da03dB8C158681155d1820E8D44F089d890EE6](https://debank.com/profile/0x23da03dB8C158681155d1820E8D44F089d890EE6?chain=canto) | 9,915.037 | 0.00330% | 986 |
+| 239 | [0x0439E0f49230D8dB4F4134Ce402cC332872B1f0A](https://debank.com/profile/0x0439E0f49230D8dB4F4134Ce402cC332872B1f0A?chain=canto) | 9,902.431 | 0.00329% | 992 |
+| 240 | [0x8338234A8046F6B845D0C924831E71E6d631c007](https://debank.com/profile/0x8338234A8046F6B845D0C924831E71E6d631c007?chain=canto) | 9,901.461 | 0.00329% | 995 |
+| 241 | [0x2187119E30603d27B59C8FdA7aC1a695A669203C](https://debank.com/profile/0x2187119E30603d27B59C8FdA7aC1a695A669203C?chain=canto) | 9,896.271 | 0.00329% | 851 |
+| 242 | [0x410C7bB260CAf1D95D0337D8DDB053dF38169d7b](https://debank.com/profile/0x410C7bB260CAf1D95D0337D8DDB053dF38169d7b?chain=canto) | 9,888.856 | 0.00329% | 980 |
+| 243 | [0xF62bdAFc4cB3808346c5854c0Fd129F2a22c02E0](https://debank.com/profile/0xF62bdAFc4cB3808346c5854c0Fd129F2a22c02E0?chain=canto) | 9,875.454 | 0.00329% | 1031 |
+| 244 | [0x48b927e8dC6fc74f27E99EF439BFd2765B5e7522](https://debank.com/profile/0x48b927e8dC6fc74f27E99EF439BFd2765B5e7522?chain=canto) | 9,866.252 | 0.00328% | 1022 |
+| 245 | [0x4590f9C449a352dFc67cbeB3EfbfBfA933DFEaC4](https://debank.com/profile/0x4590f9C449a352dFc67cbeB3EfbfBfA933DFEaC4?chain=canto) | 9,860.224 | 0.00328% | 1023 |
+| 246 | [0xF742d8f686b1e372AaDAe30f55a09d77320b3635](https://debank.com/profile/0xF742d8f686b1e372AaDAe30f55a09d77320b3635?chain=canto) | 9,851.072 | 0.00328% | 1025 |
+| 247 | [0x7FCb730D4700D96d9BA215d9fE38EF9fADC50b20](https://debank.com/profile/0x7FCb730D4700D96d9BA215d9fE38EF9fADC50b20?chain=canto) | 9,846.189 | 0.00328% | 988 |
+| 248 | [0x2f7e6F35d42c2a8Fece9f3D8405Af2B3D981AA68](https://debank.com/profile/0x2f7e6F35d42c2a8Fece9f3D8405Af2B3D981AA68?chain=canto) | 9,843.28 | 0.00328% | 978 |
+| 249 | [0x66d8EBB9DFe2bE86Bcf0F07cde6763d01Bc59eB2](https://debank.com/profile/0x66d8EBB9DFe2bE86Bcf0F07cde6763d01Bc59eB2?chain=canto) | 9,826.117 | 0.00327% | 983 |
+| 250 | [0xD00fCd747059D19d759c16A70e068cAc4f065906](https://debank.com/profile/0xD00fCd747059D19d759c16A70e068cAc4f065906?chain=canto) | 9,752.654 | 0.00325% | 934 |
+| 251 | [0x54085FB28CF3a61f4ACa20B38d8D33d67DD18628](https://debank.com/profile/0x54085FB28CF3a61f4ACa20B38d8D33d67DD18628?chain=canto) | 9,747.215 | 0.00324% | 509, 776 |
+| 252 | [0x2885c1C1367D578D117280F0DA5c94197CE896A6](https://debank.com/profile/0x2885c1C1367D578D117280F0DA5c94197CE896A6?chain=canto) | 9,743.865 | 0.00324% | 1012 |
+| 253 | [0xc8f1a5D0f1a411B2F65B498d3A20517e72201b5F](https://debank.com/profile/0xc8f1a5D0f1a411B2F65B498d3A20517e72201b5F?chain=canto) | 9,736.615 | 0.00324% | 1009, 1011 |
+| 254 | [0xfd2Ad2748195dd023cAa7936f9a584fb5C283644](https://debank.com/profile/0xfd2Ad2748195dd023cAa7936f9a584fb5C283644?chain=canto) | 9,735.645 | 0.00324% | 1010 |
+| 255 | [0x8c61b2d74FD596024C8712e637e8F259da447faA](https://debank.com/profile/0x8c61b2d74FD596024C8712e637e8F259da447faA?chain=canto) | 9,135.204 | 0.00304% | 409 |
+| 256 | [0xd8b87A01980eB792e3BC030bDEc42Db2b9B5CBfc](https://debank.com/profile/0xd8b87A01980eB792e3BC030bDEc42Db2b9B5CBfc?chain=canto) | 9,125.853 | 0.00304% | 163, 542 |
+| 257 | [0xb211001c6A1fd81C100b3E18619c9c2cdf65Aabb](https://debank.com/profile/0xb211001c6A1fd81C100b3E18619c9c2cdf65Aabb?chain=canto) | 8,969.601 | 0.00298% | 663 |
+| 258 | [0x9CE6E6B60C894d1DF9BC3D9D6cC969b79FB176B7](https://debank.com/profile/0x9CE6E6B60C894d1DF9BC3D9D6cC969b79FB176B7?chain=canto) | 8,762.824 | 0.00292% | 715 |
+| 259 | [0x2000B2AFF2120EC721C976Be0D24335c9fdFb66c](https://debank.com/profile/0x2000B2AFF2120EC721C976Be0D24335c9fdFb66c?chain=canto) | 8,753.094 | 0.00291% | 733 |
+| 260 | [0x17114903eB90909D3058dAE24D583E5970030FFb](https://debank.com/profile/0x17114903eB90909D3058dAE24D583E5970030FFb?chain=canto) | 8,722.017 | 0.00290% | 172, 173 |
+| 261 | [0x58c0A7399C90839570C2b9f0bbCe37da6d976EAc](https://debank.com/profile/0x58c0A7399C90839570C2b9f0bbCe37da6d976EAc?chain=canto) | 8,580.556 | 0.00286% | 840 |
+| 262 | [0xBFfadE145d1238a3aDa4b06936C07B01C0931ca9](https://debank.com/profile/0xBFfadE145d1238a3aDa4b06936C07B01C0931ca9?chain=canto) | 8,339.256 | 0.00277% | 935, 1048, 1049 |
+| 263 | [0x73baDE8162E0Fa995a2f7037DEba9D094DEC535f](https://debank.com/profile/0x73baDE8162E0Fa995a2f7037DEba9D094DEC535f?chain=canto) | 8,282.675 | 0.00276% | 913 |
+| 264 | [0x706211eBDb7753bD3DcC767b9929CfD44c2eC7C1](https://debank.com/profile/0x706211eBDb7753bD3DcC767b9929CfD44c2eC7C1?chain=canto) | 8,276.084 | 0.00275% | 1003 |
+| 265 | [0x80b0DcCa24d9f31B3b8fb661442Fe38C40a62261](https://debank.com/profile/0x80b0DcCa24d9f31B3b8fb661442Fe38C40a62261?chain=canto) | 8,262.797 | 0.00275% | 628 |
+| 266 | [0x1890426e1FeEC62512d8C62440f1eB4E6f96C531](https://debank.com/profile/0x1890426e1FeEC62512d8C62440f1eB4E6f96C531?chain=canto) | 8,201.423 | 0.00273% | 695 |
+| 267 | [0x0ffFb5Def552fD8F95327eF971a31EC3898e2b2b](https://debank.com/profile/0x0ffFb5Def552fD8F95327eF971a31EC3898e2b2b?chain=canto) | 8,188.512 | 0.00272% | 1043 |
+| 268 | [0xcF90242288344Df55B22bbC1adDfE0A31Bce91b7](https://debank.com/profile/0xcF90242288344Df55B22bbC1adDfE0A31Bce91b7?chain=canto) | 8,176.749 | 0.00272% | 1046 |
+| 269 | [0x4CE69fd760AD0c07490178f9a47863Dc0358cCCD](https://debank.com/profile/0x4CE69fd760AD0c07490178f9a47863Dc0358cCCD?chain=canto) | 7,860.239 | 0.00262% | 232 |
+| 270 | [0xB3cF3A3f632aB8A37eD2D628A1fc6f4a43f1C677](https://debank.com/profile/0xB3cF3A3f632aB8A37eD2D628A1fc6f4a43f1C677?chain=canto) | 7,843.276 | 0.00261% | 582 |
+| 271 | [0x4Ca5Ef73617221C3E3f23efbB5b56CF81FF464f1](https://debank.com/profile/0x4Ca5Ef73617221C3E3f23efbB5b56CF81FF464f1?chain=canto) | 7,795.842 | 0.00259% | 1054 |
+| 272 | [0x5Be66f4095f89BD18aBE4aE9d2acD5021EC433Bc](https://debank.com/profile/0x5Be66f4095f89BD18aBE4aE9d2acD5021EC433Bc?chain=canto) | 7,732.299 | 0.00257% | 114 |
+| 273 | [0xFb1329FC9E6b07e684ceC845DA7F6F3aaDC8e7b4](https://debank.com/profile/0xFb1329FC9E6b07e684ceC845DA7F6F3aaDC8e7b4?chain=canto) | 7,717.127 | 0.00257% | 523, 766 |
+| 274 | [0xDE0187458364Eb836D5bF563721efD1ED14B9673](https://debank.com/profile/0xDE0187458364Eb836D5bF563721efD1ED14B9673?chain=canto) | 7,631.124 | 0.00254% | 188 |
+| 275 | [0x904BeccBDDE4436696f14d846008818495AA616c](https://debank.com/profile/0x904BeccBDDE4436696f14d846008818495AA616c?chain=canto) | 7,377.642 | 0.00245% | 410 |
+| 276 | [0x33498977491C9A5c5A9F0a0C978a75b734a2E2Ca](https://debank.com/profile/0x33498977491C9A5c5A9F0a0C978a75b734a2E2Ca?chain=canto) | 7,223.435 | 0.00240% | 424 |
+| 277 | [0xeA04965Fc2cA0F62e4ca2446AfB0c25cCc9335C4](https://debank.com/profile/0xeA04965Fc2cA0F62e4ca2446AfB0c25cCc9335C4?chain=canto) | 7,196.426 | 0.00239% | 587 |
+| 278 | [0x3e5b27c8Dc096EFD9408B52e994627f827F5A689](https://debank.com/profile/0x3e5b27c8Dc096EFD9408B52e994627f827F5A689?chain=canto) | 6,911.017 | 0.00230% | 456 |
+| 279 | [0x42F13d55A010701CE8e334BD2e439b2D4487B246](https://debank.com/profile/0x42F13d55A010701CE8e334BD2e439b2D4487B246?chain=canto) | 6,764.04 | 0.00225% | 711 |
+| 280 | [0xb1c6bCd66322E1d21aC1Bd71FFc6b570A1E67b80](https://debank.com/profile/0xb1c6bCd66322E1d21aC1Bd71FFc6b570A1E67b80?chain=canto) | 6,698.067 | 0.00223% | 511 |
+| 281 | [0x6fBfdba3BCBf9FA6ee165C72714ed814A0950a70](https://debank.com/profile/0x6fBfdba3BCBf9FA6ee165C72714ed814A0950a70?chain=canto) | 6,619.639 | 0.00220% | 427 |
+| 282 | [0x2e0692A3d9097931E9b7ba47035C8EA4A388f747](https://debank.com/profile/0x2e0692A3d9097931E9b7ba47035C8EA4A388f747?chain=canto) | 6,594.058 | 0.00219% | 159 |
+| 283 | [0xb98Ece8A010Daa74720281bF147bb1cE7209fcbc](https://debank.com/profile/0xb98Ece8A010Daa74720281bF147bb1cE7209fcbc?chain=canto) | 6,590.737 | 0.00219% | 1021 |
+| 284 | [0xe9335fabfB4536bE78D539D759a29e1AFE7455A6](https://debank.com/profile/0xe9335fabfB4536bE78D539D759a29e1AFE7455A6?chain=canto) | 6,338.503 | 0.00211% | 107, 425 |
+| 285 | [0x14989473630F117Dd5583B946B9B4733CD305e57](https://debank.com/profile/0x14989473630F117Dd5583B946B9B4733CD305e57?chain=canto) | 6,310.974 | 0.00210% | 153 |
+| 286 | [0x0eF539B6Feb1b63d72983EeA075Db83bF6554c70](https://debank.com/profile/0x0eF539B6Feb1b63d72983EeA075Db83bF6554c70?chain=canto) | 6,303.911 | 0.00210% | 588 |
+| 287 | [0xc558784EBE3A7f176FF0006Df49c4794055551cd](https://debank.com/profile/0xc558784EBE3A7f176FF0006Df49c4794055551cd?chain=canto) | 6,116.047 | 0.00204% | 482 |
+| 288 | [0x1FA7ED6eBe41ce787210CA23B9fA63266A0C4762](https://debank.com/profile/0x1FA7ED6eBe41ce787210CA23B9fA63266A0C4762?chain=canto) | 6,049.262 | 0.00201% | 612 |
+| 289 | [0x947D9bcDc2C34Df8587630CAf45b2a2bf07c88cB](https://debank.com/profile/0x947D9bcDc2C34Df8587630CAf45b2a2bf07c88cB?chain=canto) | 6,031.758 | 0.00201% | 118 |
+| 290 | [0x7633Ae31E314067a261bAd184F7AEc9F997b14f5](https://debank.com/profile/0x7633Ae31E314067a261bAd184F7AEc9F997b14f5?chain=canto) | 5,964.483 | 0.00198% | 329, 548 |
+| 291 | [0xF982E2b501c4110E892464E6F0A51c13448D1AFE](https://debank.com/profile/0xF982E2b501c4110E892464E6F0A51c13448D1AFE?chain=canto) | 5,683.108 | 0.00189% | 294, 530 |
+| 292 | [0x3AA6605d87f611E43aD0a64740d6BeF9b80FCD2C](https://debank.com/profile/0x3AA6605d87f611E43aD0a64740d6BeF9b80FCD2C?chain=canto) | 5,616.745 | 0.00187% | 167 |
+| 293 | [0x2c820271ADE646fDb3D6D0002712Ee6bdc7DC173](https://debank.com/profile/0x2c820271ADE646fDb3D6D0002712Ee6bdc7DC173?chain=canto) | 5,437.169 | 0.00181% | 423 |
+| 294 | [0xcf6F862111c4Fa10eF350189d23B825EaBffa7cF](https://debank.com/profile/0xcf6F862111c4Fa10eF350189d23B825EaBffa7cF?chain=canto) | 5,324.96 | 0.00177% | 285 |
+| 295 | [0xa9f078B3b6DD6C04308f19DEF394b6D5a1B8b732](https://debank.com/profile/0xa9f078B3b6DD6C04308f19DEF394b6D5a1B8b732?chain=canto) | 5,262.624 | 0.00175% | 514 |
+| 296 | [0x6d61070a83ab80B97B72DCe9D10DAD357ACc6314](https://debank.com/profile/0x6d61070a83ab80B97B72DCe9D10DAD357ACc6314?chain=canto) | 5,135.241 | 0.00171% | 735 |
+| 297 | [0xd204Bc46046FC0Cd3f074fF9B3Be7b5C59f0a150](https://debank.com/profile/0xd204Bc46046FC0Cd3f074fF9B3Be7b5C59f0a150?chain=canto) | 5,133.108 | 0.00171% | 273, 660, 846 |
+| 298 | [0x7edB0CBfe1217Fe53Af0Fb871D92c1c627C6673C](https://debank.com/profile/0x7edB0CBfe1217Fe53Af0Fb871D92c1c627C6673C?chain=canto) | 5,109.822 | 0.00170% | 338 |
+| 299 | [0x6E35FcE521C4B4dEA9f97C1bFEB782eC36a016ac](https://debank.com/profile/0x6E35FcE521C4B4dEA9f97C1bFEB782eC36a016ac?chain=canto) | 5,068.861 | 0.00169% | 721 |
+| 300 | [0xe483508B13b0c9c7D633215FEEa608F8fa28f485](https://debank.com/profile/0xe483508B13b0c9c7D633215FEEa608F8fa28f485?chain=canto) | 5,015.164 | 0.00167% | 729 |
+| 301 | [0xc051a90d529bb40Bd44D4631f937C62f630dF43f](https://debank.com/profile/0xc051a90d529bb40Bd44D4631f937C62f630dF43f?chain=canto) | 4,992.265 | 0.00166% | 1149 |
+| 302 | [0x648cf383a4fE746a0e507fBB522e6eCBFFc8EC25](https://debank.com/profile/0x648cf383a4fE746a0e507fBB522e6eCBFFc8EC25?chain=canto) | 4,961.091 | 0.00165% | 662 |
+| 303 | [0xe4ec13946CE37ae7b3EA6AAC315B486DAD7766F2](https://debank.com/profile/0xe4ec13946CE37ae7b3EA6AAC315B486DAD7766F2?chain=canto) | 4,868.212 | 0.00162% | 142, 534 |
+| 304 | [0xBE46FC5cB5b4b20d636DFe193b08F40fBcfBf898](https://debank.com/profile/0xBE46FC5cB5b4b20d636DFe193b08F40fBcfBf898?chain=canto) | 4,867.044 | 0.00162% | 324 |
+| 305 | [0xa164Dc5Da67464DffbA916581dc9c4e6Cf155376](https://debank.com/profile/0xa164Dc5Da67464DffbA916581dc9c4e6Cf155376?chain=canto) | 4,835.753 | 0.00161% | 643 |
+| 306 | [0x73cCad884e29ef092a7E8B3e943b91Fb3881a7D9](https://debank.com/profile/0x73cCad884e29ef092a7E8B3e943b91Fb3881a7D9?chain=canto) | 4,820.936 | 0.00160% | 834 |
+| 307 | [0x15Eb585735334Db4B0B75919e5990E6391863B39](https://debank.com/profile/0x15Eb585735334Db4B0B75919e5990E6391863B39?chain=canto) | 4,758.75 | 0.00158% | 135, 430 |
+| 308 | [0xEe2513fC4127B3786C2f326a8aC22A23C86EF885](https://debank.com/profile/0xEe2513fC4127B3786C2f326a8aC22A23C86EF885?chain=canto) | 4,739.048 | 0.00158% | 440 |
+| 309 | [0x97Db0E57b1C315a08cc889Ed405ADB100D7F137d](https://debank.com/profile/0x97Db0E57b1C315a08cc889Ed405ADB100D7F137d?chain=canto) | 4,569.075 | 0.00152% | 197 |
+| 310 | [0xB3Ac867291869f604745518267243B2C2BE9cF23](https://debank.com/profile/0xB3Ac867291869f604745518267243B2C2BE9cF23?chain=canto) | 4,566.864 | 0.00152% | 624 |
+| 311 | [0x80bb0D87DCe1a94329586Ce9C7d39692bBf44af6](https://debank.com/profile/0x80bb0D87DCe1a94329586Ce9C7d39692bBf44af6?chain=canto) | 4,552.089 | 0.00151% | 156, 157, 604 |
+| 312 | [0x06480eef46b91B3b31823d0609398f96e55A0D9a](https://debank.com/profile/0x06480eef46b91B3b31823d0609398f96e55A0D9a?chain=canto) | 4,548.044 | 0.00151% | 630 |
+| 313 | [0x8a1F6ad24847A9cA5e58c4D96B2AB918Bfac791f](https://debank.com/profile/0x8a1F6ad24847A9cA5e58c4D96B2AB918Bfac791f?chain=canto) | 4,494.827 | 0.00150% | 318, 1160 |
+| 314 | [0xB2515a7221b2654F9Faae0E4eD1d0E49Aa7B85DD](https://debank.com/profile/0xB2515a7221b2654F9Faae0E4eD1d0E49Aa7B85DD?chain=canto) | 4,402.755 | 0.00146% | 707 |
+| 315 | [0x56BbBDD8d9e939EC047E3a61907a4caF4d90d231](https://debank.com/profile/0x56BbBDD8d9e939EC047E3a61907a4caF4d90d231?chain=canto) | 4,348.484 | 0.00145% | 138 |
+| 316 | [0x6fE4aceD57AE0b50D14229F3d40617C8b7d2F2E1](https://debank.com/profile/0x6fE4aceD57AE0b50D14229F3d40617C8b7d2F2E1?chain=canto) | 4,290.827 | 0.00143% | 145, 431 |
+| 317 | [0x8995E4E1312133F24035880DbC55f1bA9e323ae0](https://debank.com/profile/0x8995E4E1312133F24035880DbC55f1bA9e323ae0?chain=canto) | 4,276.378 | 0.00142% | 415 |
+| 318 | [0xa6B34d24dd5FA18db31286B296248cC95eA11d8B](https://debank.com/profile/0xa6B34d24dd5FA18db31286B296248cC95eA11d8B?chain=canto) | 4,156.398 | 0.00138% | 564 |
+| 319 | [0x4A228f14d2130E8E4636418B52aAF3D6b4E887D3](https://debank.com/profile/0x4A228f14d2130E8E4636418B52aAF3D6b4E887D3?chain=canto) | 4,102.47 | 0.00137% | 162 |
+| 320 | [0xD40846A19fdC9c8255DCcD18BcBB261BDBF5e4db](https://debank.com/profile/0xD40846A19fdC9c8255DCcD18BcBB261BDBF5e4db?chain=canto) | 3,949.364 | 0.00131% | 243, 247, 249 |
+| 321 | [0x8189CA95335AF50A0c9490547186008a6d7747dA](https://debank.com/profile/0x8189CA95335AF50A0c9490547186008a6d7747dA?chain=canto) | 3,900.227 | 0.00130% | 536, 891, 949 |
+| 322 | [0x9ba3956bbC21409cfA533499d461ae39C979993B](https://debank.com/profile/0x9ba3956bbC21409cfA533499d461ae39C979993B?chain=canto) | 3,869.154 | 0.00129% | 888, 946 |
+| 323 | [0x8843f611A7510f139DB69541AeBb33dd2319C093](https://debank.com/profile/0x8843f611A7510f139DB69541AeBb33dd2319C093?chain=canto) | 3,869.154 | 0.00129% | 889, 947 |
+| 324 | [0xdD81866Ea68e3f7A036D3bC386c445745E135b16](https://debank.com/profile/0xdD81866Ea68e3f7A036D3bC386c445745E135b16?chain=canto) | 3,869.154 | 0.00129% | 892, 950 |
+| 325 | [0x0A335391047F06bd67AF434314614B39c70499Eb](https://debank.com/profile/0x0A335391047F06bd67AF434314614B39c70499Eb?chain=canto) | 3,869.154 | 0.00129% | 893, 951 |
+| 326 | [0xaee394a8e28bE8b27D9a08e80c9A8aD6D72e52A6](https://debank.com/profile/0xaee394a8e28bE8b27D9a08e80c9A8aD6D72e52A6?chain=canto) | 3,834.872 | 0.00128% | 605 |
+| 327 | [0x864DE5bbaf4b8c808E94a8385B95B0855d170137](https://debank.com/profile/0x864DE5bbaf4b8c808E94a8385B95B0855d170137?chain=canto) | 3,749.197 | 0.00125% | 481 |
+| 328 | [0xc98b4228FF1F1840607d20Fd20c208215098FAF3](https://debank.com/profile/0xc98b4228FF1F1840607d20Fd20c208215098FAF3?chain=canto) | 3,738.411 | 0.00124% | 632 |
+| 329 | [0xA626Bd40A8c88F59A4CF9b1821A7bD71faD96285](https://debank.com/profile/0xA626Bd40A8c88F59A4CF9b1821A7bD71faD96285?chain=canto) | 3,674.155 | 0.00122% | 710 |
+| 330 | [0x76500b6A6C640aE7B695ef049F20d24A2ca476DF](https://debank.com/profile/0x76500b6A6C640aE7B695ef049F20d24A2ca476DF?chain=canto) | 3,673.9 | 0.00122% | 812 |
+| 331 | [0xB1fC41Cbad16caFDfC2ED196c7fe515DfB6a1577](https://debank.com/profile/0xB1fC41Cbad16caFDfC2ED196c7fe515DfB6a1577?chain=canto) | 3,619.74 | 0.00120% | 115 |
+| 332 | [0x0c6306c1ff8F0cA8432B761085d5Ce74160A499a](https://debank.com/profile/0x0c6306c1ff8F0cA8432B761085d5Ce74160A499a?chain=canto) | 3,576.849 | 0.00119% | 408 |
+| 333 | [0x305DD3323db135dCAD64FD40744133259823d627](https://debank.com/profile/0x305DD3323db135dCAD64FD40744133259823d627?chain=canto) | 3,465.654 | 0.00115% | 1064 |
+| 334 | [0x32430730567407f4D50764465AEcC381B818E056](https://debank.com/profile/0x32430730567407f4D50764465AEcC381B818E056?chain=canto) | 3,439.919 | 0.00114% | 489 |
+| 335 | [0x0d7BbDb6d0D82E896ECB8ED8Bc33aaBd20dE0dA9](https://debank.com/profile/0x0d7BbDb6d0D82E896ECB8ED8Bc33aaBd20dE0dA9?chain=canto) | 3,395.22 | 0.00113% | 151 |
+| 336 | [0x25315430a21392bF137EcD1e843a8F3c62266b81](https://debank.com/profile/0x25315430a21392bF137EcD1e843a8F3c62266b81?chain=canto) | 3,380.674 | 0.00112% | 594 |
+| 337 | [0xf3d0Cb1b3Db63A5f98a0EcB05d0D9F263058B7CB](https://debank.com/profile/0xf3d0Cb1b3Db63A5f98a0EcB05d0D9F263058B7CB?chain=canto) | 3,373.606 | 0.00112% | 623 |
+| 338 | [0x96FCa82BB2ce4c5A700a14581412366CC05dd6fA](https://debank.com/profile/0x96FCa82BB2ce4c5A700a14581412366CC05dd6fA?chain=canto) | 3,370.047 | 0.00112% | 136 |
+| 339 | [0x479dE30A1E7e53657C437a6d36ae6389B290B5Fb](https://debank.com/profile/0x479dE30A1E7e53657C437a6d36ae6389B290B5Fb?chain=canto) | 3,370.047 | 0.00112% | 227 |
+| 340 | [0xB1e22281E1BC8Ab83Da1CB138e24aCB004B5a4ca](https://debank.com/profile/0xB1e22281E1BC8Ab83Da1CB138e24aCB004B5a4ca?chain=canto) | 3,370.047 | 0.00112% | 280 |
+| 341 | [0xcaE8cF1e2119484D6CC3B6EFAad2242aDBDB1Ea8](https://debank.com/profile/0xcaE8cF1e2119484D6CC3B6EFAad2242aDBDB1Ea8?chain=canto) | 3,333.891 | 0.00111% | 758 |
+| 342 | [0xc38E6640816B2731ed595780582A87c9b990D0C0](https://debank.com/profile/0xc38E6640816B2731ed595780582A87c9b990D0C0?chain=canto) | 3,333.003 | 0.00111% | 571 |
+| 343 | [0xDb2eDCC7880F0071959e2f6713CC335a6690FC84](https://debank.com/profile/0xDb2eDCC7880F0071959e2f6713CC335a6690FC84?chain=canto) | 3,294.987 | 0.00110% | 539 |
+| 344 | [0xe5e1e9c58DB4ECaB40fD46D7aC3578b74c1D0921](https://debank.com/profile/0xe5e1e9c58DB4ECaB40fD46D7aC3578b74c1D0921?chain=canto) | 3,276.767 | 0.00109% | 692 |
+| 345 | [0xE1b84A8CfD690A0b34AF8EE610b7FFbE123D8608](https://debank.com/profile/0xE1b84A8CfD690A0b34AF8EE610b7FFbE123D8608?chain=canto) | 3,264.854 | 0.00109% | 524 |
+| 346 | [0x0F9548165C4960624DEbb7e38b504E9Fd524d6Af](https://debank.com/profile/0x0F9548165C4960624DEbb7e38b504E9Fd524d6Af?chain=canto) | 3,249.312 | 0.00108% | 474 |
+| 347 | [0x7386d48802560A1d90459De0Af88103A1754B872](https://debank.com/profile/0x7386d48802560A1d90459De0Af88103A1754B872?chain=canto) | 3,241.687 | 0.00108% | 709, 1079 |
+| 348 | [0x2f45724d7E384b38D5C97206e78470544304887F](https://debank.com/profile/0x2f45724d7E384b38D5C97206e78470544304887F?chain=canto) | 3,222.967 | 0.00107% | 642 |
+| 349 | [0x59ce436890c241Bac964FDEBBcc0c4f1eF0C2deE](https://debank.com/profile/0x59ce436890c241Bac964FDEBBcc0c4f1eF0C2deE?chain=canto) | 3,155.036 | 0.00105% | 460 |
+| 350 | [0x411C88b3Df78c91A6cB401dc6e10dE4e55D8E36D](https://debank.com/profile/0x411C88b3Df78c91A6cB401dc6e10dE4e55D8E36D?chain=canto) | 3,149.077 | 0.00105% | 843 |
+| 351 | [0x145d9df4c64a6b4b50766F54A76d0eb12d93Fda7](https://debank.com/profile/0x145d9df4c64a6b4b50766F54A76d0eb12d93Fda7?chain=canto) | 3,084.878 | 0.00103% | 466 |
+| 352 | [0x624475C20a9EeAF02Ecd628a24393d2B63e94154](https://debank.com/profile/0x624475C20a9EeAF02Ecd628a24393d2B63e94154?chain=canto) | 3,067.193 | 0.00102% | 576 |
+| 353 | [0x51c2b001Df060F3e15b3a26e74A37588fa76DE7d](https://debank.com/profile/0x51c2b001Df060F3e15b3a26e74A37588fa76DE7d?chain=canto) | 3,040.249 | 0.00101% | 573 |
+| 354 | [0x9505F160A9a74ad532d674De4F200484e0049b43](https://debank.com/profile/0x9505F160A9a74ad532d674De4F200484e0049b43?chain=canto) | 2,996.452 | 0.00100% | 250, 251 |
+| 355 | [0x8547Dfc5f5b44709849422A6025635aAE72473E1](https://debank.com/profile/0x8547Dfc5f5b44709849422A6025635aAE72473E1?chain=canto) | 2,977.373 | 0.00099% | 1157 |
+| 356 | [0x2Eb5E41673506c9acFC94b665BD0Ca5B5F7335f9](https://debank.com/profile/0x2Eb5E41673506c9acFC94b665BD0Ca5B5F7335f9?chain=canto) | 2,974.245 | 0.00099% | 876, 1094 |
+| 357 | [0xd5bac35955405bf81D2Bec4Bf94Dc587784e5be2](https://debank.com/profile/0xd5bac35955405bf81D2Bec4Bf94Dc587784e5be2?chain=canto) | 2,950.71 | 0.00098% | 873, 879 |
+| 358 | [0x97Eda3C9f1e4c7eF743b552Ab687Aa49FCa804c0](https://debank.com/profile/0x97Eda3C9f1e4c7eF743b552Ab687Aa49FCa804c0?chain=canto) | 2,928.476 | 0.00097% | 488 |
+| 359 | [0xE940FCf8195bEe37cf5a5a72f79E85280B28c5a9](https://debank.com/profile/0xE940FCf8195bEe37cf5a5a72f79E85280B28c5a9?chain=canto) | 2,890.606 | 0.00096% | 563 |
+| 360 | [0x588cF3AFDfAd557168D15d377757c83856E6Ff12](https://debank.com/profile/0x588cF3AFDfAd557168D15d377757c83856E6Ff12?chain=canto) | 2,859.003 | 0.00095% | 469 |
+| 361 | [0x7206BC81E2C52441EEFfE120118aC880f4528dDA](https://debank.com/profile/0x7206BC81E2C52441EEFfE120118aC880f4528dDA?chain=canto) | 2,854.43 | 0.00095% | 259 |
+| 362 | [0xc2979f313dD6731efD591e983d4CC5231E49a387](https://debank.com/profile/0xc2979f313dD6731efD591e983d4CC5231E49a387?chain=canto) | 2,834.689 | 0.00094% | 665 |
+| 363 | [0x85E069c6743A5D0ACf2B7371A28Ba3273fc51431](https://debank.com/profile/0x85E069c6743A5D0ACf2B7371A28Ba3273fc51431?chain=canto) | 2,815.081 | 0.00094% | 754 |
+| 364 | [0xf88EaDe6A90e32C869BD12Bcc0071Dc42aB77529](https://debank.com/profile/0xf88EaDe6A90e32C869BD12Bcc0071Dc42aB77529?chain=canto) | 2,787.664 | 0.00093% | 705, 836 |
+| 365 | [0x9665B6F0CF162792851A902E452248B16F2f4b5A](https://debank.com/profile/0x9665B6F0CF162792851A902E452248B16F2f4b5A?chain=canto) | 2,667.194 | 0.00089% | 131, 132 |
+| 366 | [0x973872cA85cD7175b02FE24701438174901ED751](https://debank.com/profile/0x973872cA85cD7175b02FE24701438174901ED751?chain=canto) | 2,628.716 | 0.00087% | 165 |
+| 367 | [0xe0AdE70f1B4ED54cb9583A1ff362c1c0F4678403](https://debank.com/profile/0xe0AdE70f1B4ED54cb9583A1ff362c1c0F4678403?chain=canto) | 2,626.411 | 0.00087% | 645 |
+| 368 | [0xe12D731750E222eC53b001E00d978901B134CFC9](https://debank.com/profile/0xe12D731750E222eC53b001E00d978901B134CFC9?chain=canto) | 2,613.531 | 0.00087% | 174, 176, 494 |
+| 369 | [0x20cE0C0f284219f4E0B68804a8333A782461674c](https://debank.com/profile/0x20cE0C0f284219f4E0B68804a8333A782461674c?chain=canto) | 2,542.917 | 0.00085% | 414 |
+| 370 | [0xD90515a69C82b92992fA3c03D010AcCB366Bf2C1](https://debank.com/profile/0xD90515a69C82b92992fA3c03D010AcCB366Bf2C1?chain=canto) | 2,513.164 | 0.00084% | 565 |
+| 371 | [0x0B75Ca06385bE5683e071c5859F944CD982081EE](https://debank.com/profile/0x0B75Ca06385bE5683e071c5859F944CD982081EE?chain=canto) | 2,496.876 | 0.00083% | 1163 |
+| 372 | [0x1b35fcb58F5E1e2a42fF8E66ddf5646966aBf08C](https://debank.com/profile/0x1b35fcb58F5E1e2a42fF8E66ddf5646966aBf08C?chain=canto) | 2,390.268 | 0.00080% | 309 |
+| 373 | [0xD9D836EBC67Abeec65b29E586F89816Dab991F69](https://debank.com/profile/0xD9D836EBC67Abeec65b29E586F89816Dab991F69?chain=canto) | 2,369.498 | 0.00079% | 874 |
+| 374 | [0x9BC2F420E089677c64e079044eB6685232e732Be](https://debank.com/profile/0x9BC2F420E089677c64e079044eB6685232e732Be?chain=canto) | 2,356.196 | 0.00078% | 672 |
+| 375 | [0x6F106e0ef498a594CCE8280976822fA3798A35cb](https://debank.com/profile/0x6F106e0ef498a594CCE8280976822fA3798A35cb?chain=canto) | 2,316.37 | 0.00077% | 233 |
+| 376 | [0x2B185C762F6Fb49a07116EC06B238B58Fe2BeC53](https://debank.com/profile/0x2B185C762F6Fb49a07116EC06B238B58Fe2BeC53?chain=canto) | 2,316.085 | 0.00077% | 422 |
+| 377 | [0xFe36AacBCF5677a4A04288764C16acb4220894b9](https://debank.com/profile/0xFe36AacBCF5677a4A04288764C16acb4220894b9?chain=canto) | 2,309.197 | 0.00077% | 217 |
+| 378 | [0x3a390b018fc3425d06FB84DCcdD140481A960939](https://debank.com/profile/0x3a390b018fc3425d06FB84DCcdD140481A960939?chain=canto) | 2,296.125 | 0.00076% | 149 |
+| 379 | [0x88c21E961503061EcC51dB6Bd09c01d5daCCe427](https://debank.com/profile/0x88c21E961503061EcC51dB6Bd09c01d5daCCe427?chain=canto) | 2,261.35 | 0.00075% | 379, 386 |
+| 380 | [0xa66e216b038d0F4121bf9A218dABbf4759375f5E](https://debank.com/profile/0xa66e216b038d0F4121bf9A218dABbf4759375f5E?chain=canto) | 2,251.781 | 0.00075% | 105 |
+| 381 | [0x1448D297420799a0dEB4bE0C270E8ec310c8E8dD](https://debank.com/profile/0x1448D297420799a0dEB4bE0C270E8ec310c8E8dD?chain=canto) | 2,144.226 | 0.00071% | 260, 461 |
+| 382 | [0x5Da70A90CaAf7015DE9754709400a97A988476DB](https://debank.com/profile/0x5Da70A90CaAf7015DE9754709400a97A988476DB?chain=canto) | 2,075.947 | 0.00069% | 720 |
+| 383 | [0x84A51c92a653dc0e6AE11C9D873C55Ee7Af62106](https://debank.com/profile/0x84A51c92a653dc0e6AE11C9D873C55Ee7Af62106?chain=canto) | 2,058.682 | 0.00069% | 281, 282 |
+| 384 | [0xEf4aA2606C138D98743FFb46959583d92Ca1E6a0](https://debank.com/profile/0xEf4aA2606C138D98743FFb46959583d92Ca1E6a0?chain=canto) | 2,050.969 | 0.00068% | 722 |
+| 385 | [0x5FE1521173F553084eD21e5CbeDE7233b5fE1AA7](https://debank.com/profile/0x5FE1521173F553084eD21e5CbeDE7233b5fE1AA7?chain=canto) | 2,005.25 | 0.00067% | 127, 134, 407 |
+| 386 | [0x1E480827489E3eA19f82EF213b67200A76C0DF58](https://debank.com/profile/0x1E480827489E3eA19f82EF213b67200A76C0DF58?chain=canto) | 1,998.752 | 0.00067% | 207 |
+| 387 | [0x78B05688bEb478a03160Cd757806d0893407BdC1](https://debank.com/profile/0x78B05688bEb478a03160Cd757806d0893407BdC1?chain=canto) | 1,989.289 | 0.00066% | 704 |
+| 388 | [0xF0A59a372b17F146661cA6E48E87077A8784B3AF](https://debank.com/profile/0xF0A59a372b17F146661cA6E48E87077A8784B3AF?chain=canto) | 1,985.442 | 0.00066% | 1112 |
+| 389 | [0x1ca96E1A7Ee91Df4D20DeD37D6DB68734419D682](https://debank.com/profile/0x1ca96E1A7Ee91Df4D20DeD37D6DB68734419D682?chain=canto) | 1,975.243 | 0.00066% | 619 |
+| 390 | [0xA1958a37C21372482DEfF4618BAEbbeC23C9a449](https://debank.com/profile/0xA1958a37C21372482DEfF4618BAEbbeC23C9a449?chain=canto) | 1,972.022 | 0.00066% | 1044 |
+| 391 | [0xc8728Ae130381EB77Fc9a8b715564B00e83E19Df](https://debank.com/profile/0xc8728Ae130381EB77Fc9a8b715564B00e83E19Df?chain=canto) | 1,938.064 | 0.00064% | 468 |
+| 392 | [0x8FFAa09A58Fc83D4d68A597F845309DA680be006](https://debank.com/profile/0x8FFAa09A58Fc83D4d68A597F845309DA680be006?chain=canto) | 1,925.227 | 0.00064% | 713 |
+| 393 | [0xE98cE2b7B32C2Eda0fbf9f1756418FDde2265957](https://debank.com/profile/0xE98cE2b7B32C2Eda0fbf9f1756418FDde2265957?chain=canto) | 1,846.815 | 0.00061% | 615 |
+| 394 | [0xdceb0Bb3311342e3ce9e49f57aFfCE9dEac40bA1](https://debank.com/profile/0xdceb0Bb3311342e3ce9e49f57aFfCE9dEac40bA1?chain=canto) | 1,840.574 | 0.00061% | 976 |
+| 395 | [0x8874174A2366668d54fEa6343F71709389563c8a](https://debank.com/profile/0x8874174A2366668d54fEa6343F71709389563c8a?chain=canto) | 1,836.539 | 0.00061% | 411 |
+| 396 | [0x97294B51BF128E6988c7747E0696Ed7F7CfEe993](https://debank.com/profile/0x97294B51BF128E6988c7747E0696Ed7F7CfEe993?chain=canto) | 1,831.47 | 0.00061% | 192 |
+| 397 | [0x6aef48eA854Bc0e805232ceCbab2fab592037c19](https://debank.com/profile/0x6aef48eA854Bc0e805232ceCbab2fab592037c19?chain=canto) | 1,827.226 | 0.00061% | 858 |
+| 398 | [0x868CBfd33ec93B451c510125E4D9f1AB1E42fcD2](https://debank.com/profile/0x868CBfd33ec93B451c510125E4D9f1AB1E42fcD2?chain=canto) | 1,790.987 | 0.00060% | 224 |
+| 399 | [0x686Bd59caE3e78107515E87B2895cCBe27fb7D0A](https://debank.com/profile/0x686Bd59caE3e78107515E87B2895cCBe27fb7D0A?chain=canto) | 1,790.981 | 0.00060% | 276 |
+| 400 | [0x6B6192F3299187DC68306c0aB43AbBAeD8eA4AbA](https://debank.com/profile/0x6B6192F3299187DC68306c0aB43AbBAeD8eA4AbA?chain=canto) | 1,715.575 | 0.00057% | 634 |
+| 401 | [0x9DEB607b7E92096df55b02aA563e82F612fD0DEf](https://debank.com/profile/0x9DEB607b7E92096df55b02aA563e82F612fD0DEf?chain=canto) | 1,702.706 | 0.00057% | 222, 522 |
+| 402 | [0xB3dDC2A5B4EbDb7640191906Bd4195E23e17142c](https://debank.com/profile/0xB3dDC2A5B4EbDb7640191906Bd4195E23e17142c?chain=canto) | 1,685.023 | 0.00056% | 143, 942 |
+| 403 | [0x812B9c3Ea2c49beC95D0Bcda4Db39513baaee261](https://debank.com/profile/0x812B9c3Ea2c49beC95D0Bcda4Db39513baaee261?chain=canto) | 1,674.734 | 0.00056% | 155 |
+| 404 | [0xc2Ffb3Ba114F19F6f2e5Fad5C68f25A8e942d805](https://debank.com/profile/0xc2Ffb3Ba114F19F6f2e5Fad5C68f25A8e942d805?chain=canto) | 1,583.412 | 0.00053% | 356 |
+| 405 | [0x664D448A984DAe1e829BF71e837faCd7b657EE10](https://debank.com/profile/0x664D448A984DAe1e829BF71e837faCd7b657EE10?chain=canto) | 1,546.043 | 0.00051% | 477, 746 |
+| 406 | [0xbC82A7232c1f043e4cc608e0eC1510Cf50E28f64](https://debank.com/profile/0xbC82A7232c1f043e4cc608e0eC1510Cf50E28f64?chain=canto) | 1,502.393 | 0.00050% | 185, 211 |
+| 407 | [0x580A5b2f32bD14af9da1e01ef41fEB754f78c350](https://debank.com/profile/0x580A5b2f32bD14af9da1e01ef41fEB754f78c350?chain=canto) | 1,468.462 | 0.00049% | 694 |
+| 408 | [0x46c575C8E7Fea373f989e9b3e088c2e16FB7B523](https://debank.com/profile/0x46c575C8E7Fea373f989e9b3e088c2e16FB7B523?chain=canto) | 1,468.399 | 0.00049% | 429 |
+| 409 | [0xAFb4BCE970b77222a74D240294Bd67216114b8eB](https://debank.com/profile/0xAFb4BCE970b77222a74D240294Bd67216114b8eB?chain=canto) | 1,461.651 | 0.00049% | 1127 |
+| 410 | [0x32Ec95fF39425Bd7F2C98D078A0b4AfB03641521](https://debank.com/profile/0x32Ec95fF39425Bd7F2C98D078A0b4AfB03641521?chain=canto) | 1,460.858 | 0.00049% | 292, 333, 700 |
+| 411 | [0x5B187c84b31C243202959aB4B54f8396E5DBaf32](https://debank.com/profile/0x5B187c84b31C243202959aB4B54f8396E5DBaf32?chain=canto) | 1,454.316 | 0.00048% | 475 |
+| 412 | [0xEA5954B24de2877b497CabAb5E54682cF5930191](https://debank.com/profile/0xEA5954B24de2877b497CabAb5E54682cF5930191?chain=canto) | 1,414.266 | 0.00047% | 714 |
+| 413 | [0xAB031dD0A55058794DCa22b01941eF9A299176c1](https://debank.com/profile/0xAB031dD0A55058794DCa22b01941eF9A299176c1?chain=canto) | 1,384.409 | 0.00046% | 1117 |
+| 414 | [0x0e6E75D4842983a45C47d8CD88FcC32bAeec62C4](https://debank.com/profile/0x0e6E75D4842983a45C47d8CD88FcC32bAeec62C4?chain=canto) | 1,381.361 | 0.00046% | 358 |
+| 415 | [0xe9bCCEd88099FC4aacF78b7c43307E758E1a5382](https://debank.com/profile/0xe9bCCEd88099FC4aacF78b7c43307E758E1a5382?chain=canto) | 1,370.705 | 0.00046% | 258, 596 |
+| 416 | [0x3bE2a617a86DD49Bc8893ca04CEa2e5F444F9c12](https://debank.com/profile/0x3bE2a617a86DD49Bc8893ca04CEa2e5F444F9c12?chain=canto) | 1,357.71 | 0.00045% | 283 |
+| 417 | [0x945a873B0E08a361458141f637031490cA01b9c1](https://debank.com/profile/0x945a873B0E08a361458141f637031490cA01b9c1?chain=canto) | 1,353.099 | 0.00045% | 169, 193 |
+| 418 | [0xc45D05CDc809d20c7B14959E8cd4a1199E3e966F](https://debank.com/profile/0xc45D05CDc809d20c7B14959E8cd4a1199E3e966F?chain=canto) | 1,328.495 | 0.00044% | 198 |
+| 419 | [0x891C16d225e4Fd30d0874Bf2E139B0c11a459a07](https://debank.com/profile/0x891C16d225e4Fd30d0874Bf2E139B0c11a459a07?chain=canto) | 1,264.891 | 0.00042% | 126 |
+| 420 | [0xCbE68Ade2d49b26d67A79fE769Ccce7906834177](https://debank.com/profile/0xCbE68Ade2d49b26d67A79fE769Ccce7906834177?chain=canto) | 1,252.333 | 0.00042% | 1122 |
+| 421 | [0x216EaA9a81f01e682F30983CbB65cE32F3b70097](https://debank.com/profile/0x216EaA9a81f01e682F30983CbB65cE32F3b70097?chain=canto) | 1,219.036 | 0.00041% | 508 |
+| 422 | [0x3e051c89cd06e6867ce98c758fCC665d2148E1bb](https://debank.com/profile/0x3e051c89cd06e6867ce98c758fCC665d2148E1bb?chain=canto) | 1,201.574 | 0.00040% | 599 |
+| 423 | [0xb25024c421D4F8BEbE468d3dC353e07868C99901](https://debank.com/profile/0xb25024c421D4F8BEbE468d3dC353e07868C99901?chain=canto) | 1,185.952 | 0.00039% | 716 |
+| 424 | [0x7540cA8906357dcAf518d0E78b6F354268A0C736](https://debank.com/profile/0x7540cA8906357dcAf518d0E78b6F354268A0C736?chain=canto) | 1,174.17 | 0.00039% | 433 |
+| 425 | [0x42957757894b5FFe3D2B5DAed229d220C4b62e3c](https://debank.com/profile/0x42957757894b5FFe3D2B5DAed229d220C4b62e3c?chain=canto) | 1,161.007 | 0.00039% | 493 |
+| 426 | [0x97F50652a201Eb3f8fB9DdB33766C7157224c45B](https://debank.com/profile/0x97F50652a201Eb3f8fB9DdB33766C7157224c45B?chain=canto) | 1,158.711 | 0.00039% | 833 |
+| 427 | [0x564d5AEEb2CdE5Ecd16dA4C0398C3937441359b4](https://debank.com/profile/0x564d5AEEb2CdE5Ecd16dA4C0398C3937441359b4?chain=canto) | 1,133.149 | 0.00038% | 314, 355 |
+| 428 | [0x536964A769E38B0c4225B9d949932f00031322bd](https://debank.com/profile/0x536964A769E38B0c4225B9d949932f00031322bd?chain=canto) | 1,127.323 | 0.00038% | 500 |
+| 429 | [0x37FC9Dc092E8a30A63A1567C9ac9738A7D4A08ed](https://debank.com/profile/0x37FC9Dc092E8a30A63A1567C9ac9738A7D4A08ed?chain=canto) | 1,123.349 | 0.00037% | 108 |
+| 430 | [0x0496cbAD3B943cc246Aa793AB069bFC5516961Ef](https://debank.com/profile/0x0496cbAD3B943cc246Aa793AB069bFC5516961Ef?chain=canto) | 1,123.349 | 0.00037% | 109 |
+| 431 | [0x464F6392E68Bc6093354E5bf12692e37F5e4113e](https://debank.com/profile/0x464F6392E68Bc6093354E5bf12692e37F5e4113e?chain=canto) | 1,123.349 | 0.00037% | 170 |
+| 432 | [0x93A51Eee2306d98061747626776F8ddF761B496e](https://debank.com/profile/0x93A51Eee2306d98061747626776F8ddF761B496e?chain=canto) | 1,099.544 | 0.00037% | 627 |
+| 433 | [0xEb0CeB1F89D1dd01bDFD2Ff9e145271d8FEEfB00](https://debank.com/profile/0xEb0CeB1F89D1dd01bDFD2Ff9e145271d8FEEfB00?chain=canto) | 1,090.874 | 0.00036% | 275 |
+| 434 | [0x609470c2f08FF626078bA64Ceb905d73b155089d](https://debank.com/profile/0x609470c2f08FF626078bA64Ceb905d73b155089d?chain=canto) | 1,056.147 | 0.00035% | 117, 592 |
+| 435 | [0x68897d3c09C5019BfA59fc863f9d86d4583861EF](https://debank.com/profile/0x68897d3c09C5019BfA59fc863f9d86d4583861EF?chain=canto) | 1,049.15 | 0.00035% | 348, 708 |
+| 436 | [0x40Ee2aFBFBc4286b25e2A194920C7d9591eef9Dc](https://debank.com/profile/0x40Ee2aFBFBc4286b25e2A194920C7d9591eef9Dc?chain=canto) | 1,044.117 | 0.00035% | 416 |
+| 437 | [0x57Aa14fcFeF7625Fc0409C5E5579d4899ab1933c](https://debank.com/profile/0x57Aa14fcFeF7625Fc0409C5E5579d4899ab1933c?chain=canto) | 1,040.812 | 0.00035% | 941 |
+| 438 | [0x2e6A27556bF03125b4DB4704fcc86247D432365B](https://debank.com/profile/0x2e6A27556bF03125b4DB4704fcc86247D432365B?chain=canto) | 1,035.206 | 0.00034% | 321 |
+| 439 | [0xDEb3994785Bfc8863e808df0E0C43C9C0058d7c9](https://debank.com/profile/0xDEb3994785Bfc8863e808df0E0C43C9C0058d7c9?chain=canto) | 1,029.187 | 0.00034% | 231, 635 |
+| 440 | [0x013cF8AfDa4d6739fc585734f2D4A01F9deB99e0](https://debank.com/profile/0x013cF8AfDa4d6739fc585734f2D4A01F9deB99e0?chain=canto) | 1,013.256 | 0.00034% | 443 |
+| 441 | [0xCEDF6A78AB0D2aeeE70Ecf511230dC1ea38315E1](https://debank.com/profile/0xCEDF6A78AB0D2aeeE70Ecf511230dC1ea38315E1?chain=canto) | 995.396 | 0.00033% | 921 |
+| 442 | [0x0F552F5d5d5badB92efE09232ffEe5c81c3Bb394](https://debank.com/profile/0x0F552F5d5d5badB92efE09232ffEe5c81c3Bb394?chain=canto) | 975.633 | 0.00032% | 838, 859 |
+| 443 | [0xBd1E1Cc9613B510d1669D1e79Fd0115C70a4C7be](https://debank.com/profile/0xBd1E1Cc9613B510d1669D1e79Fd0115C70a4C7be?chain=canto) | 961.587 | 0.00032% | 202, 203 |
+| 444 | [0xC8c15FEd0F83E03Bb3b6db2ccEBb45DE5914705c](https://debank.com/profile/0xC8c15FEd0F83E03Bb3b6db2ccEBb45DE5914705c?chain=canto) | 953.314 | 0.00032% | 495 |
+| 445 | [0x3eFbe2262eD0Ee598FdD0417909cbaaEE8D673A1](https://debank.com/profile/0x3eFbe2262eD0Ee598FdD0417909cbaaEE8D673A1?chain=canto) | 950.508 | 0.00032% | 764 |
+| 446 | [0x3aE6a0e8Ec1Edd305553686387dC85Ff8D16AC51](https://debank.com/profile/0x3aE6a0e8Ec1Edd305553686387dC85Ff8D16AC51?chain=canto) | 949.23 | 0.00032% | 111 |
+| 447 | [0x808E3dE77975b9b050D4A7DcbfCE909E20fcF4B5](https://debank.com/profile/0x808E3dE77975b9b050D4A7DcbfCE909E20fcF4B5?chain=canto) | 945.862 | 0.00031% | 559 |
+| 448 | [0x505520c74D915B818CB78f4511C2FA62e759Bd66](https://debank.com/profile/0x505520c74D915B818CB78f4511C2FA62e759Bd66?chain=canto) | 935.057 | 0.00031% | 706 |
+| 449 | [0x66146eA74ce40B4b412cdD47378D538F6bcEB8E9](https://debank.com/profile/0x66146eA74ce40B4b412cdD47378D538F6bcEB8E9?chain=canto) | 925.09 | 0.00031% | 357, 580 |
+| 450 | [0x8E07Ab8Fc9E5F2613b17a5E5069673d522D0207a](https://debank.com/profile/0x8E07Ab8Fc9E5F2613b17a5E5069673d522D0207a?chain=canto) | 916.412 | 0.00030% | 221, 664 |
+| 451 | [0xb8920e475E32B807cE51e0eF823fE070D7D96e8C](https://debank.com/profile/0xb8920e475E32B807cE51e0eF823fE070D7D96e8C?chain=canto) | 915.966 | 0.00030% | 228, 352, 577 |
+| 452 | [0x845B0BEd7Dd6A2dc60a9F8d8e3befD58B645c528](https://debank.com/profile/0x845B0BEd7Dd6A2dc60a9F8d8e3befD58B645c528?chain=canto) | 897.264 | 0.00030% | 1151 |
+| 453 | [0xabc99c91513e26421106E1593f677800828B5284](https://debank.com/profile/0xabc99c91513e26421106E1593f677800828B5284?chain=canto) | 893.252 | 0.00030% | 702 |
+| 454 | [0x1B0F4AdBD4c87979509419487d575C5275b84a09](https://debank.com/profile/0x1B0F4AdBD4c87979509419487d575C5275b84a09?chain=canto) | 884.857 | 0.00029% | 801 |
+| 455 | [0x1EF84F070fFaAeA14E63A2b3FE406400FB3bbC75](https://debank.com/profile/0x1EF84F070fFaAeA14E63A2b3FE406400FB3bbC75?chain=canto) | 875.731 | 0.00029% | 487 |
+| 456 | [0x7469aD145870122155BfB76e4adBF180a8da1A30](https://debank.com/profile/0x7469aD145870122155BfB76e4adBF180a8da1A30?chain=canto) | 874.485 | 0.00029% | 502 |
+| 457 | [0x09bAc567D73E8BC701a900D14C90c06644eA0156](https://debank.com/profile/0x09bAc567D73E8BC701a900D14C90c06644eA0156?chain=canto) | 844.272 | 0.00028% | 161 |
+| 458 | [0xb245A959A3D2608e248239638a240c5FCFE20596](https://debank.com/profile/0xb245A959A3D2608e248239638a240c5FCFE20596?chain=canto) | 802.071 | 0.00027% | 277 |
+| 459 | [0xe952b29E749DDaaabd7A4855584D5BEcd5CD65bB](https://debank.com/profile/0xe952b29E749DDaaabd7A4855584D5BEcd5CD65bB?chain=canto) | 781.283 | 0.00026% | 762 |
+| 460 | [0x7804C5F4FD50F7c12845E2951E24858B8c270e35](https://debank.com/profile/0x7804C5F4FD50F7c12845E2951E24858B8c270e35?chain=canto) | 744.114 | 0.00025% | 787 |
+| 461 | [0x0D0d6625F9A0B3370b4b69393E59fdD4d077BB38](https://debank.com/profile/0x0D0d6625F9A0B3370b4b69393E59fdD4d077BB38?chain=canto) | 734.67 | 0.00024% | 184 |
+| 462 | [0x62F61ba522E3321bd4571E99D0034A67d9F7ee51](https://debank.com/profile/0x62F61ba522E3321bd4571E99D0034A67d9F7ee51?chain=canto) | 732.235 | 0.00024% | 545 |
+| 463 | [0xAB63953B631336bD204fdcF126e2a010A47b1A36](https://debank.com/profile/0xAB63953B631336bD204fdcF126e2a010A47b1A36?chain=canto) | 730.177 | 0.00024% | 225 |
+| 464 | [0xDd77a81910f4513524bdA1394A3dE2237E4288e1](https://debank.com/profile/0xDd77a81910f4513524bdA1394A3dE2237E4288e1?chain=canto) | 720.324 | 0.00024% | 300 |
+| 465 | [0x07A12C972f168d810c2E10B4f4ed6E42B82FDfF7](https://debank.com/profile/0x07A12C972f168d810c2E10B4f4ed6E42B82FDfF7?chain=canto) | 708.906 | 0.00024% | 621 |
+| 466 | [0x6Ca7B32902EA9dCf9E184830b85C7Ba40B742811](https://debank.com/profile/0x6Ca7B32902EA9dCf9E184830b85C7Ba40B742811?chain=canto) | 695.44 | 0.00023% | 878 |
+| 467 | [0x94535DE0Ee84f36343c539285183a98784f5257c](https://debank.com/profile/0x94535DE0Ee84f36343c539285183a98784f5257c?chain=canto) | 673.965 | 0.00022% | 685 |
+| 468 | [0xEB63B57AABEDf4e3A715F48af77E7D7aF3FD709f](https://debank.com/profile/0xEB63B57AABEDf4e3A715F48af77E7D7aF3FD709f?chain=canto) | 661.955 | 0.00022% | 472 |
+| 469 | [0xE684d1546D810584b990e076F5992Bb0ac4b6A60](https://debank.com/profile/0xE684d1546D810584b990e076F5992Bb0ac4b6A60?chain=canto) | 660.022 | 0.00022% | 570 |
+| 470 | [0x146C216Bec55ea7d694b2611c69d9eeC5b017DE8](https://debank.com/profile/0x146C216Bec55ea7d694b2611c69d9eeC5b017DE8?chain=canto) | 656.573 | 0.00022% | 584 |
+| 471 | [0x2744eC05D936e5D0367591dD59D14f2e0da13694](https://debank.com/profile/0x2744eC05D936e5D0367591dD59D14f2e0da13694?chain=canto) | 654.365 | 0.00022% | 484 |
+| 472 | [0x9be8e4E9D4A68bBdAa8DEcaE9f728Ed50599Be7c](https://debank.com/profile/0x9be8e4E9D4A68bBdAa8DEcaE9f728Ed50599Be7c?chain=canto) | 653.96 | 0.00022% | 880 |
+| 473 | [0x865D7eb5db37cc02ec209DD778f4e3851a421A20](https://debank.com/profile/0x865D7eb5db37cc02ec209DD778f4e3851a421A20?chain=canto) | 650.194 | 0.00022% | 194, 239 |
+| 474 | [0x865FCDA847083C81E9c3FdF0e4612E13bf5086dc](https://debank.com/profile/0x865FCDA847083C81E9c3FdF0e4612E13bf5086dc?chain=canto) | 610.059 | 0.00020% | 454 |
+| 475 | [0x2ed284077cc25A3f400DAEA79714Ac4A5AC474aC](https://debank.com/profile/0x2ed284077cc25A3f400DAEA79714Ac4A5AC474aC?chain=canto) | 574.031 | 0.00019% | 152 |
+| 476 | [0xeF60654aB2fA6A8eB26829574C9E63C4F29838a8](https://debank.com/profile/0xeF60654aB2fA6A8eB26829574C9E63C4F29838a8?chain=canto) | 540.748 | 0.00018% | 374, 442 |
+| 477 | [0xBA0C7d2c4595B926A29E42efFFfb3908994Dc5bD](https://debank.com/profile/0xBA0C7d2c4595B926A29E42efFFfb3908994Dc5bD?chain=canto) | 526.74 | 0.00018% | 641 |
+| 478 | [0xE72627a8B89321451BBF429306d759c34458Aac2](https://debank.com/profile/0xE72627a8B89321451BBF429306d759c34458Aac2?chain=canto) | 512.799 | 0.00017% | 638 |
+| 479 | [0x6177c63b29199592e352619e0DE5Ae84F5C296A3](https://debank.com/profile/0x6177c63b29199592e352619e0DE5Ae84F5C296A3?chain=canto) | 499.652 | 0.00017% | 404 |
+| 480 | [0x0D69BF20A4A00cbebC569E4beF27a78DcB4C0880](https://debank.com/profile/0x0D69BF20A4A00cbebC569E4beF27a78DcB4C0880?chain=canto) | 477.785 | 0.00016% | 206, 562 |
+| 481 | [0x35aA3f733958b7416669303945093C98819F77A6](https://debank.com/profile/0x35aA3f733958b7416669303945093C98819F77A6?chain=canto) | 477.155 | 0.00016% | 755 |
+| 482 | [0x0e42d7887e4Dfd681Fe295BeC85729C0420E0ae0](https://debank.com/profile/0x0e42d7887e4Dfd681Fe295BeC85729C0420E0ae0?chain=canto) | 472.387 | 0.00016% | 303, 626 |
+| 483 | [0xc9b79773299CA2fa7BFB11a537ee33502495AaDa](https://debank.com/profile/0xc9b79773299CA2fa7BFB11a537ee33502495AaDa?chain=canto) | 463.461 | 0.00015% | 1057 |
+| 484 | [0x5DaF1e55ef58410FA79c4AB1F2c1623F740530b6](https://debank.com/profile/0x5DaF1e55ef58410FA79c4AB1F2c1623F740530b6?chain=canto) | 439.726 | 0.00015% | 504 |
+| 485 | [0x3a6Fd4CCD8908271601a34892EBc7569b3f2F932](https://debank.com/profile/0x3a6Fd4CCD8908271601a34892EBc7569b3f2F932?chain=canto) | 437.234 | 0.00015% | 773 |
+| 486 | [0x3214e141bdAe08Be1f382A885cf3d2a448A5E780](https://debank.com/profile/0x3214e141bdAe08Be1f382A885cf3d2a448A5E780?chain=canto) | 435.734 | 0.00014% | 646 |
+| 487 | [0xd0D004B4ce867785D9aB4C684f0497680AA7B6Ae](https://debank.com/profile/0xd0D004B4ce867785D9aB4C684f0497680AA7B6Ae?chain=canto) | 427.311 | 0.00014% | 381 |
+| 488 | [0x2d7D5a9AD74F16d310Ab59dC676e9978a1CeDa02](https://debank.com/profile/0x2d7D5a9AD74F16d310Ab59dC676e9978a1CeDa02?chain=canto) | 410.674 | 0.00014% | 547 |
+| 489 | [0xD7bb2EeE591CE19A54636600936eAB8a40f5a65C](https://debank.com/profile/0xD7bb2EeE591CE19A54636600936eAB8a40f5a65C?chain=canto) | 407.392 | 0.00014% | 274, 676 |
+| 490 | [0x8450A7852495DaFe063C3E436d0750698777965C](https://debank.com/profile/0x8450A7852495DaFe063C3E436d0750698777965C?chain=canto) | 404.594 | 0.00013% | 595 |
+| 491 | [0x1f7D588333431870F107210FEb039df470d5Fe3C](https://debank.com/profile/0x1f7D588333431870F107210FEb039df470d5Fe3C?chain=canto) | 400.625 | 0.00013% | 698 |
+| 492 | [0x6a4a7ACb12032Ee8775FEF305366873975b5367D](https://debank.com/profile/0x6a4a7ACb12032Ee8775FEF305366873975b5367D?chain=canto) | 393.979 | 0.00013% | 601 |
+| 493 | [0x29F5597A9d3e665C6C089Ca040408478aFE210C6](https://debank.com/profile/0x29F5597A9d3e665C6C089Ca040408478aFE210C6?chain=canto) | 347.353 | 0.00012% | 485 |
+| 494 | [0x772d7bF0d57Ff35e26AaB02efa0a1dDB3d4Ba35b](https://debank.com/profile/0x772d7bF0d57Ff35e26AaB02efa0a1dDB3d4Ba35b?chain=canto) | 345.751 | 0.00012% | 518 |
+| 495 | [0x71627841545a504562Bd5a89d24ee3074FA53c83](https://debank.com/profile/0x71627841545a504562Bd5a89d24ee3074FA53c83?chain=canto) | 339.392 | 0.00011% | 528 |
+| 496 | [0x1C86E98A4CC451db8A502f31c14327D2B7CEC123](https://debank.com/profile/0x1C86E98A4CC451db8A502f31c14327D2B7CEC123?chain=canto) | 320.874 | 0.00011% | 171 |
+| 497 | [0x355c08523E565b639fDC12dBCa1FdCE13f3cc880](https://debank.com/profile/0x355c08523E565b639fDC12dBCa1FdCE13f3cc880?chain=canto) | 306.055 | 0.00010% | 597 |
+| 498 | [0x7FfbEb62Cf6E5E53F898bA52d66d29Ca3B2851fD](https://debank.com/profile/0x7FfbEb62Cf6E5E53F898bA52d66d29Ca3B2851fD?chain=canto) | 282.276 | 0.00009% | 325 |
+| 499 | [0xEfa4c696Ea2505ec038c9dDC849b1bf817d7f69d](https://debank.com/profile/0xEfa4c696Ea2505ec038c9dDC849b1bf817d7f69d?chain=canto) | 282.276 | 0.00009% | 326 |
+| 500 | [0x128e3B064B40B63d2F8d68d912C78E79AcE70291](https://debank.com/profile/0x128e3B064B40B63d2F8d68d912C78E79AcE70291?chain=canto) | 265.427 | 0.00009% | 519 |
+| 501 | [0xfD102a750C595d95ACE7bDBeD17E8b444891610d](https://debank.com/profile/0xfD102a750C595d95ACE7bDBeD17E8b444891610d?chain=canto) | 262.17 | 0.00009% | 296 |
+| 502 | [0xe2Fb93aED14270FF72F710AF377Ca9136E0FE758](https://debank.com/profile/0xe2Fb93aED14270FF72F710AF377Ca9136E0FE758?chain=canto) | 259.489 | 0.00009% | 781 |
+| 503 | [0xa4AE53bdC6b7f86dB664E0E5b75B98d662B757d7](https://debank.com/profile/0xa4AE53bdC6b7f86dB664E0E5b75B98d662B757d7?chain=canto) | 244.984 | 0.00008% | 687 |
+| 504 | [0x249A49d3201C1B92a1029Aab1BC76a6Ca8f5FFf0](https://debank.com/profile/0x249A49d3201C1B92a1029Aab1BC76a6Ca8f5FFf0?chain=canto) | 232.533 | 0.00008% | 180 |
+| 505 | [0x4A401Ee7Fef089CD20D183fE2510d7BD38294728](https://debank.com/profile/0x4A401Ee7Fef089CD20D183fE2510d7BD38294728?chain=canto) | 225.793 | 0.00008% | 216 |
+| 506 | [0xd264bC31A13D962c22967f02e44DAdD8Bbf25232](https://debank.com/profile/0xd264bC31A13D962c22967f02e44DAdD8Bbf25232?chain=canto) | 224.67 | 0.00007% | 146 |
+| 507 | [0x211a42CE37b688B50dC1a7E91Cf321970274A50f](https://debank.com/profile/0x211a42CE37b688B50dC1a7E91Cf321970274A50f?chain=canto) | 220.836 | 0.00007% | 712 |
+| 508 | [0x8a9BcDc68D19e111663D6c986caf1dA1edA1c304](https://debank.com/profile/0x8a9BcDc68D19e111663D6c986caf1dA1edA1c304?chain=canto) | 211.872 | 0.00007% | 618 |
+| 509 | [0x1b77b7C80397ac33831447701f9F85a15863a4Dc](https://debank.com/profile/0x1b77b7C80397ac33831447701f9F85a15863a4Dc?chain=canto) | 211.268 | 0.00007% | 606 |
+| 510 | [0x37bBed10611e5e8b7cB727B85a088a39BeD3Eb0C](https://debank.com/profile/0x37bBed10611e5e8b7cB727B85a088a39BeD3Eb0C?chain=canto) | 211.197 | 0.00007% | 581 |
+| 511 | [0x81db2dFD33b24419F0F715e331f678411Eb1ec30](https://debank.com/profile/0x81db2dFD33b24419F0F715e331f678411Eb1ec30?chain=canto) | 208.046 | 0.00007% | 521 |
+| 512 | [0xE1518a5ae4C762a0Dd7773B987F6BD8bd7cA155c](https://debank.com/profile/0xE1518a5ae4C762a0Dd7773B987F6BD8bd7cA155c?chain=canto) | 200.637 | 0.00007% | 437 |
+| 513 | [0x576Eb27cBf54518D3De5a38eA7746ef6A9b8b5E6](https://debank.com/profile/0x576Eb27cBf54518D3De5a38eA7746ef6A9b8b5E6?chain=canto) | 200.146 | 0.00007% | 515 |
+| 514 | [0x501Ee58aeF617A1B1bcFd16Cf12D0bC8f4F20F59](https://debank.com/profile/0x501Ee58aeF617A1B1bcFd16Cf12D0bC8f4F20F59?chain=canto) | 198.732 | 0.00007% | 1137 |
+| 515 | [0xB6c3e778FbfC698f5B3fc941fA4727525141E0Ca](https://debank.com/profile/0xB6c3e778FbfC698f5B3fc941fA4727525141E0Ca?chain=canto) | 198.164 | 0.00007% | 654 |
+| 516 | [0x49a3Aab8EBe80725646937b9E9f6f8b4e9867bfe](https://debank.com/profile/0x49a3Aab8EBe80725646937b9E9f6f8b4e9867bfe?chain=canto) | 197.728 | 0.00007% | 717 |
+| 517 | [0xaA01dD01ea027C3880204caA7572101B34baD366](https://debank.com/profile/0xaA01dD01ea027C3880204caA7572101B34baD366?chain=canto) | 186.687 | 0.00006% | 637 |
+| 518 | [0x671785E5326748dDe318b3D57051A1a78b35181C](https://debank.com/profile/0x671785E5326748dDe318b3D57051A1a78b35181C?chain=canto) | 185.81 | 0.00006% | 622 |
+| 519 | [0xAACE084Fa283632AD4471B9E2C84D2f4d376d0aE](https://debank.com/profile/0xAACE084Fa283632AD4471B9E2C84D2f4d376d0aE?chain=canto) | 184.989 | 0.00006% | 363, 480 |
+| 520 | [0x30B5a6e6f54507E0DEE280923234204B6A82664A](https://debank.com/profile/0x30B5a6e6f54507E0DEE280923234204B6A82664A?chain=canto) | 183.005 | 0.00006% | 158 |
+| 521 | [0x6969694cF766A71A1074654496C343BafE133FF8](https://debank.com/profile/0x6969694cF766A71A1074654496C343BafE133FF8?chain=canto) | 181.127 | 0.00006% | 293, 591 |
+| 522 | [0x6A8B2c8dEb5012014b76FB7Eb08CA3B6EAD840A3](https://debank.com/profile/0x6A8B2c8dEb5012014b76FB7Eb08CA3B6EAD840A3?chain=canto) | 177.943 | 0.00006% | 690 |
+| 523 | [0x97c98D6ab8DBbfe6ba464BD7a849d376DA1bB540](https://debank.com/profile/0x97c98D6ab8DBbfe6ba464BD7a849d376DA1bB540?chain=canto) | 174.313 | 0.00006% | 195 |
+| 524 | [0xAec52cAD1e7b8f3C21F38a312fA3998839D3c2C8](https://debank.com/profile/0xAec52cAD1e7b8f3C21F38a312fA3998839D3c2C8?chain=canto) | 169.787 | 0.00006% | 631 |
+| 525 | [0x54BA3FF9dDbD2dEE95CDA54e863b07B0cdAD2eE4](https://debank.com/profile/0x54BA3FF9dDbD2dEE95CDA54e863b07B0cdAD2eE4?chain=canto) | 157.781 | 0.00005% | 451 |
+| 526 | [0x46822E4246a4a414459A2FDA91467cE96408f1Bc](https://debank.com/profile/0x46822E4246a4a414459A2FDA91467cE96408f1Bc?chain=canto) | 153.398 | 0.00005% | 366 |
+| 527 | [0x707c4603FB72996FF95AB91f571516aFC0F3Fe1b](https://debank.com/profile/0x707c4603FB72996FF95AB91f571516aFC0F3Fe1b?chain=canto) | 149.444 | 0.00005% | 120, 218, 230 |
+| 528 | [0xCb59280EB3983a4221263343EF184D2D0189De17](https://debank.com/profile/0xCb59280EB3983a4221263343EF184D2D0189De17?chain=canto) | 148.282 | 0.00005% | 150 |
+| 529 | [0x41a6ac7f4e4DBfFEB934f95F1Db58B68C76Dc4dF](https://debank.com/profile/0x41a6ac7f4e4DBfFEB934f95F1Db58B68C76Dc4dF?chain=canto) | 142.101 | 0.00005% | 130, 585 |
+| 530 | [0xe7A4Dd3f2B5a2F0d6c0Cbe42e0176bDd00541851](https://debank.com/profile/0xe7A4Dd3f2B5a2F0d6c0Cbe42e0176bDd00541851?chain=canto) | 137.388 | 0.00005% | 360, 693 |
+| 531 | [0xE7A1C621Ed75EC40fe4c86605e60d2851287D14D](https://debank.com/profile/0xE7A1C621Ed75EC40fe4c86605e60d2851287D14D?chain=canto) | 137.049 | 0.00005% | 177 |
+| 532 | [0x79F45626a89f47D3E49FE7c9cf24f3545F8526C3](https://debank.com/profile/0x79F45626a89f47D3E49FE7c9cf24f3545F8526C3?chain=canto) | 129.921 | 0.00004% | 362 |
+| 533 | [0xC81484137F6FC2Fb9115d176Ce54AbD4F2FA7e6b](https://debank.com/profile/0xC81484137F6FC2Fb9115d176Ce54AbD4F2FA7e6b?chain=canto) | 119.906 | 0.00004% | 496 |
+| 534 | [0x2E23E9a0cB139582E5012D2f07250E9A78208B9E](https://debank.com/profile/0x2E23E9a0cB139582E5012D2f07250E9A78208B9E?chain=canto) | 115.777 | 0.00004% | 478 |
+| 535 | [0xe124AC1D71aB774f31b884fefaFd126a66e5b935](https://debank.com/profile/0xe124AC1D71aB774f31b884fefaFd126a66e5b935?chain=canto) | 115.123 | 0.00004% | 388, 497, 757 |
+| 536 | [0xf4E2152c622260A1f1f8E8B8c4C3C5065165Ce55](https://debank.com/profile/0xf4E2152c622260A1f1f8E8B8c4C3C5065165Ce55?chain=canto) | 111.212 | 0.00004% | 272 |
+| 537 | [0xB26aE0Fb1C2A8f5f3cEEFA1dcc235f6B8260545b](https://debank.com/profile/0xB26aE0Fb1C2A8f5f3cEEFA1dcc235f6B8260545b?chain=canto) | 110.879 | 0.00004% | 505 |
+| 538 | [0x7556C2a4FbD77B91bB1bFBf647A4D2B36d63CF41](https://debank.com/profile/0x7556C2a4FbD77B91bB1bFBf647A4D2B36d63CF41?chain=canto) | 110.544 | 0.00004% | 666 |
+| 539 | [0xD016cCF7B485D658E063d2E7CB3Afef94Bf79548](https://debank.com/profile/0xD016cCF7B485D658E063d2E7CB3Afef94Bf79548?chain=canto) | 106.074 | 0.00004% | 266, 675 |
+| 540 | [0x00A62B6d805B2AB6A7a4B719691e68611f53a085](https://debank.com/profile/0x00A62B6d805B2AB6A7a4B719691e68611f53a085?chain=canto) | 102.211 | 0.00003% | 620 |
+| 541 | [0x7Cb552152e2b28F9f6911c51B69B0d8D1FADafe1](https://debank.com/profile/0x7Cb552152e2b28F9f6911c51B69B0d8D1FADafe1?chain=canto) | 101.101 | 0.00003% | 179, 187 |
+| 542 | [0x2809D5D8f8771c9278DdF0A2D452501ACe7d790A](https://debank.com/profile/0x2809D5D8f8771c9278DdF0A2D452501ACe7d790A?chain=canto) | 96.669 | 0.00003% | 590 |
+| 543 | [0x1296b0A992abc44675fF6800Dd86696DC9366490](https://debank.com/profile/0x1296b0A992abc44675fF6800Dd86696DC9366490?chain=canto) | 96.01 | 0.00003% | 852 |
+| 544 | [0x11B0AB779e48FcdbfD538de4C62B034a44D2aE5e](https://debank.com/profile/0x11B0AB779e48FcdbfD538de4C62B034a44D2aE5e?chain=canto) | 95.757 | 0.00003% | 1056 |
+| 545 | [0xF11E4b85246B28734DB56D54d0f81C8C4D8af8ef](https://debank.com/profile/0xF11E4b85246B28734DB56D54d0f81C8C4D8af8ef?chain=canto) | 94.506 | 0.00003% | 290 |
+| 546 | [0x50DF03f77FEF40aC999DF4329Eb037806ed687B4](https://debank.com/profile/0x50DF03f77FEF40aC999DF4329Eb037806ed687B4?chain=canto) | 94.092 | 0.00003% | 286 |
+| 547 | [0xCf43b38D5080ac6dfbbEd50B853e314152d2E84B](https://debank.com/profile/0xCf43b38D5080ac6dfbbEd50B853e314152d2E84B?chain=canto) | 92.754 | 0.00003% | 526 |
+| 548 | [0xA0A683Ef1cE94457F4c8dCb99AAa54aF54d5bc6C](https://debank.com/profile/0xA0A683Ef1cE94457F4c8dCb99AAa54aF54d5bc6C?chain=canto) | 87.002 | 0.00003% | 600 |
+| 549 | [0xd286a9bB11d2165915E3bf6D1c79aadEBe30f605](https://debank.com/profile/0xd286a9bB11d2165915E3bf6D1c79aadEBe30f605?chain=canto) | 85.094 | 0.00003% | 201 |
+| 550 | [0x801612E860e40612cfbbdEF0133A2Fb6938f2f73](https://debank.com/profile/0x801612E860e40612cfbbdEF0133A2Fb6938f2f73?chain=canto) | 84.752 | 0.00003% | 175, 697 |
+| 551 | [0x3850FAA53550bD0466b50F44892f92EaCE080457](https://debank.com/profile/0x3850FAA53550bD0466b50F44892f92EaCE080457?chain=canto) | 83.303 | 0.00003% | 471 |
+| 552 | [0x0DA9ea7Dc6E9E0C5DaEB13078C1cC6d6401B1AF8](https://debank.com/profile/0x0DA9ea7Dc6E9E0C5DaEB13078C1cC6d6401B1AF8?chain=canto) | 83.162 | 0.00003% | 527 |
+| 553 | [0x55e1490a1878D0B61811726e2cB96560022E764c](https://debank.com/profile/0x55e1490a1878D0B61811726e2cB96560022E764c?chain=canto) | 81.33 | 0.00003% | 196 |
+| 554 | [0x908E8E8084d660f8f9054AA8Ad1B31380d04B08F](https://debank.com/profile/0x908E8E8084d660f8f9054AA8Ad1B31380d04B08F?chain=canto) | 80.106 | 0.00003% | 208 |
+| 555 | [0xEFa9bEbE299dE7AcAECa6876E1E4f5508eEeF2db](https://debank.com/profile/0xEFa9bEbE299dE7AcAECa6876E1E4f5508eEeF2db?chain=canto) | 75.934 | 0.00003% | 235, 689, 783 |
+| 556 | [0x3A3faaA349aD27e428861365954bBF2D4F38Ef94](https://debank.com/profile/0x3A3faaA349aD27e428861365954bBF2D4F38Ef94?chain=canto) | 74.467 | 0.00002% | 439 |
+| 557 | [0xC26CD230129582b171F8F3Fdd640C5dbD94854E1](https://debank.com/profile/0xC26CD230129582b171F8F3Fdd640C5dbD94854E1?chain=canto) | 71.994 | 0.00002% | 520 |
+| 558 | [0x6d6DE2c03DCeb26E80AE2007a0B6e3D379C9C32a](https://debank.com/profile/0x6d6DE2c03DCeb26E80AE2007a0B6e3D379C9C32a?chain=canto) | 70.953 | 0.00002% | 517 |
+| 559 | [0x7e76d0C1128902324D5511D6a2De549712081B70](https://debank.com/profile/0x7e76d0C1128902324D5511D6a2De549712081B70?chain=canto) | 69.05 | 0.00002% | 847 |
+| 560 | [0xf622101E8f0e955ed714799aD17c21992c8F243b](https://debank.com/profile/0xf622101E8f0e955ed714799aD17c21992c8F243b?chain=canto) | 66.139 | 0.00002% | 447 |
+| 561 | [0x2385233abb910357e2b97A16D40e0443e53d0769](https://debank.com/profile/0x2385233abb910357e2b97A16D40e0443e53d0769?chain=canto) | 61.8 | 0.00002% | 864 |
+| 562 | [0xe0dDa4f11dA57F5b01D360072Ca1627Ea5bf93df](https://debank.com/profile/0xe0dDa4f11dA57F5b01D360072Ca1627Ea5bf93df?chain=canto) | 61.546 | 0.00002% | 655 |
+| 563 | [0xED20BC9f8BE737572d7e40237023C7A8FEA3449e](https://debank.com/profile/0xED20BC9f8BE737572d7e40237023C7A8FEA3449e?chain=canto) | 61.075 | 0.00002% | 112 |
+| 564 | [0x776CE1769dcD53f80537A1466a7fF7436F0D4E79](https://debank.com/profile/0x776CE1769dcD53f80537A1466a7fF7436F0D4E79?chain=canto) | 59.706 | 0.00002% | 860, 868 |
+| 565 | [0x7074E05C39b41EDd1C16478856b5de54B3ac67D6](https://debank.com/profile/0x7074E05C39b41EDd1C16478856b5de54B3ac67D6?chain=canto) | 58.117 | 0.00002% | 226, 265, 677 |
+| 566 | [0xbFB5458071867Bc00985BC6c13EE400327Ac5F97](https://debank.com/profile/0xbFB5458071867Bc00985BC6c13EE400327Ac5F97?chain=canto) | 57.727 | 0.00002% | 147 |
+| 567 | [0x9FfE162b9B7FBCa991840B936F95B40808A1a998](https://debank.com/profile/0x9FfE162b9B7FBCa991840B936F95B40808A1a998?chain=canto) | 56.628 | 0.00002% | 583 |
+| 568 | [0x71baFD458A46b3BE856C64cdFc25845c0cf9C6Ca](https://debank.com/profile/0x71baFD458A46b3BE856C64cdFc25845c0cf9C6Ca?chain=canto) | 56.597 | 0.00002% | 1060, 1061, 1106, 1108, 1109, 1111, 1113, 1114, 1120 |
+| 569 | [0x5D8A52e816b7A29789C32dD21A034caDDd2bC750](https://debank.com/profile/0x5D8A52e816b7A29789C32dD21A034caDDd2bC750?chain=canto) | 56.167 | 0.00002% | 264 |
+| 570 | [0x0000b1F187e5C260f8087B762eaE63ec8B0DaDF2](https://debank.com/profile/0x0000b1F187e5C260f8087B762eaE63ec8B0DaDF2?chain=canto) | 55.556 | 0.00002% | 671 |
+| 571 | [0x63565663169428048A4c69F278129D1214603B54](https://debank.com/profile/0x63565663169428048A4c69F278129D1214603B54?chain=canto) | 53.085 | 0.00002% | 491 |
+| 572 | [0xcada1A8378Ec627790433fcDe0F2a06Ec431d4C0](https://debank.com/profile/0xcada1A8378Ec627790433fcDe0F2a06Ec431d4C0?chain=canto) | 51.052 | 0.00002% | 912 |
+| 573 | [0x7896c3075E0dc2BC727cE34Df90f39985a21b264](https://debank.com/profile/0x7896c3075E0dc2BC727cE34Df90f39985a21b264?chain=canto) | 47.391 | 0.00002% | 814 |
+| 574 | [0x47af8Fe62Da2CaE766fF5BE512918ADcC21eC54B](https://debank.com/profile/0x47af8Fe62Da2CaE766fF5BE512918ADcC21eC54B?chain=canto) | 46.206 | 0.00002% | 603 |
+| 575 | [0xb1cCDD6208eE0E912665c2ECccC75Ae2a5AE227D](https://debank.com/profile/0xb1cCDD6208eE0E912665c2ECccC75Ae2a5AE227D?chain=canto) | 43.9 | 0.00001% | 503 |
+| 576 | [0xb0916C38861dCeef1A62A77887e573861FFb5d63](https://debank.com/profile/0xb0916C38861dCeef1A62A77887e573861FFb5d63?chain=canto) | 39.317 | 0.00001% | 229, 241 |
+| 577 | [0xD3198D541D9a3ECdAC8c33620E177CE1FEdCAb68](https://debank.com/profile/0xD3198D541D9a3ECdAC8c33620E177CE1FEdCAb68?chain=canto) | 38.971 | 0.00001% | 767 |
+| 578 | [0xe21C87ea23491c4DD794c6D0103c50De6b695B6D](https://debank.com/profile/0xe21C87ea23491c4DD794c6D0103c50De6b695B6D?chain=canto) | 38.925 | 0.00001% | 629 |
+| 579 | [0xD1dC73624801E480065070D76Cb0C9D2b010Bd02](https://debank.com/profile/0xD1dC73624801E480065070D76Cb0C9D2b010Bd02?chain=canto) | 38.759 | 0.00001% | 658 |
+| 580 | [0x0C7694d5CB77E75C93C8FEde6145a0bD39b2f8F4](https://debank.com/profile/0x0C7694d5CB77E75C93C8FEde6145a0bD39b2f8F4?chain=canto) | 38.146 | 0.00001% | 670 |
+| 581 | [0x8DE3c3891268502F77DB7E876d727257DEc0F852](https://debank.com/profile/0x8DE3c3891268502F77DB7E876d727257DEc0F852?chain=canto) | 37.801 | 0.00001% | 263 |
+| 582 | [0x2Ba838E42126aC349D01c3D1FAc85a36266151a4](https://debank.com/profile/0x2Ba838E42126aC349D01c3D1FAc85a36266151a4?chain=canto) | 34.636 | 0.00001% | 116 |
+| 583 | [0x27681edf945f8CD3B72E97CF3b869bFA3dA2eEDD](https://debank.com/profile/0x27681edf945f8CD3B72E97CF3b869bFA3dA2eEDD?chain=canto) | 32.932 | 0.00001% | 304 |
+| 584 | [0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3](https://debank.com/profile/0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3?chain=canto) | 32.874 | 0.00001% | 678 |
+| 585 | [0xD26eA7412FB75D5E4c8c9F3EE7b1dfFf64440eE8](https://debank.com/profile/0xD26eA7412FB75D5E4c8c9F3EE7b1dfFf64440eE8?chain=canto) | 29.207 | 0.00001% | 255 |
+| 586 | [0x090476500Ca188fD2aDa370bB1B4e020f86E8EAF](https://debank.com/profile/0x090476500Ca188fD2aDa370bB1B4e020f86E8EAF?chain=canto) | 28.806 | 0.00001% | 310, 636 |
+| 587 | [0xc742a9458c4Cc6f6498007ffC81266Cd3a3f578A](https://debank.com/profile/0xc742a9458c4Cc6f6498007ffC81266Cd3a3f578A?chain=canto) | 26.96 | 0.00001% | 125 |
+| 588 | [0x5e0a088942EC09C9Ea98aE237625f063A3BeD237](https://debank.com/profile/0x5e0a088942EC09C9Ea98aE237625f063A3BeD237?chain=canto) | 24.66 | 0.00001% | 284 |
+| 589 | [0x4b3aa773F44e620cBE3d2AFfe0dc2c25eb72e3Df](https://debank.com/profile/0x4b3aa773F44e620cBE3d2AFfe0dc2c25eb72e3Df?chain=canto) | 24.263 | 0.00001% | 875 |
+| 590 | [0x94c6797865316122742BB35E9AFE42B0DA8F37E4](https://debank.com/profile/0x94c6797865316122742BB35E9AFE42B0DA8F37E4?chain=canto) | 20.927 | 0.00001% | 525 |
+| 591 | [0xC9D1708BeE78944F5c45E301405C1d34ca866FA6](https://debank.com/profile/0xC9D1708BeE78944F5c45E301405C1d34ca866FA6?chain=canto) | 20.136 | 0.00001% | 307 |
+| 592 | [0xbCA35347207Aef8024dCf1E518DD75543523467E](https://debank.com/profile/0xbCA35347207Aef8024dCf1E518DD75543523467E?chain=canto) | 20.07 | 0.00001% | 306 |
+| 593 | [0xB393F3777f6c9715aA5746e540497704286C2873](https://debank.com/profile/0xB393F3777f6c9715aA5746e540497704286C2873?chain=canto) | 19.995 | 0.00001% | 305 |
+| 594 | [0x859Fc918Cf1322686FeC52A30E4A9eA388DF876D](https://debank.com/profile/0x859Fc918Cf1322686FeC52A30E4A9eA388DF876D?chain=canto) | 16.91 | 0.00001% | 257, 691 |
+| 595 | [0x83e6FB0845Dd795A81FB2315154389bF1C8129B9](https://debank.com/profile/0x83e6FB0845Dd795A81FB2315154389bF1C8129B9?chain=canto) | 13.172 | 0.00000% | 512 |
+| 596 | [0xA1a153CdF49b83f8BEaf6afED7A27B7d0A37174e](https://debank.com/profile/0xA1a153CdF49b83f8BEaf6afED7A27B7d0A37174e?chain=canto) | 13.111 | 0.00000% | 313, 640 |
+| 597 | [0xb4dA2aB44E2f418F3d5027E602e409aD9113C6bf](https://debank.com/profile/0xb4dA2aB44E2f418F3d5027E602e409aD9113C6bf?chain=canto) | 12.921 | 0.00000% | 566 |
+| 598 | [0x079F6b25092850b0b0A7f1c52AE9e01A9f66583e](https://debank.com/profile/0x079F6b25092850b0b0A7f1c52AE9e01A9f66583e?chain=canto) | 12.746 | 0.00000% | 650 |
+| 599 | [0x75592081D5FC1c38d2da8098dfE535CaDBe39425](https://debank.com/profile/0x75592081D5FC1c38d2da8098dfE535CaDBe39425?chain=canto) | 11.233 | 0.00000% | 261 |
+| 600 | [0xe377F29953ca1310BaBA1F1D92F7e720eEdE144a](https://debank.com/profile/0xe377F29953ca1310BaBA1F1D92F7e720eEdE144a?chain=canto) | 10.432 | 0.00000% | 682 |
+| 601 | [0x65b8ee88Cd729b00c574884f3404678bAc479dab](https://debank.com/profile/0x65b8ee88Cd729b00c574884f3404678bAc479dab?chain=canto) | 9.649 | 0.00000% | 877 |
+| 602 | [0xEF4a52d5483049B37cB883539d1B380eeD80a598](https://debank.com/profile/0xEF4a52d5483049B37cB883539d1B380eeD80a598?chain=canto) | 9.577 | 0.00000% | 1055 |
+| 603 | [0xd4A03cE230616680574F177095C07433E3A3B992](https://debank.com/profile/0xd4A03cE230616680574F177095C07433E3A3B992?chain=canto) | 9.242 | 0.00000% | 915 |
+| 604 | [0xf6b9Cb280Ae3c5dd5eC22D7A1A2A7f5F0a1AE879](https://debank.com/profile/0xf6b9Cb280Ae3c5dd5eC22D7A1A2A7f5F0a1AE879?chain=canto) | 9.083 | 0.00000% | 653 |
+| 605 | [0xD63154aBc9c6655626F16F0AED41c2e958410724](https://debank.com/profile/0xD63154aBc9c6655626F16F0AED41c2e958410724?chain=canto) | 8.121 | 0.00000% | 867 |
+| 606 | [0xd3Da55c0B6AEcc956A37f02c6ee7BDf779130875](https://debank.com/profile/0xd3Da55c0B6AEcc956A37f02c6ee7BDf779130875?chain=canto) | 7.395 | 0.00000% | 616 |
+| 607 | [0x4FcDA1bd88776882Ee372EBAE8e6d05919E7FDD3](https://debank.com/profile/0x4FcDA1bd88776882Ee372EBAE8e6d05919E7FDD3?chain=canto) | 7.367 | 0.00000% | 718 |
+| 608 | [0x73495E34A5577a390753ba344A48D8E731A2Dd32](https://debank.com/profile/0x73495E34A5577a390753ba344A48D8E731A2Dd32?chain=canto) | 7.315 | 0.00000% | 445 |
+| 609 | [0xb314DA0A985d4deD335eB15454417A536AD41651](https://debank.com/profile/0xb314DA0A985d4deD335eB15454417A536AD41651?chain=canto) | 6.477 | 0.00000% | 633 |
+| 610 | [0xbb022B95a85FFf259CE6E60D6373148f015a1d59](https://debank.com/profile/0xbb022B95a85FFf259CE6E60D6373148f015a1d59?chain=canto) | 5.264 | 0.00000% | 853 |
+| 611 | [0x95f6f16b8E45039A5Aa679711B272BFc6B7805C6](https://debank.com/profile/0x95f6f16b8E45039A5Aa679711B272BFc6B7805C6?chain=canto) | 4.997 | 0.00000% | 385 |
+| 612 | [0x3653442Ca5028E3CCaAe5192F054849E30569148](https://debank.com/profile/0x3653442Ca5028E3CCaAe5192F054849E30569148?chain=canto) | 4.988 | 0.00000% | 719 |
+| 613 | [0x3d1A613614b4B19115eE9d1DcddD47C629A25022](https://debank.com/profile/0x3d1A613614b4B19115eE9d1DcddD47C629A25022?chain=canto) | 4.742 | 0.00000% | 1073 |
+| 614 | [0x9986cda2891E7963CC75f50FC4bB360B47a85FaB](https://debank.com/profile/0x9986cda2891E7963CC75f50FC4bB360B47a85FaB?chain=canto) | 4.705 | 0.00000% | 330 |
+| 615 | [0x7A8B83DaC270463895233Bb3932A799c12919f27](https://debank.com/profile/0x7A8B83DaC270463895233Bb3932A799c12919f27?chain=canto) | 3.932 | 0.00000% | 267 |
+| 616 | [0x054c2F551B2434caf63423252d7f5Ac1f2bcFFDe](https://debank.com/profile/0x054c2F551B2434caf63423252d7f5Ac1f2bcFFDe?chain=canto) | 3.37 | 0.00000% | 317, 680 |
+| 617 | [0x31F1e01763Be70c0bA7A5F0a4314B4ff79d5Bea4](https://debank.com/profile/0x31F1e01763Be70c0bA7A5F0a4314B4ff79d5Bea4?chain=canto) | 2.942 | 0.00000% | 679 |
+| 618 | [0x9105F56F58A9cDB0e2DFb8696197CFAF3E45b9F0](https://debank.com/profile/0x9105F56F58A9cDB0e2DFb8696197CFAF3E45b9F0?chain=canto) | 2.719 | 0.00000% | 262 |
+| 619 | [0x63906B807e91c3cB5c18D28B76C5Be90E488e5EA](https://debank.com/profile/0x63906B807e91c3cB5c18D28B76C5Be90E488e5EA?chain=canto) | 2.494 | 0.00000% | 649 |
+| 620 | [0x7d30B785901A02A18aef0210f828E81C0cb82a9E](https://debank.com/profile/0x7d30B785901A02A18aef0210f828E81C0cb82a9E?chain=canto) | 2.448 | 0.00000% | 703 |
+| 621 | [0x4c890Dc20f7D99D0135396A08d07d1518a45a1DD](https://debank.com/profile/0x4c890Dc20f7D99D0135396A08d07d1518a45a1DD?chain=canto) | 2.064 | 0.00000% | 245, 289 |
+| 622 | [0x2726E0F1518721791833b2836c56Bc99014bEF7F](https://debank.com/profile/0x2726E0F1518721791833b2836c56Bc99014bEF7F?chain=canto) | 1.946 | 0.00000% | 683 |
+| 623 | [0x1A5F6f16B81627fF22C36614D7ba59A4EFC2E206](https://debank.com/profile/0x1A5F6f16B81627fF22C36614D7ba59A4EFC2E206?chain=canto) | 1.93 | 0.00000% | 342 |
+| 624 | [0x9c966b06b5E422B27D2Ac1967e8387Fc5deB75cb](https://debank.com/profile/0x9c966b06b5E422B27D2Ac1967e8387Fc5deB75cb?chain=canto) | 1.872 | 0.00000% | 917 |
+| 625 | [0xb00d51d3992BC412f783D0e21EDcf952Ce651D91](https://debank.com/profile/0xb00d51d3992BC412f783D0e21EDcf952Ce651D91?chain=canto) | 1.707 | 0.00000% | 137 |
+| 626 | [0x9BDbdb4A8f7f816C87a67F5281484ED902C6b942](https://debank.com/profile/0x9BDbdb4A8f7f816C87a67F5281484ED902C6b942?chain=canto) | 1.685 | 0.00000% | 271 |
+| 627 | [0x17782D2C9660861c70D397697dAd8700B8AdbE9D](https://debank.com/profile/0x17782D2C9660861c70D397697dAd8700B8AdbE9D?chain=canto) | 1.42 | 0.00000% | 681 |
+| 628 | [0xc1c63A197cBD2b11D987dadc3e5cc5794e5A9AE6](https://debank.com/profile/0xc1c63A197cBD2b11D987dadc3e5cc5794e5A9AE6?chain=canto) | 1.353 | 0.00000% | 831 |
+| 629 | [0xFe202706E36F31aFBaf4b4543C2A8bBa4ddB2deE](https://debank.com/profile/0xFe202706E36F31aFBaf4b4543C2A8bBa4ddB2deE?chain=canto) | 1.253 | 0.00000% | 608 |
+| 630 | [0xd0cC9738866cd82B237A14c92ac60577602d6c18](https://debank.com/profile/0xd0cC9738866cd82B237A14c92ac60577602d6c18?chain=canto) | 1.123 | 0.00000% | 102 |
+| 631 | [0x82619EDe0ac5d964a0711613cFf5446ED3fF85Dc](https://debank.com/profile/0x82619EDe0ac5d964a0711613cFf5446ED3fF85Dc?chain=canto) | 1.123 | 0.00000% | 119 |
+| 632 | [0xc94527FdE2d01dd166991231120dCC2A6F09c303](https://debank.com/profile/0xc94527FdE2d01dd166991231120dCC2A6F09c303?chain=canto) | 0.97 | 0.00000% | 943 |
+| 633 | [0xcd69E59C6f4079c997dEf5e46bF18f74DF1c4b9a](https://debank.com/profile/0xcd69E59C6f4079c997dEf5e46bF18f74DF1c4b9a?chain=canto) | 0.856 | 0.00000% | 316 |
+| 634 | [0x7da07CB7a0538Cd46f8234F8f61e57404c21DCe1](https://debank.com/profile/0x7da07CB7a0538Cd46f8234F8f61e57404c21DCe1?chain=canto) | 0.196 | 0.00000% | 923 |
+| 635 | [0x618d78142F87A08Ba92132C5E9204298ef665a55](https://debank.com/profile/0x618d78142F87A08Ba92132C5E9204298ef665a55?chain=canto) | 0.196 | 0.00000% | 922 |
+| 636 | [0x5d5EDf52d270BD73011b6200494617775Bb85006](https://debank.com/profile/0x5d5EDf52d270BD73011b6200494617775Bb85006?chain=canto) | 0.195 | 0.00000% | 924 |
+| 637 | [0x4a83A2d95bB61d505EeE428478419EA4799345cd](https://debank.com/profile/0x4a83A2d95bB61d505EeE428478419EA4799345cd?chain=canto) | 0.187 | 0.00000% | 918 |
+| 638 | [0x0000000000000000000000000000000000000000](https://debank.com/profile/0x0000000000000000000000000000000000000000?chain=canto) | 0 | 0.00000% | 57, 99, 124, 129, 191, 205, 209, 213, 236, 237, 238, 244, 248, 256, 268, 269, 270, 278, 288, 297, 298, 299, 302, 311, 312, 331, 332, 339, 341, 346, 347, 350, 351, 353, 354, 359, 364, 365, 368, 370, 372, 373, 382, 384, 387, 389, 394, 401, 413, 417, 419, 432, 435, 448, 449, 450, 453, 457, 458, 462, 464, 476, 483, 513, 529, 531, 532, 535, 537, 541, 544, 546, 550, 552, 553, 561, 589, 593, 625, 644, 647, 651, 661, 667, 699, 723, 730, 732, 734, 737, 742, 744, 745, 748, 749, 752, 753, 793, 794, 795, 796, 800, 802, 803, 806, 807, 809, 810, 811, 813, 829, 832, 837, 839, 842, 849, 850, 856, 857, 865, 866, 869, 870, 871, 872, 882, 884, 885, 904, 908, 909, 910, 914, 916, 919, 920, 925, 926, 930, 931, 932, 933, 944, 954, 962, 963, 965, 966, 972, 973, 974, 981, 999, 1001, 1002, 1007, 1013, 1014, 1016, 1026, 1027, 1028, 1029, 1033, 1038, 1050, 1053, 1058, 1059, 1072, 1080, 1091, 1095, 1097, 1101, 1104, 1105, 1110, 1119, 1124, 1125, 1132, 1138, 1139, 1146 |
+| 639 | [0x04c523C581415Ee4853D8F220010234D1E7CC561](https://debank.com/profile/0x04c523C581415Ee4853D8F220010234D1E7CC561?chain=canto) | 0 | 0.00000% | 327 |
+| 640 | [0xe7Cdd6583b674AF8d10b89899b134C41846dA0bf](https://debank.com/profile/0xe7Cdd6583b674AF8d10b89899b134C41846dA0bf?chain=canto) | 0 | 0.00000% | 328 |
+| 641 | [0xd701E72C00c461f8Ceb19591c1760B42918ac7F9](https://debank.com/profile/0xd701E72C00c461f8Ceb19591c1760B42918ac7F9?chain=canto) | 0 | 0.00000% | 340 |
+| 642 | [0x96402c290A1d7B8DdE1A3172EB2684b55727666C](https://debank.com/profile/0x96402c290A1d7B8DdE1A3172EB2684b55727666C?chain=canto) | 0 | 0.00000% | 375, 376 |
+| 643 | [0xb75e6A898F4D7dD32EfEA8D27094432b0f90618D](https://debank.com/profile/0xb75e6A898F4D7dD32EfEA8D27094432b0f90618D?chain=canto) | 0 | 0.00000% | 741 |
+| 644 | [0x274949b0dB377742A46074f75749E953A8da45A7](https://debank.com/profile/0x274949b0dB377742A46074f75749E953A8da45A7?chain=canto) | 0 | 0.00000% | 770 |
+| 645 | [0x5B136c570057B8A24FbBfe4B9988e9F84a1df4c9](https://debank.com/profile/0x5B136c570057B8A24FbBfe4B9988e9F84a1df4c9?chain=canto) | 0 | 0.00000% | 798 |
+| 646 | [0x23269Ae20Ad7028734f89D17535770FEba5A994C](https://debank.com/profile/0x23269Ae20Ad7028734f89D17535770FEba5A994C?chain=canto) | 0 | 0.00000% | 815 |
+| 647 | [0x58bA57abce300a8f60f318318bC8e55cf2d2e7aF](https://debank.com/profile/0x58bA57abce300a8f60f318318bC8e55cf2d2e7aF?chain=canto) | 0 | 0.00000% | 816 |
+| 648 | [0x9bB46E25B9701Ef0674a068033b443434AB24596](https://debank.com/profile/0x9bB46E25B9701Ef0674a068033b443434AB24596?chain=canto) | 0 | 0.00000% | 817, 818, 819, 820, 821, 822, 823, 824, 825, 826 |
+| 649 | [0xA9a4FBB7da516cd9902eC69f759910Fd2A68df99](https://debank.com/profile/0xA9a4FBB7da516cd9902eC69f759910Fd2A68df99?chain=canto) | 0 | 0.00000% | 854 |
+| 650 | [0x9E4F9e32C9b4F9dCc0F52185aA4f6FAcA60fCaD4](https://debank.com/profile/0x9E4F9e32C9b4F9dCc0F52185aA4f6FAcA60fCaD4?chain=canto) | 0 | 0.00000% | 861 |
+| 651 | [0xbF41F3173c91cdcBa6bE8F2053D0b518de4aEC48](https://debank.com/profile/0xbF41F3173c91cdcBa6bE8F2053D0b518de4aEC48?chain=canto) | 0 | 0.00000% | 863 |
+| 652 | [0x9D8C9112384967260078F1161FF82E40c0Da81A5](https://debank.com/profile/0x9D8C9112384967260078F1161FF82E40c0Da81A5?chain=canto) | 0 | 0.00000% | 883 |
+| 653 | [0x3185EF019BA1C04B8d65eDB64c1c34C3eaE52271](https://debank.com/profile/0x3185EF019BA1C04B8d65eDB64c1c34C3eaE52271?chain=canto) | 0 | 0.00000% | 911 |
+| 654 | [0x45F0D20cC203520E754f59D8d6E806638714f948](https://debank.com/profile/0x45F0D20cC203520E754f59D8d6E806638714f948?chain=canto) | 0 | 0.00000% | 1004 |
+| 655 | [0x0C4Cad0A420520074C91983E315faba77EcBe493](https://debank.com/profile/0x0C4Cad0A420520074C91983E315faba77EcBe493?chain=canto) | 0 | 0.00000% | 1006 |
+| 656 | [0x5F72A78EC3C6778edD72715E0c394E1E44C3fDE4](https://debank.com/profile/0x5F72A78EC3C6778edD72715E0c394E1E44C3fDE4?chain=canto) | 0 | 0.00000% | 1018 |
+| 657 | [0xB5123919269DBb52823C27D05e7A58B99EE63f08](https://debank.com/profile/0xB5123919269DBb52823C27D05e7A58B99EE63f08?chain=canto) | 0 | 0.00000% | 1030 |
+| 658 | [0xDb414e0D262f9f0fdA3eD96bf68e02C9fCEA09cC](https://debank.com/profile/0xDb414e0D262f9f0fdA3eD96bf68e02C9fCEA09cC?chain=canto) | 0 | 0.00000% | 1039 |
