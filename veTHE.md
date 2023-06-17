@@ -2,8 +2,8 @@
 
 Total Owners: 1, Total NFTs: 1
 
-Last built: Fri, 16 Jun 2023 05:07:38 GMT
+Last built: Sat, 17 Jun 2023 05:07:13 GMT
 
 | Rank | Owner | Voting Power | Influence | NFTs Id |
 | --- | --- | --- | --- | --- |
-  | 1 | [0xAE1c38847Fb90A13a2a1D7E5552cCD80c62C6508](https://debank.com/profile/0xAE1c38847Fb90A13a2a1D7E5552cCD80c62C6508?chain=bsc) | 2,300,882.245 | 4.35425% | 1 |
+  | 1 | [0xAE1c38847Fb90A13a2a1D7E5552cCD80c62C6508](https://debank.com/profile/0xAE1c38847Fb90A13a2a1D7E5552cCD80c62C6508?chain=bsc) | 2,297,717.331 | 4.34080% | 1 |
