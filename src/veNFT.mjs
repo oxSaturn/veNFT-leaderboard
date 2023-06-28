@@ -60,7 +60,7 @@ export const zkSyncPublicClient = createPublicClient({
 
 export const bnbPublicClient = createPublicClient({
   chain: bsc,
-  transport: http("https://bsc-dataseed4.ninicoin.io", {
+  transport: http("https://rpc.ankr.com/bsc", {
     retryDelay: 1_000,
   }),
   batch: {
