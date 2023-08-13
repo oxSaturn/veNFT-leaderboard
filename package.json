@@ -11,7 +11,8 @@
     "ve:Velo": "node src/veVelo.mjs",
     "ve:VC": "node src/veVC.mjs",
     "ve:THE": "node src/veTHE.mjs",
-    "ve:BVM": "node src/veBVM.mjs"
+    "ve:BVM": "node src/veBVM.mjs",
+    "ve:PEARL": "node src/vePEARL.mjs"
   },
   "keywords": [],
   "author": "oxSaturn",

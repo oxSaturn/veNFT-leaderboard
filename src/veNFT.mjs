@@ -2,7 +2,7 @@ import { createPublicClient, formatUnits, http } from "viem";
 import { parseAbiItem } from "viem";
 import fs from "node:fs";
 import { abi } from "./abi.mjs";
-import { arbitrum, bsc, canto, fantom, optimism, zkSync, base } from "viem/chains";
+import { arbitrum, bsc, canto, fantom, optimism, zkSync, base, polygon } from "viem/chains";
 
 const batch = {
   multicall: {
@@ -73,6 +73,11 @@ export const bnbPublicClient = createPublicClient({
       wait: 1000,
     },
   },
+});
+
+export const polygonPublicClient = createPublicClient({
+  chain: polygon,
+  transport: http('https://polygon.llamarpc.com')
 });
 
 // different rpcs will support different chunk sizes

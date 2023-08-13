@@ -29,6 +29,10 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 - [Velodrome](veVelo.md)
 
+### Polygon
+
+- [Pearl](vePEARL.md)
+
 ### ZkSync Era
 
 - [Velocore](veVC.md)
