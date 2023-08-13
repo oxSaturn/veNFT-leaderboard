@@ -2,7 +2,7 @@ import { createPublicClient, formatUnits, http } from "viem";
 import { parseAbiItem } from "viem";
 import fs from "node:fs";
 import { abi } from "./abi.mjs";
-import { arbitrum, bsc, canto, fantom, optimism, zkSync } from "viem/chains";
+import { arbitrum, bsc, canto, fantom, optimism, zkSync, base } from "viem/chains";
 
 const batch = {
   multicall: {
@@ -51,6 +51,11 @@ export const optimismPublicClient = createPublicClient({
       wait: 4000, // 4s
     },
   },
+});
+
+export const basePublicClient = createPublicClient({
+  chain: base,
+  transport: http('https://mainnet.base.org'),
 });
 
 export const zkSyncPublicClient = createPublicClient({
