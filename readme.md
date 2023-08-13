@@ -9,6 +9,10 @@ Most protocols get their data updated daily, except for those on Optimism, where
 - [Chronos](veCHR.md)
 - [Ramses](veRAM.md)
 
+### Base
+
+- [Velocimeter](veBVM.md)
+
 ### BNB
 
 - [Thena](veTHE.md)
