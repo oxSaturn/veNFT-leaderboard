@@ -1,0 +1,24 @@
+name: npm run ve:PEARL
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # 8:00 AM UTC
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: npm install
+      - name: Run script
+        run: npm run ve:PEARL
+      - name: Commit changes
+        run: |
+          git config --global user.email "oxSaturn@proton.me"
+          git config --global user.name "oxSaturn"
+          git add .
+          git commit -m "Run ve:PEARL"
+          git push
