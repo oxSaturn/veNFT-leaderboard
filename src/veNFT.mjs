@@ -77,7 +77,7 @@ export const bnbPublicClient = createPublicClient({
 
 export const polygonPublicClient = createPublicClient({
   chain: polygon,
-  transport: http('https://polygon.llamarpc.com')
+  transport: http('https://rpc.ankr.com/polygon')
 });
 
 // different rpcs will support different chunk sizes
