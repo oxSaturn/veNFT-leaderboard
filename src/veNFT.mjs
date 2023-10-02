@@ -55,7 +55,7 @@ export const optimismPublicClient = createPublicClient({
 
 export const basePublicClient = createPublicClient({
   chain: base,
-  transport: http('https://mainnet.base.org'),
+  transport: http('https://rpc.notadegen.com/base'),
 });
 
 export const zkSyncPublicClient = createPublicClient({
