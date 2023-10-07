@@ -11,7 +11,7 @@ const batch = {
 };
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: http(),
+  transport: http('https://arbitrum.llamarpc.com'),
 });
 
 export const cantoPublicClient = createPublicClient({
