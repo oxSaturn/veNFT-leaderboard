@@ -13,6 +13,7 @@
     "ve:THE": "node src/veTHE.mjs",
     "ve:BVM": "node src/veBVM.mjs",
     "ve:PEARL": "node src/vePEARL.mjs"
+    "ve:SCALE": "node src/veSCALE.mjs"
   },
   "keywords": [],
   "author": "oxSaturn",
