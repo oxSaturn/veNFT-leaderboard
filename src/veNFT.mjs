@@ -1,4 +1,4 @@
-import { createPublicClient, formatUnits, http } from "viem";
+import { createPublicClient, formatUnits, http, webSocket } from "viem";
 import { parseAbiItem } from "viem";
 import fs from "node:fs";
 import { abi } from "./abi.mjs";
@@ -11,7 +11,7 @@ const batch = {
 };
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: http('https://arbitrum.llamarpc.com'),
+  transport: webSocket('wss://arbitrum-one.publicnode.com'),
 });
 
 export const cantoPublicClient = createPublicClient({
@@ -35,15 +35,9 @@ export const fantomPublicClient = createPublicClient({
   transport: http("https://rpc.fantom.network"),
 });
 
-// too many api limits on optimism
-// https://docs.blockpi.io/documentations/pricing
-// free 100,000,000
-// https://docs.blockpi.io/documentations/request-unit-ru/optimism-ru-table
-// eth_call 20 ru
-// eth_getLogs 75 ru
 export const optimismPublicClient = createPublicClient({
   chain: optimism,
-  transport: http("https://optimism.blockpi.network/v1/rpc/public", {
+  transport: webSocket("wss://optimism.publicnode.com", {
     retryDelay: 120_000, // 2m
   }),
   batch: {
