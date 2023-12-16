@@ -2,8 +2,8 @@
 
 Total Owners: 1, Total NFTs: 1
 
-Last built: Fri, 15 Dec 2023 06:16:42 GMT
+Last built: Sat, 16 Dec 2023 06:15:22 GMT
 
 | Rank | Owner | Voting Power | Influence | NFTs Id |
 | --- | --- | --- | --- | --- |
-  | 1 | [0xC5d4E462b96cC73283EB452B15147c17Af413313](https://debank.com/profile/0xC5d4E462b96cC73283EB452B15147c17Af413313?chain=canto) | 107,435.708 | 0.03606% | 1 |
+  | 1 | [0xC5d4E462b96cC73283EB452B15147c17Af413313](https://debank.com/profile/0xC5d4E462b96cC73283EB452B15147c17Af413313?chain=canto) | 107,352.295 | 0.03606% | 1 |
