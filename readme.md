@@ -13,6 +13,7 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 - [Velocimeter](veBVM.md)
 - [Equalizer](veSCALE.md)
+- [Aerodrome](veAERO.md)
 
 ### BNB
 
