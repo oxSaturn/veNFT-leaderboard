@@ -2,16 +2,36 @@ import { createPublicClient, formatUnits, http, webSocket } from "viem";
 import { parseAbiItem } from "viem";
 import fs from "node:fs";
 import { abi } from "./abi.mjs";
-import { arbitrum, bsc, canto, fantom, optimism, zkSync, base, polygon } from "viem/chains";
+import {
+  arbitrum,
+  bsc,
+  canto,
+  fantom,
+  optimism,
+  zkSync,
+  base,
+  polygon,
+  mantle,
+  avalanche,
+} from "viem/chains";
 
 const batch = {
   multicall: {
     wait: 16, // ms
   },
 };
+export const mantlePublicClient = createPublicClient({
+  chain: mantle,
+  transport: webSocket("wss://mantle.publicnode.com"),
+});
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: webSocket('wss://arbitrum-one.publicnode.com'),
+  transport: webSocket("wss://arbitrum-one.publicnode.com"),
+});
+
+export const avalanchePublicClient = createPublicClient({
+  chain: avalanche,
+  transport: webSocket("wss://avalanche-c-chain.publicnode.com"),
 });
 
 export const cantoPublicClient = createPublicClient({
@@ -49,7 +69,7 @@ export const optimismPublicClient = createPublicClient({
 
 export const basePublicClient = createPublicClient({
   chain: base,
-  transport: http('https://rpc.notadegen.com/base'),
+  transport: http("https://rpc.notadegen.com/base"),
 });
 
 export const zkSyncPublicClient = createPublicClient({
@@ -71,7 +91,7 @@ export const bnbPublicClient = createPublicClient({
 
 export const polygonPublicClient = createPublicClient({
   chain: polygon,
-  transport: http('https://rpc.ankr.com/polygon')
+  transport: http("https://rpc.ankr.com/polygon"),
 });
 
 // different rpcs will support different chunk sizes
