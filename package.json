@@ -7,7 +7,7 @@
     "ve:Equal": "node src/veEqual.mjs",
     "ve:RAM": "node src/veRAM.mjs",
     "ve:CHR": "node src/veCHR.mjs",
-    "ve:Flow": "node src/veFlow.mjs",
+    "ve:CVM": "node src/veCVM.mjs",
     "ve:Velo": "node src/veVelo.mjs",
     "ve:VC": "node src/veVC.mjs",
     "ve:THE": "node src/veTHE.mjs",

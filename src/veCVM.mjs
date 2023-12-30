@@ -1,7 +1,7 @@
 import { cantoPublicClient, getNFTs, writeMd } from './veNFT.mjs'
 
-const veContractAddress = '0x8E003242406FBa53619769F31606ef2Ed8A65C00'
+const veContractAddress = '0xA1B589FB7e04d19CEC391834131158f7F9d2D168'
 
 const data = await getNFTs(cantoPublicClient, veContractAddress)
 
-writeMd(data, 'veFlow.md', 'canto')
+writeMd(data, 'veCVM.md', 'canto')
