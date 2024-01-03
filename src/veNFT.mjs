@@ -79,14 +79,9 @@ export const zkSyncPublicClient = createPublicClient({
 
 export const bnbPublicClient = createPublicClient({
   chain: bsc,
-  transport: http("https://bsc-dataseed4.ninicoin.io", {
+  transport: webSocket("wss://bsc.publicnode.com", {
     retryDelay: 1_000,
-  }),
-  batch: {
-    multicall: {
-      wait: 1000,
-    },
-  },
+  })
 });
 
 export const polygonPublicClient = createPublicClient({
