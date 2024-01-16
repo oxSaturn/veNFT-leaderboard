@@ -52,7 +52,7 @@ export const cantoPublicClient = createPublicClient({
 
 export const fantomPublicClient = createPublicClient({
   chain: fantom,
-  transport: webSocket("wss://fantom.publicnode.com"),
+  transport: http("https://fantom.drpc.org"),
 });
 
 export const optimismPublicClient = createPublicClient({
