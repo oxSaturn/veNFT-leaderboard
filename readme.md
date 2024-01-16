@@ -26,6 +26,7 @@ Most protocols get their data updated daily, except for those on Optimism, where
 ### Fantom
 
 - [Equalizer](veEqual.md)
+- [Velocimeter](veFVM.md)
 
 ### Optimism
 
