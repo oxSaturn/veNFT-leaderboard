@@ -26,7 +26,7 @@ export const mantlePublicClient = createPublicClient({
 });
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: webSocket("wss://arbitrum-one.publicnode.com"),
+  transport: http("https://rpc.arb1.arbitrum.gateway.fm"),
 });
 
 export const avalanchePublicClient = createPublicClient({
