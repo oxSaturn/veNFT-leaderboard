@@ -26,7 +26,7 @@ export const mantlePublicClient = createPublicClient({
 });
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: http("https://rpc.arb1.arbitrum.gateway.fm"),
+  transport: http("https://arbitrum.llamarpc.com"),
 });
 
 export const avalanchePublicClient = createPublicClient({
