@@ -16,7 +16,8 @@
     "ve:SCALE": "node src/veSCALE.mjs",
     "ve:AERO": "node src/veAERO.mjs",
     "ve:FVM": "node src/veFVM.mjs",
-    "ve:HRA": "node src/veHRA.mjs"
+    "ve:HRA": "node src/veHRA.mjs",
+    "ve:Retro": "node src/veRetro.mjs"
   },
   "keywords": [],
   "author": "oxSaturn",

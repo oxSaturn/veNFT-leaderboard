@@ -1,4 +1,4 @@
-name: npm run ve:PEARL
+name: npm run ve:Retro
 
 on:
   schedule:
@@ -14,11 +14,11 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Run script
-        run: npm run ve:PEARL
+        run: npm run ve:Retro
       - name: Commit changes
         run: |
           git config --global user.email "oxSaturn@proton.me"
           git config --global user.name "oxSaturn"
           git add .
-          git commit -m "Run ve:PEARL"
+          git commit -m "Run ve:Retro"
           git push

@@ -35,7 +35,7 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 ### Polygon
 
-- [Pearl](vePEARL.md)
+- [Retro](veRetro.md)
 
 ### ZkSync Era
 
