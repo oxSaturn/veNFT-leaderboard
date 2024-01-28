@@ -13,6 +13,7 @@ import {
   polygon,
   mantle,
   avalanche,
+  linea,
 } from "viem/chains";
 
 const batch = {
@@ -20,13 +21,17 @@ const batch = {
     wait: 16, // ms
   },
 };
+export const lineaPublicClient = createPublicClient({
+  chain: linea,
+  transport: http("https://rpc.linea.build"),
+});
 export const mantlePublicClient = createPublicClient({
   chain: mantle,
   transport: webSocket("wss://mantle.publicnode.com"),
 });
 export const arbitrumPublicClient = createPublicClient({
   chain: arbitrum,
-  transport: http("https://arbitrum.llamarpc.com"),
+  transport: http("https://arbitrum.meowrpc.com"),
 });
 
 export const avalanchePublicClient = createPublicClient({
