@@ -74,7 +74,7 @@ export const optimismPublicClient = createPublicClient({
 
 export const basePublicClient = createPublicClient({
   chain: base,
-  transport: http("https://rpc.notadegen.com/base"),
+  transport: webSocket("wss://base.publicnode.com"),
 });
 
 export const zkSyncPublicClient = createPublicClient({
@@ -210,6 +210,7 @@ export async function getNFTs(
       acc[obj.owner].push(obj);
       return acc;
     }, {});
+
   return Object.entries(data)
     .sort((a, b) => {
       const aTotal = a[1].reduce((acc, obj) => acc + Number(obj.balance), 0);
