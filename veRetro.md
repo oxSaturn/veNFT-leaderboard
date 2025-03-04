@@ -2,7 +2,7 @@
 
 Total Owners: 1, Total NFTs: 1
 
-Last built: Sat, 25 Jan 2025 08:21:06 GMT
+Last built: Tue, 04 Mar 2025 08:21:57 GMT
 
 | Rank | Owner | Voting Power | Influence | NFTs Id |
 | --- | --- | --- | --- | --- |
