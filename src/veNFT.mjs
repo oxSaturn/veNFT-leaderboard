@@ -1,5 +1,6 @@
 import { createPublicClient, formatUnits, http, webSocket } from "viem";
 import { parseAbiItem } from "viem";
+import { defineChain } from "viem/chains/utils";
 import fs from "node:fs";
 import { abi } from "./abi.mjs";
 import {
@@ -14,7 +15,39 @@ import {
   mantle,
   avalanche,
   linea,
+  // sonic,
 } from "viem/chains";
+
+/**
+ * sonic is not supported in viem until v2.1.55 which would require
+ * a major version bump in this repo.
+ * https://github.com/wevm/viem/releases/tag/viem%402.21.55
+ */
+export const sonic = /*#__PURE__*/ defineChain({
+  id: 146,
+  name: "Sonic",
+  nativeCurrency: {
+    decimals: 18,
+    name: "Sonic",
+    symbol: "S",
+  },
+  rpcUrls: {
+    default: { http: ["https://rpc.soniclabs.com"] },
+  },
+  blockExplorers: {
+    default: {
+      name: "Sonic Explorer",
+      url: "https://sonicscan.org/",
+    },
+  },
+  contracts: {
+    multicall3: {
+      address: "0xca11bde05977b3631167028862be2a173976ca11",
+      blockCreated: 60,
+    },
+  },
+  testnet: false,
+});
 
 const batch = {
   multicall: {
@@ -60,6 +93,11 @@ export const fantomPublicClient = createPublicClient({
   transport: http("https://fantom.drpc.org"),
 });
 
+export const sonicPublicClient = createPublicClient({
+  chain: sonic,
+  transport: http("https://sonic.drpc.org"),
+});
+
 export const optimismPublicClient = createPublicClient({
   chain: optimism,
   transport: webSocket("wss://optimism.publicnode.com", {
@@ -86,7 +124,7 @@ export const bnbPublicClient = createPublicClient({
   chain: bsc,
   transport: webSocket("wss://bsc.publicnode.com", {
     retryDelay: 1_000,
-  })
+  }),
 });
 
 export const polygonPublicClient = createPublicClient({

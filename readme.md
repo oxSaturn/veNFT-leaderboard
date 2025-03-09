@@ -37,6 +37,10 @@ Most protocols get their data updated daily, except for those on Optimism, where
 
 - [Retro](veRetro.md)
 
+### Sonic
+
+- [Equalizer](veEqualSonic.md)
+
 ### ZkSync Era
 
 - [Velocore](veVC.md)
