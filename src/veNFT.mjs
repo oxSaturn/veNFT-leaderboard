@@ -1,9 +1,6 @@
 import { createPublicClient, formatUnits, http, webSocket } from "viem";
 import { parseAbiItem } from "viem";
-import { defineChain } from "viem/chains/utils";
-import fs from "node:fs";
-import { abi } from "./abi.mjs";
-import {
+import { 
   arbitrum,
   bsc,
   canto,
@@ -15,39 +12,10 @@ import {
   mantle,
   avalanche,
   linea,
-  // sonic,
+  sonic,
 } from "viem/chains";
-
-/**
- * sonic is not supported in viem until v2.1.55 which would require
- * a major version bump in this repo.
- * https://github.com/wevm/viem/releases/tag/viem%402.21.55
- */
-export const sonic = /*#__PURE__*/ defineChain({
-  id: 146,
-  name: "Sonic",
-  nativeCurrency: {
-    decimals: 18,
-    name: "Sonic",
-    symbol: "S",
-  },
-  rpcUrls: {
-    default: { http: ["https://rpc.soniclabs.com"] },
-  },
-  blockExplorers: {
-    default: {
-      name: "Sonic Explorer",
-      url: "https://sonicscan.org/",
-    },
-  },
-  contracts: {
-    multicall3: {
-      address: "0xca11bde05977b3631167028862be2a173976ca11",
-      blockCreated: 60,
-    },
-  },
-  testnet: false,
-});
+import fs from "node:fs";
+import { abi } from "./abi.mjs";
 
 const batch = {
   multicall: {
@@ -175,10 +143,11 @@ async function getMaxNFTId(
     }
   } catch (err) {
     console.log("something wrong", err);
-    // // sleep 1 min
-    // await new Promise((resolve) => setTimeout(resolve, 60000))
-    // // retry
-    // return await getMaxNFTId(publicClient, veContractAddress, toBlock)
+    // Implement proper retry with backoff
+    console.log(`Retrying in 10 seconds...`);
+    await new Promise((resolve) => setTimeout(resolve, 10000));
+    // Reduce chunk size to handle potential RPC limitations
+    return await getMaxNFTId(publicClient, veContractAddress, chunkSize / 2n, toBlock);
   }
 }
 

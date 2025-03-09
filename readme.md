@@ -29,6 +29,10 @@ Most protocols get their data updated daily, except for those on Optimism, where
 - [Equalizer](veEqual.md)
 - [Velocimeter](veFVM.md)
 
+### Linea
+
+- [Nile](veNile.md)
+
 ### Optimism
 
 - [Velodrome](veVelo.md)
